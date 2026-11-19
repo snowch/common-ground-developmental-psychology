@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Development": "Change and continuity across life.",
+    "Plasticity": "Capacity for change under conditions.",
+    "Context": "Social and historical circumstances.",
+    "Cross-sectional study": "Compares age groups at one time.",
+    "Cohort": "People sharing a historical period.",
+    "Longitudinal study": "Follows the same people over time.",
+    "Measurement": "A defined way of recording an outcome.",
+    "Practice effect": "Change from taking a task again.",
+    "Attrition": "Loss of participants over time."
+  },
+  "2": {
+    "Prenatal development": "Development before birth.",
+    "Gestation": "The course of pregnancy.",
+    "Teratogen": "An exposure that can disrupt prenatal development.",
+    "Sensitive period": "Time of heightened responsiveness.",
+    "Dose": "Amount of exposure.",
+    "Risk factor": "Condition associated with increased likelihood.",
+    "Protective factor": "Condition that can reduce adverse risk.",
+    "Probabilistic": "Concerning likelihood rather than certainty.",
+    "Developmental pathway": "Pattern of change over time."
+  },
+  "3": {
+    "Habituation": "Reduced responding with repeated stimulation.",
+    "Dishabituation": "Renewed responding after a change.",
+    "Looking time": "Duration of visual attention.",
+    "Object permanence": "Understanding that objects continue unseen.",
+    "Task demand": "What successful performance requires.",
+    "Converging evidence": "Support from different suitable methods.",
+    "Joint attention": "Sharing attention toward something.",
+    "Contingent response": "Response related to a preceding signal.",
+    "Individual variation": "Differences among developmental paths."
+  },
+  "4": {
+    "Schema": "Organized understanding of a situation.",
+    "Assimilation": "Interpreting experience using an existing schema.",
+    "Accommodation": "Changing a schema to fit experience.",
+    "Zone of proximal development": "Gap between independent and supported performance.",
+    "Scaffolding": "Temporary support adjusted to a task.",
+    "Guided participation": "Learning through supported shared activity.",
+    "Receptive language": "Understanding communicated language.",
+    "Expressive language": "Producing communicated language.",
+    "Bilingual development": "Development involving more than one language."
+  },
+  "5": {
+    "Attachment": "A bond supporting proximity and safety.",
+    "Secure base": "A caregiver relationship supporting exploration.",
+    "Safe haven": "Comfort sought when distressed.",
+    "Attachment pattern": "Observed relationship-related organization.",
+    "Temperament": "Early differences in reactivity and regulation.",
+    "Caregiving sensitivity": "Noticing and responding appropriately to signals.",
+    "Responsiveness": "Appropriate response to another’s signals.",
+    "Continuity": "Persistence across time.",
+    "Change": "Variation in later relationship experience."
+  },
+  "6": {
+    "Microsystem": "Immediate setting and relationships.",
+    "Mesosystem": "Connections between immediate settings.",
+    "Ecological approach": "Development within interacting contexts.",
+    "Bidirectional influence": "Each participant affects the other.",
+    "Selection effect": "People enter different environments.",
+    "Confounding": "Another factor contributes to an association.",
+    "Peer norm": "Expectation within a peer group.",
+    "Socialization": "Learning shared practices and expectations.",
+    "Exosystem": "Settings affecting a child indirectly."
+  },
+  "7": {
+    "Puberty": "Biological changes toward sexual maturation.",
+    "Adolescence": "Transition involving biological and social changes.",
+    "Self-regulation": "Regulating attention, emotion and action.",
+    "Peer influence": "Effects of peers on judgments or actions.",
+    "Identity exploration": "Considering roles, values and commitments.",
+    "Autonomy": "Acting with meaningful self-direction.",
+    "Group average": "Summary across a sample.",
+    "Individual variability": "Differences within an age group.",
+    "Developmental trajectory": "Pattern of change over time."
+  },
+  "8": {
+    "Social clock": "Cultural expectations about timing.",
+    "Life transition": "Change in roles or circumstances.",
+    "Life course": "A trajectory embedded in history and society.",
+    "Role strain": "Difficulty meeting demands of a role.",
+    "Linked lives": "Interdependence of life trajectories.",
+    "Selection": "Choosing goals or activities.",
+    "Optimization": "Investing resources in a selected goal.",
+    "Compensation": "Using another method when a route is limited.",
+    "Agency": "Capacity to act within circumstances."
+  },
+  "9": {
+    "Fluid abilities": "Reasoning with relatively novel information.",
+    "Crystallized abilities": "Accumulated knowledge and skills.",
+    "Processing speed": "Speed of specified cognitive operations.",
+    "Sensory access": "Ability to receive task information.",
+    "Compensatory aid": "Tool supporting a limited route.",
+    "Within-person change": "Difference from an individual’s earlier performance.",
+    "Ageism": "Stereotyping or discrimination based on age.",
+    "Social participation": "Involvement in relationships and activities.",
+    "Heterogeneity": "Substantial variation within a group."
+  },
+  "10": {
+    "Continuity": "Persistence in a developmental pattern.",
+    "Discontinuity": "A qualitative change in a pattern.",
+    "Transactional account": "Person and environment influence each other over time.",
+    "Intervention": "Planned change intended to affect an outcome.",
+    "Transfer": "Use in a different situation.",
+    "Follow-up": "Measurement after time has passed.",
+    "Consent": "Freely given agreement to participation.",
+    "Privacy": "Control over personal information.",
+    "Proportionate inference": "Conclusion limited to the evidence."
+  }
+}

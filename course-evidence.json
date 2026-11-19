@@ -1,0 +1,192 @@
+{
+  "1": {
+    "claims": [
+      "Distinguish an age difference from evidence of developmental change and propose a better comparison."
+    ],
+    "note": "Lifespan research treats development as multidirectional and embedded in historical contexts. Average age trends summarize samples; they do not fix an individual’s trajectory.\n\nSelective samples, repeated testing and changing environments limit causal claims. The fictional café comparison illustrates those limits; it is not developmental data.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: What is lifespan development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-1-what-is-lifespan-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+        "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Explain how timing, dose and context qualify a prenatal risk claim."
+    ],
+    "note": "Prenatal risk evidence often comes from observational studies because harmful exposures cannot ethically be assigned. Confounding, exposure measurement and differences between outcomes matter.\n\nA sensitive period is specific to a system and experience. It does not mean that all development ends after an early deadline.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Stages of development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+        "url": "https://doi.org/10.17226/9824",
+        "kind": "National Academies research synthesis; open online book."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Distinguish infant task performance from an unrestricted claim about what an infant knows."
+    ],
+    "note": "Infant methods provide valuable evidence when comparison events control low-level differences and results replicate. Different measures can produce different developmental estimates.\n\nThe fictional toy event does not demonstrate a universal timetable, intelligence score or diagnosis.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Stages of development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+        "url": "https://doi.org/10.17226/9824",
+        "kind": "National Academies research synthesis; open online book."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Design support that distinguishes independent performance from performance with assistance."
+    ],
+    "note": "Developmental theories guide questions rather than establish rigid instructions for every age. Evidence on guided learning depends on how assistance and later transfer are measured.\n\nThe café task is an illustration. It does not validate a teaching method for all learners or make a developmental assessment.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Lifespan theories",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+        "url": "https://doi.org/10.17226/9824",
+        "kind": "National Academies research synthesis; open online book."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Explain attachment as a context-sensitive relationship pattern without assigning a fixed identity."
+    ],
+    "note": "Attachment evidence uses relationship-specific measures and longitudinal comparisons. Cultural practices, measurement and stress conditions affect interpretation.\n\nEarly associations with later outcomes are probabilistic. They do not show that one behavior identifies a permanent attachment style or parental fault.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Stages of development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+        "url": "https://doi.org/10.17226/9824",
+        "kind": "National Academies research synthesis; open online book."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Identify interacting contexts that could contribute to a developmental observation."
+    ],
+    "note": "Ecological models organize possible influences; drawing a map does not prove every proposed causal arrow. Observational associations need careful interpretation.\n\nCulture, resources and structural constraints qualify comparisons of family practices. One preferred family style is not a universal explanation of outcomes.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Lifespan theories",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+        "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+        "url": "https://doi.org/10.17226/9824",
+        "kind": "National Academies research synthesis; open online book."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Explain adolescent decisions using context and development without treating age as incapacity."
+    ],
+    "note": "Adolescent studies examine selected tasks, populations and social conditions. Laboratory risk-taking is not identical to every real-world decision.\n\nDevelopmental evidence can inform support while preserving individual assessment and agency. A brain-development headline cannot establish incapacity.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Stages of development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+        "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Distinguish a socially patterned transition from a universal developmental requirement."
+    ],
+    "note": "Lifespan models describe varied pathways rather than prescribe a single life timetable. Much adult-development evidence is observational and shaped by historical opportunity.\n\nAn adaptation framework does not establish that every constraint can be overcome through effort or attitude.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Stages of development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+        "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Differentiate normal variation, task-specific age trends and concerns requiring professional assessment."
+    ],
+    "note": "Ageing research distinguishes population trends from within-person trajectories and clinical conditions. Sensory access, cohort differences and selective participation complicate comparisons.\n\nA course cannot evaluate a person’s cognition. The fictional menu task provides no diagnostic evidence.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Stages of development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+        "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Build a developmental account that links time, context, evidence and proportionate support."
+    ],
+    "note": "A developmental model earns support through suitable evidence, not simply by fitting a life story after the event. Effects may vary across populations and settings.\n\nCourse completion and self-confidence are not evidence of professional competence. An unfamiliar later case provides a more useful learning check.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: What is lifespan development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-1-what-is-lifespan-development",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+        "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+        "url": "https://doi.org/10.17226/9824",
+        "kind": "National Academies research synthesis; open online book."
+      }
+    ]
+  }
+}

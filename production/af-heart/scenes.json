@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: Different ages, different questions",
+    "text": "At the café, seventeen-year-old Jo learns the booking system quickly. Seventy-year-old Pat takes longer but catches a missing safety step. Leo concludes that younger people learn better. Maya asks what the comparison actually measured.",
+    "say": "At the café, seventeen-year-old Jo learns the booking system quickly. Seventy-year-old Pat takes longer but catches a missing safety step. Leo concludes that younger people learn better. [Maya](/mˈaɪə/) asks what the comparison actually measured."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat would best improve Leo’s age claim?\n\nA. Compare prior experience and repeated task performance.\n\nB. Time Jo and Pat once more on different tasks.\n\nC. Use the fastest result as each person’s ability.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What would best improve Leo’s age claim? [pause 0.65] A. Compare prior experience and repeated task performance. [pause 0.65] B. Time Jo and Pat once more on different tasks. [pause 0.65] C. Use the fastest result as each person’s ability. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Comparable experience and repeated observations help test what changed, though other differences remain.",
+    "say": "Comparable experience and repeated observations help test what changed, though other differences remain."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "Different tasks introduce another explanation for a difference.",
+    "say": "Different tasks introduce another explanation for a difference."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "One fastest result hides errors, variability and task demands.",
+    "say": "One fastest result hides errors, variability and task demands."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: Development includes gains and constraints.",
+    "text": "Development: change and continuity across life. Plasticity: capacity for change under conditions. Context: social and historical circumstances.\n\nDevelopmental psychology studies patterns of change and continuity from before birth through later life. Gains in one skill can accompany costs in another.\n\nJo and Pat differ in experience as well as age. The café episode does not identify an age effect or either person’s general ability.",
+    "say": "Development: change and continuity across life. Plasticity: capacity for change under conditions. Context: social and historical circumstances. [pause 0.65] Developmental psychology studies patterns of change and continuity from before birth through later life. Gains in one skill can accompany costs in another. [pause 0.65] Jo and Pat differ in experience as well as age. The café episode does not identify an age effect or either person’s general ability."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: Age groups are not a time machine.",
+    "text": "Cross-sectional study: compares age groups at one time. Cohort: people sharing a historical period.\n\nA cross-sectional comparison can reveal age differences, but cohorts may differ in schooling or technology exposure. A longitudinal study can examine within-person change.\n\nLongitudinal findings can still reflect repeated testing and selective dropout. Combining designs helps distinguish age, history and measurement effects.",
+    "say": "Cross-sectional study: compares age groups at one time. Cohort: people sharing a historical period. [pause 0.65] A cross-sectional comparison can reveal age differences, but cohorts may differ in schooling or technology exposure. A longitudinal study can examine within-person change. [pause 0.65] Longitudinal findings can still reflect repeated testing and selective dropout. Combining designs helps distinguish age, history and measurement effects."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: Describe the task before the person.",
+    "text": "Measurement: a defined way of recording an outcome. Practice effect: change from taking a task again. Attrition: loss of participants over time.\n\nRecord learning accuracy, time and prior experience on comparable tasks. Follow change rather than ranking the worth of age groups.\n\nAn accessible display may help Pat immediately without changing an underlying ability. Developmental explanations need evidence about the task, the environment and the person over time.",
+    "say": "Measurement: a defined way of recording an outcome. Practice effect: change from taking a task again. Attrition: loss of participants over time. [pause 0.65] Record learning accuracy, time and prior experience on comparable tasks. Follow change rather than ranking the worth of age groups. [pause 0.65] An accessible display may help Pat immediately without changing an underlying ability. Developmental explanations need evidence about the task, the environment and the person over time."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Lifespan research treats development as multidirectional and embedded in historical contexts. Average age trends summarize samples; they do not fix an individual’s trajectory.\n\nSelective samples, repeated testing and changing environments limit causal claims. The fictional café comparison illustrates those limits; it is not developmental data.",
+    "say": "Lifespan research treats development as multidirectional and embedded in historical contexts. Average age trends summarize samples; they do not fix an individual’s trajectory. [pause 0.65] Selective samples, repeated testing and changing environments limit causal claims. The fictional café comparison illustrates those limits; it is not developmental data."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA library compares current twenty-year-olds and eighty-year-olds on a digital search task. Their schooling and computer experience differ.\n\nWhich limitation matters in this study?\n\nA. Age and historical schooling may be mixed.\n\nB. Repeated testing explains every age difference.\n\nC. The group difference proves each older person declines.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A library compares current twenty-year-olds and eighty-year-olds on a digital search task. Their schooling and computer experience differ. [pause 0.65] Which limitation matters in this study? [pause 0.65] A. Age and historical schooling may be mixed. [pause 0.65] B. Repeated testing explains every age difference. [pause 0.65] C. The group difference proves each older person declines. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Different cohorts had different opportunities; age alone is not isolated.",
+    "say": "Different cohorts had different opportunities; age alone is not isolated. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "This is cross-sectional, so repeated testing is not the primary issue.",
+    "say": "This is cross-sectional, so repeated testing is not the primary issue. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "A group average does not specify each individual trajectory.",
+    "say": "A group average does not specify each individual trajectory. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does a cohort differ from an age?\n\nWhat can longitudinal evidence add?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does a cohort differ from an age? [pause 0.65] What can longitudinal evidence add? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "A cohort shares a historical period and related experiences; age is time since birth.\n\nIt follows within-person change, while practice and dropout still need checking.",
+    "say": "A cohort shares a historical period and related experiences; age is time since birth. [pause 0.65] It follows within-person change, while practice and dropout still need checking. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Compare two non-sensitive learning tasks in your own experience. Name the outcome and two influences other than age. Do not assess another person’s abilities.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Compare two non-sensitive learning tasks in your own experience. Name the outcome and two influences other than age. Do not assess another person’s abilities. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: An early start is not a fixed script",
+    "text": "A café poster claims that one early exposure determines a child’s future. Sam worries that a relative’s pregnancy history explains every later difficulty. Maya asks whether a risk factor can establish an individual cause.",
+    "say": "A café poster claims that one early exposure determines a child’s future. Sam worries that a relative’s pregnancy history explains every later difficulty. [Maya](/mˈaɪə/) asks whether a risk factor can establish an individual cause."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nHow should the poster’s claim be revised?\n\nA. State the exposure guarantees the same outcome.\n\nB. Describe increased risk with timing and dose limits.\n\nC. Treat all prenatal associations as meaningless.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] How should the poster’s claim be revised? [pause 0.65] A. State the exposure guarantees the same outcome. [pause 0.65] B. Describe increased risk with timing and dose limits. [pause 0.65] C. Treat all prenatal associations as meaningless. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "That turns a probabilistic finding into an unsupported certainty.",
+    "say": "That turns a probabilistic finding into an unsupported certainty."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Timing, dose and outcome specify the claim without diagnosing an individual.",
+    "say": "Timing, dose and outcome specify the claim without diagnosing an individual."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Observational evidence can inform prevention while retaining limitations.",
+    "say": "Observational evidence can inform prevention while retaining limitations."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Development starts before birth.",
+    "text": "Gestation: the course of pregnancy. Teratogen: an exposure that can disrupt prenatal development.\n\nPrenatal development involves changing biological systems. Some exposures can increase the risk of harm, and effects depend partly on when development is occurring.\n\nThis does not mean an exposure guarantees an outcome. Advice about a specific pregnancy belongs with a qualified healthcare professional who can evaluate the actual exposure.",
+    "say": "Gestation: the course of pregnancy. Teratogen: an exposure that can disrupt prenatal development. [pause 0.65] Prenatal development involves changing biological systems. Some exposures can increase the risk of harm, and effects depend partly on when development is occurring. [pause 0.65] This does not mean an exposure guarantees an outcome. Advice about a specific pregnancy belongs with a qualified healthcare professional who can evaluate the actual exposure."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: Timing changes the question.",
+    "text": "Sensitive period: time of heightened responsiveness. Risk factor: condition associated with increased likelihood.\n\nA developing system can be more responsive to an exposure during particular periods. Dose, duration, nutrition, health and other exposures may also matter.\n\nA population association does not show which factor caused a particular child’s difficulty. Retrospective accounts can leave important details unmeasured.",
+    "say": "Sensitive period: time of heightened responsiveness. Risk factor: condition associated with increased likelihood. [pause 0.65] A developing system can be more responsive to an exposure during particular periods. Dose, duration, nutrition, health and other exposures may also matter. [pause 0.65] A population association does not show which factor caused a particular child’s difficulty. Retrospective accounts can leave important details unmeasured."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Support changes a developmental pathway.",
+    "text": "Protective factor: condition that can reduce adverse risk. Probabilistic: concerning likelihood rather than certainty. Developmental pathway: pattern of change over time.\n\nHealthcare access and supportive environments can influence later opportunities. Biological and social development continue to interact after birth.\n\nAvoid assigning blame from a simplified origin story. Ask what is known now and which practical supports are appropriate, without promising that support reverses every possible effect.",
+    "say": "Protective factor: condition that can reduce adverse risk. Probabilistic: concerning likelihood rather than certainty. Developmental pathway: pattern of change over time. [pause 0.65] Healthcare access and supportive environments can influence later opportunities. Biological and social development continue to interact after birth. [pause 0.65] Avoid assigning blame from a simplified origin story. Ask what is known now and which practical supports are appropriate, without promising that support reverses every possible effect."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Prenatal risk evidence often comes from observational studies because harmful exposures cannot ethically be assigned. Confounding, exposure measurement and differences between outcomes matter.\n\nA sensitive period is specific to a system and experience. It does not mean that all development ends after an early deadline.",
+    "say": "Prenatal risk evidence often comes from observational studies because harmful exposures cannot ethically be assigned. Confounding, exposure measurement and differences between outcomes matter. [pause 0.65] A sensitive period is specific to a system and experience. It does not mean that all development ends after an early deadline."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA friend is concerned about a past exposure during pregnancy after reading a general risk headline.\n\nWhat is the most appropriate response?\n\nA. Infer permanent harm from the headline.\n\nB. Dismiss the concern because development continues.\n\nC. Seek qualified advice about the actual exposure.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A friend is concerned about a past exposure during pregnancy after reading a general risk headline. [pause 0.65] What is the most appropriate response? [pause 0.65] A. Infer permanent harm from the headline. [pause 0.65] B. Dismiss the concern because development continues. [pause 0.65] C. Seek qualified advice about the actual exposure. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "A headline cannot establish this individual outcome.",
+    "say": "A headline cannot establish this individual outcome. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Continuing development does not make an exposure irrelevant.",
+    "say": "Continuing development does not make an exposure irrelevant. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Clinical advice can consider timing, amount and the person’s circumstances.",
+    "say": "Clinical advice can consider timing, amount and the person’s circumstances. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does a sensitive period need a specified system?\n\nDoes a risk factor prove an individual cause?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does a sensitive period need a specified system? [pause 0.65] Does a risk factor prove an individual cause? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "Different systems develop on different schedules and respond to different experiences.\n\nNo. Risk concerns likelihood; individual causes require more evidence.",
+    "say": "Different systems develop on different schedules and respond to different experiences. [pause 0.65] No. Risk concerns likelihood; individual causes require more evidence. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Choose a public developmental-risk headline. Identify its exposure, outcome and uncertainty without investigating anyone’s private history.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose a public developmental-risk headline. Identify its exposure, outcome and uncertainty without investigating anyone’s private history. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: Small actions, larger questions",
+    "text": "A visitor’s baby looks longer when a toy unexpectedly disappears. Leo says this proves the baby understands every rule about objects. Sam asks what looking time actually tells the researchers.",
+    "say": "A visitor’s baby looks longer when a toy unexpectedly disappears. Leo says this proves the baby understands every rule about objects. Sam asks what looking time actually tells the researchers."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat does the longer look establish most directly?\n\nA. A measured difference in attention.\n\nB. Complete adult-like object knowledge.\n\nC. The baby’s future intelligence.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What does the longer look establish most directly? [pause 0.65] A. A measured difference in attention. [pause 0.65] B. Complete adult-like object knowledge. [pause 0.65] C. The baby’s future intelligence. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "The attention difference is observed; its explanation needs controlled comparisons.",
+    "say": "The attention difference is observed; its explanation needs controlled comparisons."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "This extends beyond what the measure uniquely identifies.",
+    "say": "This extends beyond what the measure uniquely identifies."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "A single looking response does not predict a general future score.",
+    "say": "A single looking response does not predict a general future score."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: Infants provide indirect evidence.",
+    "text": "Habituation: reduced responding with repeated stimulation. Dishabituation: renewed responding after a change. Looking time: duration of visual attention.\n\nInfants cannot explain an answer verbally. Researchers therefore use responses such as looking, reaching or sucking under defined conditions.\n\nA renewed look can indicate discrimination or novelty. It does not by itself reveal a complete adult-like concept. Visual salience and familiarity are alternative explanations to test.",
+    "say": "Habituation: reduced responding with repeated stimulation. Dishabituation: renewed responding after a change. Looking time: duration of visual attention. [pause 0.65] Infants cannot explain an answer verbally. Researchers therefore use responses such as looking, reaching or sucking under defined conditions. [pause 0.65] A renewed look can indicate discrimination or novelty. It does not by itself reveal a complete adult-like concept. Visual salience and familiarity are alternative explanations to test."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Different tasks ask different questions.",
+    "text": "Object permanence: understanding that objects continue unseen. Task demand: what successful performance requires.\n\nSearching for a hidden object requires remembering a location and coordinating action. A looking task has different demands.\n\nDifferent ages of success across tasks need not mean one method is useless. Compare the specific ability each task requires and seek converging evidence before making a broad claim.",
+    "say": "Object permanence: understanding that objects continue unseen. Task demand: what successful performance requires. [pause 0.65] Searching for a hidden object requires remembering a location and coordinating action. A looking task has different demands. [pause 0.65] Different ages of success across tasks need not mean one method is useless. Compare the specific ability each task requires and seek converging evidence before making a broad claim."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: Early learning is active and situated.",
+    "text": "Joint attention: sharing attention toward something. Contingent response: response related to a preceding signal. Individual variation: differences among developmental paths.\n\nInfants learn through perception, movement and interaction with caregivers. Shared attention can support learning about objects and words.\n\nDevelopmental milestones describe useful patterns of change, with variation. A casual observation is not a developmental assessment. Persistent concerns are a reason to seek appropriate professional advice.",
+    "say": "Joint attention: sharing attention toward something. Contingent response: response related to a preceding signal. Individual variation: differences among developmental paths. [pause 0.65] Infants learn through perception, movement and interaction with caregivers. Shared attention can support learning about objects and words. [pause 0.65] Developmental milestones describe useful patterns of change, with variation. A casual observation is not a developmental assessment. Persistent concerns are a reason to seek appropriate professional advice."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Infant methods provide valuable evidence when comparison events control low-level differences and results replicate. Different measures can produce different developmental estimates.\n\nThe fictional toy event does not demonstrate a universal timetable, intelligence score or diagnosis.",
+    "say": "Infant methods provide valuable evidence when comparison events control low-level differences and results replicate. Different measures can produce different developmental estimates. [pause 0.65] The fictional toy event does not demonstrate a universal timetable, intelligence score or diagnosis."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nAn infant looks toward a hidden toy but does not reach to retrieve it in a more demanding search task.\n\nWhat should the researcher consider first?\n\nA. The child lacks all understanding of hidden objects.\n\nB. Memory and reaching demands differ between tasks.\n\nC. Looking tasks cannot supply useful evidence.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] An infant looks toward a hidden toy but does not reach to retrieve it in a more demanding search task. [pause 0.65] What should the researcher consider first? [pause 0.65] A. The child lacks all understanding of hidden objects. [pause 0.65] B. Memory and reaching demands differ between tasks. [pause 0.65] C. Looking tasks cannot supply useful evidence. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Failure on one search task does not establish a complete absence of understanding.",
+    "say": "Failure on one search task does not establish a complete absence of understanding. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Different task demands can contribute to the discrepancy and can be tested.",
+    "say": "Different task demands can contribute to the discrepancy and can be tested. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "Controlled looking comparisons can still support bounded inferences.",
+    "say": "Controlled looking comparisons can still support bounded inferences. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is looking time an indirect measure?\n\nWhy compare looking and search tasks?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is looking time an indirect measure? [pause 0.65] Why compare looking and search tasks? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "It records attention, from which a particular psychological process is inferred.\n\nThey involve different demands; convergence strengthens a specific interpretation.",
+    "say": "It records attention, from which a particular psychological process is inferred. [pause 0.65] They involve different demands; convergence strengthens a specific interpretation. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Read a public infant-study summary. Separate the measured action from the claimed mental ability. Do not test or record a child.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Read a public infant-study summary. Separate the measured action from the claimed mental ability. Do not test or record a child. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Learning with a little help",
+    "text": "Jo helps a younger visitor sort donated buttons. The visitor succeeds after Jo points to one example, then struggles when the rule changes. Leo calls the first success proof of independent mastery.",
+    "say": "Jo helps a younger visitor sort donated buttons. The visitor succeeds after Jo points to one example, then struggles when the rule changes. Leo calls the first success proof of independent mastery."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat would show independent learning more clearly?\n\nA. Count the prompted success as mastery.\n\nB. Give the same prompt more loudly.\n\nC. Try a new sorting case after reducing help.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What would show independent learning more clearly? [pause 0.65] A. Count the prompted success as mastery. [pause 0.65] B. Give the same prompt more loudly. [pause 0.65] C. Try a new sorting case after reducing help. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Prompted success shows performance with support.",
+    "say": "Prompted success shows performance with support."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "A louder cue does not test independence or clarify the rule.",
+    "say": "A louder cue does not test independence or clarify the rule."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "A new unprompted case tests whether the rule can now be used independently.",
+    "say": "A new unprompted case tests whether the rule can now be used independently."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Thinking changes through activity.",
+    "text": "Schema: organized understanding of a situation. Assimilation: interpreting experience using an existing schema. Accommodation: changing a schema to fit experience.\n\nPiaget described children as actively constructing understanding. New experiences can fit an existing way of thinking or require revising it.\n\nHis broad stages remain historically influential, but performance also varies with task wording, experience and support. Do not use a stage label as a complete account of a particular child.",
+    "say": "Schema: organized understanding of a situation. Assimilation: interpreting experience using an existing schema. Accommodation: changing a schema to fit experience. [pause 0.65] Piaget described children as actively constructing understanding. New experiences can fit an existing way of thinking or require revising it. [pause 0.65] His broad stages remain historically influential, but performance also varies with task wording, experience and support. Do not use a stage label as a complete account of a particular child."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: Help can reveal a learning opportunity.",
+    "text": "Zone of proximal development: gap between independent and supported performance. Scaffolding: temporary support adjusted to a task. Guided participation: learning through supported shared activity.\n\nVygotsky emphasized learning in social and cultural activity. Success with guidance identifies what is possible with that support.\n\nJo can model one comparison, invite the visitor to explain, then reduce help. Independent performance needs a later attempt without the prompt and a suitable new example.",
+    "say": "Zone of proximal development: gap between independent and supported performance. Scaffolding: temporary support adjusted to a task. Guided participation: learning through supported shared activity. [pause 0.65] Vygotsky emphasized learning in social and cultural activity. Success with guidance identifies what is possible with that support. [pause 0.65] Jo can model one comparison, invite the visitor to explain, then reduce help. Independent performance needs a later attempt without the prompt and a suitable new example."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Language grows in interaction.",
+    "text": "Receptive language: understanding communicated language. Expressive language: producing communicated language. Bilingual development: development involving more than one language.\n\nUnderstanding and producing words are different demands. Vocabulary in each language depends on exposure and context; a single-language count can miss knowledge expressed elsewhere.\n\nInvite clear, responsive communication rather than judging ability from one conversation. Concerns about development require culturally and linguistically appropriate assessment.",
+    "say": "Receptive language: understanding communicated language. Expressive language: producing communicated language. Bilingual development: development involving more than one language. [pause 0.65] Understanding and producing words are different demands. Vocabulary in each language depends on exposure and context; a single-language count can miss knowledge expressed elsewhere. [pause 0.65] Invite clear, responsive communication rather than judging ability from one conversation. Concerns about development require culturally and linguistically appropriate assessment."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Developmental theories guide questions rather than establish rigid instructions for every age. Evidence on guided learning depends on how assistance and later transfer are measured.\n\nThe café task is an illustration. It does not validate a teaching method for all learners or make a developmental assessment.",
+    "say": "Developmental theories guide questions rather than establish rigid instructions for every age. Evidence on guided learning depends on how assistance and later transfer are measured. [pause 0.65] The café task is an illustration. It does not validate a teaching method for all learners or make a developmental assessment."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA bilingual child uses few English words during a brief workshop but communicates fluently with a family member in another language.\n\nWhich response best fits the evidence?\n\nA. Consider language exposure and knowledge across settings.\n\nB. Conclude the child has limited total vocabulary.\n\nC. Stop using the other language immediately.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A bilingual child uses few English words during a brief workshop but communicates fluently with a family member in another language. [pause 0.65] Which response best fits the evidence? [pause 0.65] A. Consider language exposure and knowledge across settings. [pause 0.65] B. Conclude the child has limited total vocabulary. [pause 0.65] C. Stop using the other language immediately. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "A single-language sample is incomplete; context and suitable assessment matter.",
+    "say": "A single-language sample is incomplete; context and suitable assessment matter. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "That conclusion exceeds this brief observation.",
+    "say": "That conclusion exceeds this brief observation. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "The observation does not justify that recommendation.",
+    "say": "The observation does not justify that recommendation. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does supported success differ from independent performance?\n\nWhy can a single-language sample be incomplete?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does supported success differ from independent performance? [pause 0.65] Why can a single-language sample be incomplete? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "The assistance contributes to success; independence needs an appropriate attempt without it.\n\nKnowledge and exposure can be distributed across languages and contexts.",
+    "say": "The assistance contributes to success; independence needs an appropriate attempt without it. [pause 0.65] Knowledge and exposure can be distributed across languages and contexts. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "For your own learning, choose a task you can do with a guide. Reduce one prompt, then try a new example and record what still needs support.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "For your own learning, choose a task you can do with a guide. Reduce one prompt, then try a new example and record what still needs support. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: Security is a relationship question",
+    "text": "A young visitor stays close to a caregiver in the noisy café, then explores once the caregiver joins the table. Leo wants to label the child’s attachment from that brief visit.",
+    "say": "A young visitor stays close to a caregiver in the noisy café, then explores once the caregiver joins the table. Leo wants to label the child’s attachment from that brief visit."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat can Leo reasonably conclude?\n\nA. The child has an insecure identity.\n\nB. Proximity changed as the situation changed.\n\nC. The caregiver caused a permanent problem.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What can Leo reasonably conclude? [pause 0.65] A. The child has an insecure identity. [pause 0.65] B. Proximity changed as the situation changed. [pause 0.65] C. The caregiver caused a permanent problem. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "One episode does not support a fixed classification.",
+    "say": "One episode does not support a fixed classification."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "This describes the observation while leaving its explanation open.",
+    "say": "This describes the observation while leaving its explanation open."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Neither causation nor permanence follows from this visit.",
+    "say": "Neither causation nor permanence follows from this visit."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: Closeness can support exploration.",
+    "text": "Secure base: a caregiver relationship supporting exploration. Safe haven: comfort sought when distressed.\n\nAttachment theory concerns how relationships support safety and exploration, particularly under stress. Staying close in an unfamiliar room can have several explanations.\n\nA short café visit cannot classify a child or caregiver. Researchers use structured procedures and consider the relationship and context being measured.",
+    "say": "Secure base: a caregiver relationship supporting exploration. Safe haven: comfort sought when distressed. [pause 0.65] Attachment theory concerns how relationships support safety and exploration, particularly under stress. Staying close in an unfamiliar room can have several explanations. [pause 0.65] A short café visit cannot classify a child or caregiver. Researchers use structured procedures and consider the relationship and context being measured."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: A pattern is not an identity.",
+    "text": "Attachment pattern: observed relationship-related organization. Caregiving sensitivity: noticing and responding appropriately to signals.\n\nTemperament and attachment address different questions. A child may react strongly to noise without having an insecure relationship.\n\nAttachment classifications summarize behavior in specified circumstances. They are not moral ratings, permanent personality types or diagnoses from a single behavior.",
+    "say": "Attachment pattern: observed relationship-related organization. Caregiving sensitivity: noticing and responding appropriately to signals. [pause 0.65] Temperament and attachment address different questions. A child may react strongly to noise without having an insecure relationship. [pause 0.65] Attachment classifications summarize behavior in specified circumstances. They are not moral ratings, permanent personality types or diagnoses from a single behavior."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Relationships develop in wider conditions.",
+    "text": "Responsiveness: appropriate response to another’s signals. Continuity: persistence across time. Change: variation in later relationship experience.\n\nResponsive care matters, but caregiving occurs within work, health, housing and cultural conditions. Children can form attachments with more than one caregiver.\n\nEarly patterns can be associated with later outcomes without determining them. Later relationships and changing circumstances also contribute to development.",
+    "say": "Responsiveness: appropriate response to another’s signals. Continuity: persistence across time. Change: variation in later relationship experience. [pause 0.65] Responsive care matters, but caregiving occurs within work, health, housing and cultural conditions. Children can form attachments with more than one caregiver. [pause 0.65] Early patterns can be associated with later outcomes without determining them. Later relationships and changing circumstances also contribute to development."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Attachment evidence uses relationship-specific measures and longitudinal comparisons. Cultural practices, measurement and stress conditions affect interpretation.\n\nEarly associations with later outcomes are probabilistic. They do not show that one behavior identifies a permanent attachment style or parental fault.",
+    "say": "Attachment evidence uses relationship-specific measures and longitudinal comparisons. Cultural practices, measurement and stress conditions affect interpretation. [pause 0.65] Early associations with later outcomes are probabilistic. They do not show that one behavior identifies a permanent attachment style or parental fault."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA child startles easily but seeks comfort from a familiar caregiver and later resumes play.\n\nWhich interpretation is best supported?\n\nA. High reactivity and a supportive relationship can coexist.\n\nB. Strong reactions rule out a secure relationship.\n\nC. Comfort proves every later relationship will be secure.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A child startles easily but seeks comfort from a familiar caregiver and later resumes play. [pause 0.65] Which interpretation is best supported? [pause 0.65] A. High reactivity and a supportive relationship can coexist. [pause 0.65] B. Strong reactions rule out a secure relationship. [pause 0.65] C. Comfort proves every later relationship will be secure. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "Temperament and relationship security are distinct questions.",
+    "say": "Temperament and relationship security are distinct questions. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Reactivity does not uniquely identify attachment security.",
+    "say": "Reactivity does not uniquely identify attachment security. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "This overgeneralizes one relationship and occasion.",
+    "say": "This overgeneralizes one relationship and occasion. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat is the secure-base idea?\n\nWhy avoid a fixed attachment identity?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What is the secure-base idea? [pause 0.65] Why avoid a fixed attachment identity? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "A supportive relationship can provide safety from which a child explores.\n\nPatterns concern relationships and conditions, can change, and need suitable assessment.",
+    "say": "A supportive relationship can provide safety from which a child explores. [pause 0.65] Patterns concern relationships and conditions, can change, and need suitable assessment. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "Use a fictional film scene to distinguish a description of support-seeking from an attachment label. Do not classify real children or partners.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional film scene to distinguish a description of support-seeking from an attachment label. Do not classify real children or partners. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: The rules around the child",
+    "text": "Jo notices that a younger visitor is quiet at the café but animated at a neighborhood club. Leo blames parenting. Sam discovers that the café instructions are unfamiliar and the club has a trusted friend.",
+    "say": "Jo notices that a younger visitor is quiet at the café but animated at a neighborhood club. Leo blames parenting. Sam discovers that the café instructions are unfamiliar and the club has a trusted friend."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should Sam examine first?\n\nA. Which contextual conditions differ across settings.\n\nB. Which parenting label fits the family.\n\nC. Whether quietness proves low social ability.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should Sam examine first? [pause 0.65] A. Which contextual conditions differ across settings. [pause 0.65] B. Which parenting label fits the family. [pause 0.65] C. Whether quietness proves low social ability. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "The contrasting settings offer testable contextual explanations.",
+    "say": "The contrasting settings offer testable contextual explanations."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "A label cannot establish the cause of the observed difference.",
+    "say": "A label cannot establish the cause of the observed difference."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "One setting does not define a general social capacity.",
+    "say": "One setting does not define a general social capacity."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: Development has connected settings.",
+    "text": "Microsystem: immediate setting and relationships. Mesosystem: connections between immediate settings.\n\nAn ecological approach examines the child in family, school, peer and community settings. Links between those settings can influence experience.\n\nA quiet response at the café may reflect unfamiliar language, relationships or task expectations. A parenting explanation is one possible account, not a finding established by the observation.",
+    "say": "Microsystem: immediate setting and relationships. Mesosystem: connections between immediate settings. [pause 0.65] An ecological approach examines the child in family, school, peer and community settings. Links between those settings can influence experience. [pause 0.65] A quiet response at the café may reflect unfamiliar language, relationships or task expectations. A parenting explanation is one possible account, not a finding established by the observation."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Influences can run both ways.",
+    "text": "Bidirectional influence: each participant affects the other. Selection effect: people enter different environments. Confounding: another factor contributes to an association.\n\nChildren affect adult responses while adults shape children’s opportunities. Family stress, resources and individual characteristics may influence both.\n\nA correlation between a parenting measure and behavior does not isolate a one-way cause. Stronger designs examine alternative explanations and change over time.",
+    "say": "Bidirectional influence: each participant affects the other. Selection effect: people enter different environments. Confounding: another factor contributes to an association. [pause 0.65] Children affect adult responses while adults shape children’s opportunities. Family stress, resources and individual characteristics may influence both. [pause 0.65] A correlation between a parenting measure and behavior does not isolate a one-way cause. Stronger designs examine alternative explanations and change over time."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Peers can support different behaviors.",
+    "text": "Peer norm: expectation within a peer group. Socialization: learning shared practices and expectations. Exosystem: settings affecting a child indirectly.\n\nPeers can encourage participation, practice and belonging, as well as pressure toward risky actions. The effect depends on the group and situation.\n\nAn adult’s work schedule may change a child’s available support indirectly. Examine specific conditions before turning a contextual pattern into a judgment about a family.",
+    "say": "Peer norm: expectation within a peer group. Socialization: learning shared practices and expectations. Exosystem: settings affecting a child indirectly. [pause 0.65] Peers can encourage participation, practice and belonging, as well as pressure toward risky actions. The effect depends on the group and situation. [pause 0.65] An adult’s work schedule may change a child’s available support indirectly. Examine specific conditions before turning a contextual pattern into a judgment about a family."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Ecological models organize possible influences; drawing a map does not prove every proposed causal arrow. Observational associations need careful interpretation.\n\nCulture, resources and structural constraints qualify comparisons of family practices. One preferred family style is not a universal explanation of outcomes.",
+    "say": "Ecological models organize possible influences; drawing a map does not prove every proposed causal arrow. Observational associations need careful interpretation. [pause 0.65] Culture, resources and structural constraints qualify comparisons of family practices. One preferred family style is not a universal explanation of outcomes."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA study finds that children whose caregivers attend school events have higher average attainment, but work schedules and resources were not measured.\n\nWhat is a plausible alternative explanation?\n\nA. The association proves parental attendance causes attainment.\n\nB. Resources or schedules influence both attendance and attainment.\n\nC. Attendance cannot ever matter.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A study finds that children whose caregivers attend school events have higher average attainment, but work schedules and resources were not measured. [pause 0.65] What is a plausible alternative explanation? [pause 0.65] A. The association proves parental attendance causes attainment. [pause 0.65] B. Resources or schedules influence both attendance and attainment. [pause 0.65] C. Attendance cannot ever matter. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "The observation leaves shared causes unmeasured.",
+    "say": "The observation leaves shared causes unmeasured. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "Shared constraints can generate an association and should be examined.",
+    "say": "Shared constraints can generate an association and should be examined. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "A causal limitation does not prove that attendance has no effect.",
+    "say": "A causal limitation does not prove that attendance has no effect. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat does bidirectional influence mean?\n\nHow can a work schedule influence development?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What does bidirectional influence mean? [pause 0.65] How can a work schedule influence development? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "Each person’s behavior can affect the other’s response over time.\n\nIt can change available time, stress or access to support without involving the child directly.",
+    "say": "Each person’s behavior can affect the other’s response over time. [pause 0.65] It can change available time, stress or access to support without involving the child directly. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Map the contexts in a fictional learner’s participation problem. Include one indirect influence and one practical environmental change.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Map the contexts in a fictional learner’s participation problem. Include one indirect influence and one practical environmental change. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: Adolescence is more than a warning label",
+    "text": "Jo checks a repair carefully when working alone but rushes during a lively public demonstration. Leo says teenagers cannot make sound decisions. Maya points to Jo’s careful work earlier that day.",
+    "say": "Jo checks a repair carefully when working alone but rushes during a lively public demonstration. Leo says teenagers cannot make sound decisions. [Maya](/mˈaɪə/) points to Jo’s careful work earlier that day."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich explanation fits Jo’s contrasting performance best?\n\nA. Adolescents cannot reason carefully.\n\nB. The audience and task conditions may matter.\n\nC. One careful repair proves context has no effect.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which explanation fits Jo’s contrasting performance best? [pause 0.65] A. Adolescents cannot reason carefully. [pause 0.65] B. The audience and task conditions may matter. [pause 0.65] C. One careful repair proves context has no effect. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Jo’s earlier work already contradicts that unrestricted claim.",
+    "say": "Jo’s earlier work already contradicts that unrestricted claim."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "The comparison suggests conditions worth testing without fixing the cause.",
+    "say": "The comparison suggests conditions worth testing without fixing the cause."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "One success cannot establish immunity to contextual influence.",
+    "say": "One success cannot establish immunity to contextual influence."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Development is uneven and contextual.",
+    "text": "Self-regulation: regulating attention, emotion and action.\n\nPuberty and adolescence are related but not identical. Physical development, opportunities and social expectations can change on different schedules.\n\nAdolescents often show sophisticated reasoning. Decision quality varies with experience, arousal, incentives and social context. Average developmental patterns do not determine an individual’s competence.",
+    "say": "Self-regulation: regulating attention, emotion and action. [pause 0.65] Puberty and adolescence are related but not identical. Physical development, opportunities and social expectations can change on different schedules. [pause 0.65] Adolescents often show sophisticated reasoning. Decision quality varies with experience, arousal, incentives and social context. Average developmental patterns do not determine an individual’s competence."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Peers and opportunities shape decisions.",
+    "text": "Peer influence: effects of peers on judgments or actions.\n\nPeers can encourage care and competence as well as risk. Identity exploration and growing autonomy can support learning and responsibility.\n\nOffer real choices within clear safety boundaries. A supervised practice opportunity can teach a skill more directly than an age stereotype or a vague demand to be sensible.",
+    "say": "Peer influence: effects of peers on judgments or actions. [pause 0.65] Peers can encourage care and competence as well as risk. Identity exploration and growing autonomy can support learning and responsibility. [pause 0.65] Offer real choices within clear safety boundaries. A supervised practice opportunity can teach a skill more directly than an age stereotype or a vague demand to be sensible."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: Brain images do not set a universal birthday.",
+    "text": "Group average: summary across a sample. Individual variability: differences within an age group. Developmental trajectory: pattern of change over time.\n\nBrain development continues across adolescence and adulthood, but different measures follow different trajectories. There is no single measurement that marks every person as fully developed at a particular birthday.\n\nA group brain finding does not determine legal or practical competence by itself. Specify the actual decision and its demands.",
+    "say": "Group average: summary across a sample. Individual variability: differences within an age group. Developmental trajectory: pattern of change over time. [pause 0.65] Brain development continues across adolescence and adulthood, but different measures follow different trajectories. There is no single measurement that marks every person as fully developed at a particular birthday. [pause 0.65] A group brain finding does not determine legal or practical competence by itself. Specify the actual decision and its demands."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Adolescent studies examine selected tasks, populations and social conditions. Laboratory risk-taking is not identical to every real-world decision.\n\nDevelopmental evidence can inform support while preserving individual assessment and agency. A brain-development headline cannot establish incapacity.",
+    "say": "Adolescent studies examine selected tasks, populations and social conditions. Laboratory risk-taking is not identical to every real-world decision. [pause 0.65] Developmental evidence can inform support while preserving individual assessment and agency. A brain-development headline cannot establish incapacity."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA youth workshop includes an unfamiliar procedure with real safety requirements.\n\nWhat should the team do?\n\nA. Exclude every adolescent from meaningful decisions.\n\nB. Assume age guarantees equivalent experience.\n\nC. Provide preparation, clear boundaries and appropriate supervision.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A youth workshop includes an unfamiliar procedure with real safety requirements. [pause 0.65] What should the team do? [pause 0.65] A. Exclude every adolescent from meaningful decisions. [pause 0.65] B. Assume age guarantees equivalent experience. [pause 0.65] C. Provide preparation, clear boundaries and appropriate supervision. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "A blanket exclusion ignores task, experience and support.",
+    "say": "A blanket exclusion ignores task, experience and support. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Experience and competence vary within every age group.",
+    "say": "Experience and competence vary within every age group. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "The response addresses the actual task and developmental opportunities.",
+    "say": "The response addresses the actual task and developmental opportunities. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy are puberty and adolescence different concepts?\n\nWhy is a group brain finding insufficient for individual competence?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why are puberty and adolescence different concepts? [pause 0.65] Why is a group brain finding insufficient for individual competence? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "Puberty concerns biological maturation; adolescence includes broader social and psychological transitions.\n\nIndividuals and task demands vary, and the measure does not uniquely establish decision capacity.",
+    "say": "Puberty concerns biological maturation; adolescence includes broader social and psychological transitions. [pause 0.65] Individuals and task demands vary, and the measure does not uniquely establish decision capacity. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Review a public headline about adolescents. Identify its measure and whether the conclusion exceeds the sample or task.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Review a public headline about adolescents. Identify its measure and whether the conclusion exceeds the sample or task. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Adult lives take different routes",
+    "text": "Sam returns to study while Pat starts volunteering after leaving paid work. Leo describes both as behind schedule. Maya asks whose timetable he is using.",
+    "say": "Sam returns to study while Pat starts volunteering after leaving paid work. Leo describes both as behind schedule. [Maya](/mˈaɪə/) asks whose timetable he is using."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is wrong with Leo’s schedule claim?\n\nA. It treats a local expectation as a universal requirement.\n\nB. Adults cannot change roles.\n\nC. A later transition necessarily improves wellbeing.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is wrong with Leo’s schedule claim? [pause 0.65] A. It treats a local expectation as a universal requirement. [pause 0.65] B. Adults cannot change roles. [pause 0.65] C. A later transition necessarily improves wellbeing. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Cultural timing norms do not establish individual failure.",
+    "say": "Cultural timing norms do not establish individual failure."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Adult lives include meaningful change and continuity.",
+    "say": "Adult lives include meaningful change and continuity."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Timing alone does not predict the quality or consequences of a transition.",
+    "say": "Timing alone does not predict the quality or consequences of a transition."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: A life path is not one universal sequence.",
+    "text": "Social clock: cultural expectations about timing. Life transition: change in roles or circumstances. Life course: a trajectory embedded in history and society.\n\nEducation, work, partnership and caring roles occur in different orders and at different times. Norms about timing depend on social conditions and culture.\n\nA transition can offer opportunities and strain. Being unusual relative to a local expectation is not evidence of developmental failure.",
+    "say": "Social clock: cultural expectations about timing. Life transition: change in roles or circumstances. Life course: a trajectory embedded in history and society. [pause 0.65] Education, work, partnership and caring roles occur in different orders and at different times. Norms about timing depend on social conditions and culture. [pause 0.65] A transition can offer opportunities and strain. Being unusual relative to a local expectation is not evidence of developmental failure."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Roles interact with resources.",
+    "text": "Role strain: difficulty meeting demands of a role. Linked lives: interdependence of life trajectories. Selection: choosing goals or activities.\n\nA return to study depends on money, care responsibilities, health and opportunity as well as motivation. Changes in one person’s work can affect the whole household.\n\nAsk which demands changed and which resources are available. An individual preference does not explain every constraint or outcome.",
+    "say": "Role strain: difficulty meeting demands of a role. Linked lives: interdependence of life trajectories. Selection: choosing goals or activities. [pause 0.65] A return to study depends on money, care responsibilities, health and opportunity as well as motivation. Changes in one person’s work can affect the whole household. [pause 0.65] Ask which demands changed and which resources are available. An individual preference does not explain every constraint or outcome."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Adaptation can change the goal or the route.",
+    "text": "Optimization: investing resources in a selected goal. Compensation: using another method when a route is limited. Agency: capacity to act within circumstances.\n\nLifespan accounts distinguish selecting goals, optimizing resources and compensating for constraints. Pat may choose fewer projects, practise a new skill and use an accessible tool.\n\nThese are descriptive strategies, not a promise that individuals can overcome every structural barrier. Support and access remain part of the explanation.",
+    "say": "Optimization: investing resources in a selected goal. Compensation: using another method when a route is limited. Agency: capacity to act within circumstances. [pause 0.65] Lifespan accounts distinguish selecting goals, optimizing resources and compensating for constraints. Pat may choose fewer projects, practise a new skill and use an accessible tool. [pause 0.65] These are descriptive strategies, not a promise that individuals can overcome every structural barrier. Support and access remain part of the explanation."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Lifespan models describe varied pathways rather than prescribe a single life timetable. Much adult-development evidence is observational and shaped by historical opportunity.\n\nAn adaptation framework does not establish that every constraint can be overcome through effort or attitude.",
+    "say": "Lifespan models describe varied pathways rather than prescribe a single life timetable. Much adult-development evidence is observational and shaped by historical opportunity. [pause 0.65] An adaptation framework does not establish that every constraint can be overcome through effort or attitude."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer wants to keep cataloguing books but finds small print difficult.\n\nWhich example best illustrates compensation?\n\nA. Practising the same task for longer.\n\nB. Using an accessible tool to keep doing a chosen task.\n\nC. Selecting an unrelated new goal.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer wants to keep cataloguing books but finds small print difficult. [pause 0.65] Which example best illustrates compensation? [pause 0.65] A. Practising the same task for longer. [pause 0.65] B. Using an accessible tool to keep doing a chosen task. [pause 0.65] C. Selecting an unrelated new goal. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Practice is closer to optimizing an existing resource.",
+    "say": "Practice is closer to optimizing an existing resource. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Another method can support a valued activity when the original route is limited.",
+    "say": "Another method can support a valued activity when the original route is limited. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Choosing a goal illustrates selection rather than compensation.",
+    "say": "Choosing a goal illustrates selection rather than compensation. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat makes a social clock cultural?\n\nHow do optimization and compensation differ?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What makes a social clock cultural? [pause 0.65] How do optimization and compensation differ? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "It reflects expectations that vary across societies and historical periods.\n\nOptimization invests in a route; compensation uses another route when the original is constrained.",
+    "say": "It reflects expectations that vary across societies and historical periods. [pause 0.65] Optimization invests in a route; compensation uses another route when the original is constrained. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "Choose a change in your own low-stakes routine. Identify one goal, one resource and one environmental constraint without ranking your life against a timetable.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose a change in your own low-stakes routine. Identify one goal, one resource and one environmental constraint without ranking your life against a timetable. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: Ageing includes different kinds of change",
+    "text": "Pat recalls repair principles accurately but needs longer to learn a new menu. A visitor treats this as proof of dementia. Pat asks for a larger display and a written sequence.",
+    "say": "Pat recalls repair principles accurately but needs longer to learn a new menu. A visitor treats this as proof of dementia. Pat asks for a larger display and a written sequence."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat does Pat’s menu difficulty show?\n\nA. Dementia is established.\n\nB. All cognitive skills decline together.\n\nC. A specific task is difficult under these conditions.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What does Pat’s menu difficulty show? [pause 0.65] A. Dementia is established. [pause 0.65] B. All cognitive skills decline together. [pause 0.65] C. A specific task is difficult under these conditions. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "A diagnosis requires appropriate clinical assessment.",
+    "say": "A diagnosis requires appropriate clinical assessment."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "Knowledge and novel task demands can differ.",
+    "say": "Knowledge and novel task demands can differ."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "This describes the observation without extending beyond it.",
+    "say": "This describes the observation without extending beyond it."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Abilities do not change as one block.",
+    "text": "Fluid abilities: reasoning with relatively novel information. Crystallized abilities: accumulated knowledge and skills. Processing speed: speed of specified cognitive operations.\n\nSome average cognitive measures change earlier or more strongly than others. Accumulated knowledge can remain useful while speed on unfamiliar tasks changes.\n\nEducation, health, sensory access and experience influence performance. A broad age trend cannot diagnose Pat or predict every skill.",
+    "say": "Fluid abilities: reasoning with relatively novel information. Crystallized abilities: accumulated knowledge and skills. Processing speed: speed of specified cognitive operations. [pause 0.65] Some average cognitive measures change earlier or more strongly than others. Accumulated knowledge can remain useful while speed on unfamiliar tasks changes. [pause 0.65] Education, health, sensory access and experience influence performance. A broad age trend cannot diagnose Pat or predict every skill."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: Access can change performance.",
+    "text": "Sensory access: ability to receive task information. Compensatory aid: tool supporting a limited route. Within-person change: difference from an individual’s earlier performance.\n\nSmall print, hearing difficulty and unfamiliar controls can raise task demands. An accessible display and written sequence may improve performance immediately.\n\nPersistent or concerning changes in memory or daily functioning deserve qualified assessment. Ordinary mistakes alone do not establish a neurocognitive disorder.",
+    "say": "Sensory access: ability to receive task information. Compensatory aid: tool supporting a limited route. Within-person change: difference from an individual’s earlier performance. [pause 0.65] Small print, hearing difficulty and unfamiliar controls can raise task demands. An accessible display and written sequence may improve performance immediately. [pause 0.65] Persistent or concerning changes in memory or daily functioning deserve qualified assessment. Ordinary mistakes alone do not establish a neurocognitive disorder."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Wellbeing has social conditions.",
+    "text": "Ageism: stereotyping or discrimination based on age. Social participation: involvement in relationships and activities. Heterogeneity: substantial variation within a group.\n\nLater life includes wide variation in health, resources, relationships and preferences. Exclusion can remove opportunities to practise and contribute.\n\nInvite Pat to choose useful support rather than assuming either inability or unlimited resilience. A respectful response combines agency with attention to actual needs.",
+    "say": "Ageism: stereotyping or discrimination based on age. Social participation: involvement in relationships and activities. Heterogeneity: substantial variation within a group. [pause 0.65] Later life includes wide variation in health, resources, relationships and preferences. Exclusion can remove opportunities to practise and contribute. [pause 0.65] Invite Pat to choose useful support rather than assuming either inability or unlimited resilience. A respectful response combines agency with attention to actual needs."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Ageing research distinguishes population trends from within-person trajectories and clinical conditions. Sensory access, cohort differences and selective participation complicate comparisons.\n\nA course cannot evaluate a person’s cognition. The fictional menu task provides no diagnostic evidence.",
+    "say": "Ageing research distinguishes population trends from within-person trajectories and clinical conditions. Sensory access, cohort differences and selective participation complicate comparisons. [pause 0.65] A course cannot evaluate a person’s cognition. The fictional menu task provides no diagnostic evidence."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person reports a persistent new decline affecting ordinary daily activities, beyond a single unfamiliar task.\n\nWhich response is appropriate?\n\nA. Seek qualified assessment while supporting daily needs.\n\nB. Explain every change as normal ageing.\n\nC. Diagnose a disorder from the course glossary.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person reports a persistent new decline affecting ordinary daily activities, beyond a single unfamiliar task. [pause 0.65] Which response is appropriate? [pause 0.65] A. Seek qualified assessment while supporting daily needs. [pause 0.65] B. Explain every change as normal ageing. [pause 0.65] C. Diagnose a disorder from the course glossary. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "A persistent change affecting daily functioning warrants an appropriate professional review.",
+    "say": "A persistent change affecting daily functioning warrants an appropriate professional review. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "That could dismiss a clinically important change.",
+    "say": "That could dismiss a clinically important change. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "A definition is not an individual assessment.",
+    "say": "A definition is not an individual assessment. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy distinguish fluid and crystallized abilities?\n\nWhat makes a response ageist?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why distinguish fluid and crystallized abilities? [pause 0.65] What makes a response ageist? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "They describe different cognitive demands with potentially different age patterns.\n\nIt imposes a stereotype or discriminatory treatment based on age rather than the person’s situation.",
+    "say": "They describe different cognitive demands with potentially different age patterns. [pause 0.65] It imposes a stereotype or discriminatory treatment based on age rather than the person’s situation. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Inspect a public interface for avoidable visual or memory demands. Suggest an accessibility change without using an age stereotype.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Inspect a public interface for avoidable visual or memory demands. Suggest an accessibility change without using an age stereotype. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: A developmental explanation should open options",
+    "text": "The café plans workshops for families, adolescents and older adults. Leo proposes one age-based teaching rule. Maya asks the group to use what they have learned about variation, support and evidence.",
+    "say": "The café plans workshops for families, adolescents and older adults. Leo proposes one age-based teaching rule. [Maya](/mˈaɪə/) asks the group to use what they have learned about variation, support and evidence."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich workshop plan best follows the course?\n\nA. Match support to task demands and check later independent use.\n\nB. Assign one fixed method to each age group.\n\nC. Use immediate enjoyment as proof of learning.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which workshop plan best follows the course? [pause 0.65] A. Match support to task demands and check later independent use. [pause 0.65] B. Assign one fixed method to each age group. [pause 0.65] C. Use immediate enjoyment as proof of learning. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "This specifies a relevant intervention and a meaningful outcome.",
+    "say": "This specifies a relevant intervention and a meaningful outcome."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "Within-group variation and context make the blanket rule inadequate.",
+    "say": "Within-group variation and context make the blanket rule inadequate."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Enjoyment can matter without establishing learning or transfer.",
+    "say": "Enjoyment can matter without establishing learning or transfer."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: Connect time with context.",
+    "text": "Continuity: persistence in a developmental pattern. Discontinuity: a qualitative change in a pattern. Transactional account: person and environment influence each other over time.\n\nA developmental explanation asks what changed, for whom, in which setting and over what period. Stable patterns can coexist with change in particular skills.\n\nThe same workshop outcome can reflect prior experience, access, relationships and instruction. Explain the proposed mechanism instead of substituting an age label.",
+    "say": "Continuity: persistence in a developmental pattern. Discontinuity: a qualitative change in a pattern. Transactional account: person and environment influence each other over time. [pause 0.65] A developmental explanation asks what changed, for whom, in which setting and over what period. Stable patterns can coexist with change in particular skills. [pause 0.65] The same workshop outcome can reflect prior experience, access, relationships and instruction. Explain the proposed mechanism instead of substituting an age label."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: Evaluate support against an outcome.",
+    "text": "Intervention: planned change intended to affect an outcome. Transfer: use in a different situation. Follow-up: measurement after time has passed.\n\nChoose a support that addresses a specific demand, such as a clear example or accessible instructions. Define the intended outcome before judging success.\n\nCompare comparable conditions, check an unfamiliar example and revisit later. Immediate participation is useful evidence, but it does not establish durable independent learning.",
+    "say": "Intervention: planned change intended to affect an outcome. Transfer: use in a different situation. Follow-up: measurement after time has passed. [pause 0.65] Choose a support that addresses a specific demand, such as a clear example or accessible instructions. Define the intended outcome before judging success. [pause 0.65] Compare comparable conditions, check an unfamiliar example and revisit later. Immediate participation is useful evidence, but it does not establish durable independent learning."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Use knowledge without claiming authority over people.",
+    "text": "Consent: freely given agreement to participation. Privacy: control over personal information. Proportionate inference: conclusion limited to the evidence.\n\nDevelopmental ideas can make instructions more accessible and interpretations more careful. They do not authorize informal diagnosis, surveillance or experiments on children.\n\nUse fictional cases or your own low-stakes tasks for practice. For genuine developmental or health concerns, seek relevant professional advice rather than assigning a label.",
+    "say": "Consent: freely given agreement to participation. Privacy: control over personal information. Proportionate inference: conclusion limited to the evidence. [pause 0.65] Developmental ideas can make instructions more accessible and interpretations more careful. They do not authorize informal diagnosis, surveillance or experiments on children. [pause 0.65] Use fictional cases or your own low-stakes tasks for practice. For genuine developmental or health concerns, seek relevant professional advice rather than assigning a label."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "A developmental model earns support through suitable evidence, not simply by fitting a life story after the event. Effects may vary across populations and settings.\n\nCourse completion and self-confidence are not evidence of professional competence. An unfamiliar later case provides a more useful learning check.",
+    "say": "A developmental model earns support through suitable evidence, not simply by fitting a life story after the event. Effects may vary across populations and settings. [pause 0.65] Course completion and self-confidence are not evidence of professional competence. An unfamiliar later case provides a more useful learning check."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nParticipants omit fewer steps with a checklist during one workshop; no later unassisted task is measured.\n\nWhat conclusion is justified?\n\nA. Every participant developed a stronger general memory.\n\nB. The checklist helped this task; durable transfer remains to be checked.\n\nC. No inference is possible from any practical comparison.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Participants omit fewer steps with a checklist during one workshop; no later unassisted task is measured. [pause 0.65] What conclusion is justified? [pause 0.65] A. Every participant developed a stronger general memory. [pause 0.65] B. The checklist helped this task; durable transfer remains to be checked. [pause 0.65] C. No inference is possible from any practical comparison. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "A local aid does not establish broad cognitive development.",
+    "say": "A local aid does not establish broad cognitive development. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "The conclusion matches the measured task and leaves later learning open.",
+    "say": "The conclusion matches the measured task and leaves later learning open. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "A suitable comparison can support a bounded practical inference.",
+    "say": "A suitable comparison can support a bounded practical inference. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat makes an explanation developmental?\n\nHow would you test durable learning?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What makes an explanation developmental? [pause 0.65] How would you test durable learning? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "It links change and continuity to time, context and plausible processes.\n\nUse a delayed unfamiliar task that matches the intended skill, with appropriate comparison and access.",
+    "say": "It links change and continuity to time, context and plausible processes. [pause 0.65] Use a delayed unfamiliar task that matches the intended skill, with appropriate comparison and access. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Write a short recommendation for a fictional mixed-age workshop: outcome, support, comparison, follow-up and one limitation.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Write a short recommendation for a fictional mixed-age workshop: outcome, support, comparison, follow-up and one limitation. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]

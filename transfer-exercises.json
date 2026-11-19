@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "Which limitation matters in this study?",
+    "options": [
+      "Age and historical schooling may be mixed.",
+      "Repeated testing explains every age difference.",
+      "The group difference proves each older person declines."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Different cohorts had different opportunities; age alone is not isolated.",
+      "This is cross-sectional, so repeated testing is not the primary issue.",
+      "A group average does not specify each individual trajectory."
+    ],
+    "context": "A library compares current twenty-year-olds and eighty-year-olds on a digital search task. Their schooling and computer experience differ.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "2": {
+    "prompt": "What is the most appropriate response?",
+    "options": [
+      "Infer permanent harm from the headline.",
+      "Dismiss the concern because development continues.",
+      "Seek qualified advice about the actual exposure."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A headline cannot establish this individual outcome.",
+      "Continuing development does not make an exposure irrelevant.",
+      "Clinical advice can consider timing, amount and the person’s circumstances."
+    ],
+    "context": "A friend is concerned about a past exposure during pregnancy after reading a general risk headline.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "3": {
+    "prompt": "What should the researcher consider first?",
+    "options": [
+      "The child lacks all understanding of hidden objects.",
+      "Memory and reaching demands differ between tasks.",
+      "Looking tasks cannot supply useful evidence."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Failure on one search task does not establish a complete absence of understanding.",
+      "Different task demands can contribute to the discrepancy and can be tested.",
+      "Controlled looking comparisons can still support bounded inferences."
+    ],
+    "context": "An infant looks toward a hidden toy but does not reach to retrieve it in a more demanding search task.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "4": {
+    "prompt": "Which response best fits the evidence?",
+    "options": [
+      "Consider language exposure and knowledge across settings.",
+      "Conclude the child has limited total vocabulary.",
+      "Stop using the other language immediately."
+    ],
+    "correct": 0,
+    "feedback": [
+      "A single-language sample is incomplete; context and suitable assessment matter.",
+      "That conclusion exceeds this brief observation.",
+      "The observation does not justify that recommendation."
+    ],
+    "context": "A bilingual child uses few English words during a brief workshop but communicates fluently with a family member in another language.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "5": {
+    "prompt": "Which interpretation is best supported?",
+    "options": [
+      "High reactivity and a supportive relationship can coexist.",
+      "Strong reactions rule out a secure relationship.",
+      "Comfort proves every later relationship will be secure."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Temperament and relationship security are distinct questions.",
+      "Reactivity does not uniquely identify attachment security.",
+      "This overgeneralizes one relationship and occasion."
+    ],
+    "context": "A child startles easily but seeks comfort from a familiar caregiver and later resumes play.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "6": {
+    "prompt": "What is a plausible alternative explanation?",
+    "options": [
+      "The association proves parental attendance causes attainment.",
+      "Resources or schedules influence both attendance and attainment.",
+      "Attendance cannot ever matter."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The observation leaves shared causes unmeasured.",
+      "Shared constraints can generate an association and should be examined.",
+      "A causal limitation does not prove that attendance has no effect."
+    ],
+    "context": "A study finds that children whose caregivers attend school events have higher average attainment, but work schedules and resources were not measured.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "7": {
+    "prompt": "What should the team do?",
+    "options": [
+      "Exclude every adolescent from meaningful decisions.",
+      "Assume age guarantees equivalent experience.",
+      "Provide preparation, clear boundaries and appropriate supervision."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A blanket exclusion ignores task, experience and support.",
+      "Experience and competence vary within every age group.",
+      "The response addresses the actual task and developmental opportunities."
+    ],
+    "context": "A youth workshop includes an unfamiliar procedure with real safety requirements.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "8": {
+    "prompt": "Which example best illustrates compensation?",
+    "options": [
+      "Practising the same task for longer.",
+      "Using an accessible tool to keep doing a chosen task.",
+      "Selecting an unrelated new goal."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Practice is closer to optimizing an existing resource.",
+      "Another method can support a valued activity when the original route is limited.",
+      "Choosing a goal illustrates selection rather than compensation."
+    ],
+    "context": "A volunteer wants to keep cataloguing books but finds small print difficult.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "9": {
+    "prompt": "Which response is appropriate?",
+    "options": [
+      "Seek qualified assessment while supporting daily needs.",
+      "Explain every change as normal ageing.",
+      "Diagnose a disorder from the course glossary."
+    ],
+    "correct": 0,
+    "feedback": [
+      "A persistent change affecting daily functioning warrants an appropriate professional review.",
+      "That could dismiss a clinically important change.",
+      "A definition is not an individual assessment."
+    ],
+    "context": "A person reports a persistent new decline affecting ordinary daily activities, beyond a single unfamiliar task.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  },
+  "10": {
+    "prompt": "What conclusion is justified?",
+    "options": [
+      "Every participant developed a stronger general memory.",
+      "The checklist helped this task; durable transfer remains to be checked.",
+      "No inference is possible from any practical comparison."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A local aid does not establish broad cognitive development.",
+      "The conclusion matches the measured task and leaves later learning open.",
+      "A suitable comparison can support a bounded practical inference."
+    ],
+    "context": "Participants omit fewer steps with a checklist during one workshop; no later unassisted task is measured.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "developmental-psychology-v1"
+  }
+}

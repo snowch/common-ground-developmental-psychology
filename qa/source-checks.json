@@ -1,0 +1,85 @@
+{
+  "method": "HTTP availability checks of linked open references; DOI identity checked against Crossref. Availability is not independent academic review.",
+  "open_references": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/9-1-what-is-lifespan-development",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/9-1-what-is-lifespan-development",
+      "title": "9.1 What Is Lifespan Development? - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories",
+      "title": "9.2 Lifespan Theories - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+      "title": "9.3 Stages of Development - Psychology 2e | OpenStax"
+    }
+  ],
+  "doi_sources": [
+    {
+      "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+      "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+      "url": "https://doi.org/10.17226/9824",
+      "kind": "National Academies research synthesis; open online book."
+    },
+    {
+      "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+      "url": "https://doi.org/10.17226/9824",
+      "kind": "National Academies research synthesis; open online book."
+    },
+    {
+      "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+      "url": "https://doi.org/10.17226/9824",
+      "kind": "National Academies research synthesis; open online book."
+    },
+    {
+      "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+      "url": "https://doi.org/10.17226/9824",
+      "kind": "National Academies research synthesis; open online book."
+    },
+    {
+      "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+      "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+      "url": "https://doi.org/10.17226/9824",
+      "kind": "National Academies research synthesis; open online book."
+    },
+    {
+      "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+      "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+      "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+      "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Baltes (1987): Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline.",
+      "url": "https://doi.org/10.1037/0012-1649.23.5.611",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "From Neurons to Neighborhoods: The Science of Early Childhood Development",
+      "url": "https://doi.org/10.17226/9824",
+      "kind": "National Academies research synthesis; open online book."
+    }
+  ]
+}

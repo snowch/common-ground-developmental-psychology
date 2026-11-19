@@ -1,0 +1,706 @@
+{
+  "c01s03": {
+    "type": "compare",
+    "title": "Two people, several differences",
+    "left": [
+      "Jo",
+      "New system familiarity",
+      "One observation"
+    ],
+    "right": [
+      "Pat",
+      "Safety experience",
+      "One observation"
+    ],
+    "caption": "The case varies age and experience together; it cannot isolate development."
+  },
+  "c01s03b": {
+    "type": "compare",
+    "title": "Ask which change is measured",
+    "left": [
+      "Cross-sectional",
+      "Different people",
+      "One period"
+    ],
+    "right": [
+      "Longitudinal",
+      "Same people",
+      "Repeated periods"
+    ],
+    "caption": "Neither design automatically isolates every developmental cause."
+  },
+  "c01s04": {
+    "type": "flow",
+    "title": "A fairer comparison",
+    "items": [
+      [
+        "Specify",
+        "Skill and task"
+      ],
+      [
+        "Measure",
+        "Comparable outcomes"
+      ],
+      [
+        "Revisit",
+        "Change and alternatives"
+      ]
+    ],
+    "caption": "An accessible procedure can change measured performance."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "Interpret an age comparison",
+    "items": [
+      [
+        "Sample",
+        "Who was included?"
+      ],
+      [
+        "Task",
+        "What was measured?"
+      ],
+      [
+        "History",
+        "What differed before?"
+      ]
+    ],
+    "caption": "Age differences need a design that examines alternative explanations."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "An exposure needs detail",
+    "items": [
+      [
+        "Identify",
+        "Substance or condition"
+      ],
+      [
+        "Specify",
+        "Timing and amount"
+      ],
+      [
+        "Assess",
+        "Outcome and uncertainty"
+      ]
+    ],
+    "caption": "A general risk claim cannot determine an individual pregnancy outcome."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "Increased risk is not certainty",
+    "left": [
+      "Population",
+      "Compare probabilities",
+      "Account for confounding"
+    ],
+    "right": [
+      "Individual",
+      "Several influences",
+      "Clinical assessment needed"
+    ],
+    "caption": "Risk describes probability under conditions, not a verdict about one family."
+  },
+  "c02s04": {
+    "type": "flow",
+    "title": "From concern to an appropriate action",
+    "items": [
+      [
+        "Describe",
+        "Known facts"
+      ],
+      [
+        "Consult",
+        "Qualified care"
+      ],
+      [
+        "Support",
+        "Current needs"
+      ]
+    ],
+    "caption": "Developmental science informs support; it does not license retrospective blame."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "Read a prenatal-risk claim",
+    "items": [
+      [
+        "Exposure",
+        "Timing, dose, duration"
+      ],
+      [
+        "Comparison",
+        "Other relevant differences"
+      ],
+      [
+        "Application",
+        "Qualified individual advice"
+      ]
+    ],
+    "caption": "Ethical observational research supports bounded risk estimates."
+  },
+  "c03s03": {
+    "type": "flow",
+    "title": "From response to inference",
+    "items": [
+      [
+        "Observe",
+        "Longer looking"
+      ],
+      [
+        "Compare",
+        "Matched events"
+      ],
+      [
+        "Infer",
+        "A bounded discrimination"
+      ]
+    ],
+    "caption": "A measured response supports an inference with alternatives."
+  },
+  "c03s03b": {
+    "type": "compare",
+    "title": "Two routes to evidence",
+    "left": [
+      "Looking",
+      "Attention pattern",
+      "Limited action demand"
+    ],
+    "right": [
+      "Searching",
+      "Location plus action",
+      "More task demands"
+    ],
+    "caption": "Task differences can change performance without resolving all conceptual questions."
+  },
+  "c03s04": {
+    "type": "rows",
+    "title": "Keep the observation specific",
+    "items": [
+      [
+        "Behavior",
+        "What did the infant do?"
+      ],
+      [
+        "Condition",
+        "What was the comparison?"
+      ],
+      [
+        "Limit",
+        "Which alternatives remain?"
+      ]
+    ],
+    "caption": "Use developmental findings without assessing a child from a single episode."
+  },
+  "c03s05": {
+    "type": "compare",
+    "title": "Observation and explanation",
+    "left": [
+      "Measured",
+      "Attention differs",
+      "Under defined conditions"
+    ],
+    "right": [
+      "Proposed",
+      "Object knowledge",
+      "Needs further comparisons"
+    ],
+    "caption": "An infant’s response is evidence, not a complete reading of the mind."
+  },
+  "c04s03": {
+    "type": "flow",
+    "title": "A rule meets a new example",
+    "items": [
+      [
+        "Existing idea",
+        "Use a familiar rule"
+      ],
+      [
+        "Mismatch",
+        "Notice what does not fit"
+      ],
+      [
+        "Revision",
+        "Change the understanding"
+      ]
+    ],
+    "caption": "This illustrates conceptual revision, not a fixed age schedule."
+  },
+  "c04s03b": {
+    "type": "flow",
+    "title": "Support, then check independence",
+    "items": [
+      [
+        "Model",
+        "One useful comparison"
+      ],
+      [
+        "Fade",
+        "Reduce assistance"
+      ],
+      [
+        "Transfer",
+        "Try an unfamiliar case"
+      ]
+    ],
+    "caption": "Supported success and independent application answer different questions."
+  },
+  "c04s04": {
+    "type": "compare",
+    "title": "A fair language question",
+    "left": [
+      "One setting",
+      "One language",
+      "Partial performance"
+    ],
+    "right": [
+      "Broader assessment",
+      "Languages and context",
+      "Multiple information sources"
+    ],
+    "caption": "A single conversation does not measure a child’s total language ability."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Evaluate a teaching claim",
+    "items": [
+      [
+        "Support",
+        "What assistance was provided?"
+      ],
+      [
+        "Transfer",
+        "What can be done independently?"
+      ],
+      [
+        "Context",
+        "Which language and task?"
+      ]
+    ],
+    "caption": "Name the conditions under which a learner succeeds."
+  },
+  "c05s03": {
+    "type": "flow",
+    "title": "Safety and exploration interact",
+    "items": [
+      [
+        "Unfamiliar setting",
+        "Seek proximity"
+      ],
+      [
+        "Responsive support",
+        "Regain a sense of safety"
+      ],
+      [
+        "Exploration",
+        "Return when ready"
+      ]
+    ],
+    "caption": "The sequence is illustrative, not an assessment of attachment security."
+  },
+  "c05s03b": {
+    "type": "compare",
+    "title": "Different questions",
+    "left": [
+      "Temperament",
+      "How reactive?",
+      "Patterns across situations"
+    ],
+    "right": [
+      "Attachment",
+      "How seek support?",
+      "Within a relationship"
+    ],
+    "caption": "The constructs overlap in influences but are not interchangeable."
+  },
+  "c05s04": {
+    "type": "rows",
+    "title": "A proportionate interpretation",
+    "items": [
+      [
+        "Observe",
+        "Describe behavior"
+      ],
+      [
+        "Context",
+        "Consider setting and relationship"
+      ],
+      [
+        "Support",
+        "Avoid fixed labels"
+      ]
+    ],
+    "caption": "Developmental associations do not determine one person’s future."
+  },
+  "c05s05": {
+    "type": "compare",
+    "title": "Association is not destiny",
+    "left": [
+      "Early evidence",
+      "A relationship pattern",
+      "A specified measure"
+    ],
+    "right": [
+      "Later outcome",
+      "Many influences",
+      "A probabilistic association"
+    ],
+    "caption": "Early relationships matter without fixing an individual future."
+  },
+  "c06s03": {
+    "type": "rows",
+    "title": "Map the settings",
+    "items": [
+      [
+        "Café",
+        "Unfamiliar instructions"
+      ],
+      [
+        "Club",
+        "A trusted peer"
+      ],
+      [
+        "Connection",
+        "Information shared across settings"
+      ]
+    ],
+    "caption": "Different contexts supply different opportunities to participate."
+  },
+  "c06s03b": {
+    "type": "compare",
+    "title": "A correlation needs alternatives",
+    "left": [
+      "Adult to child",
+      "Expectations and support",
+      "Possible influence"
+    ],
+    "right": [
+      "Child to adult",
+      "Signals and behavior",
+      "Possible influence"
+    ],
+    "caption": "Shared conditions can also affect both sides of a relationship."
+  },
+  "c06s04": {
+    "type": "flow",
+    "title": "Find a modifiable condition",
+    "items": [
+      [
+        "Describe",
+        "When participation changes"
+      ],
+      [
+        "Compare",
+        "Instructions and relationships"
+      ],
+      [
+        "Support",
+        "An accessible invitation"
+      ]
+    ],
+    "caption": "Support should respond to the actual setting rather than a stereotype."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "Keep an ecological explanation testable",
+    "items": [
+      [
+        "Level",
+        "Name the setting"
+      ],
+      [
+        "Mechanism",
+        "Specify a possible influence"
+      ],
+      [
+        "Evidence",
+        "Compare alternatives"
+      ]
+    ],
+    "caption": "A contextual map generates questions rather than proving causes."
+  },
+  "c07s03": {
+    "type": "compare",
+    "title": "Same person, different context",
+    "left": [
+      "Quiet repair",
+      "Time to check",
+      "Low public pressure"
+    ],
+    "right": [
+      "Public demonstration",
+      "Audience present",
+      "More arousal"
+    ],
+    "caption": "Context may contribute to the difference and can be investigated."
+  },
+  "c07s03b": {
+    "type": "flow",
+    "title": "Support a safer decision",
+    "items": [
+      [
+        "Prepare",
+        "Practise the procedure"
+      ],
+      [
+        "Structure",
+        "Clarify boundaries"
+      ],
+      [
+        "Review",
+        "Discuss the outcome"
+      ]
+    ],
+    "caption": "Age-sensitive support can preserve meaningful participation."
+  },
+  "c07s04": {
+    "type": "rows",
+    "title": "Read an adolescent claim carefully",
+    "items": [
+      [
+        "Measure",
+        "Which task or brain feature?"
+      ],
+      [
+        "Context",
+        "Which incentives and support?"
+      ],
+      [
+        "Scope",
+        "Average or individual claim?"
+      ]
+    ],
+    "caption": "No single age threshold captures every aspect of development."
+  },
+  "c07s05": {
+    "type": "compare",
+    "title": "Development and agency",
+    "left": [
+      "Population evidence",
+      "Averages and variation",
+      "Task-specific findings"
+    ],
+    "right": [
+      "Practical support",
+      "Preparation and boundaries",
+      "Individual participation"
+    ],
+    "caption": "Developmental trends can guide support without reducing a person to age."
+  },
+  "c08s03": {
+    "type": "compare",
+    "title": "Timing needs a reference",
+    "left": [
+      "Social expectation",
+      "A local timetable",
+      "Historically variable"
+    ],
+    "right": [
+      "Individual path",
+      "Resources and choices",
+      "Several possible routes"
+    ],
+    "caption": "A cultural timetable does not define universal psychological success."
+  },
+  "c08s03b": {
+    "type": "flow",
+    "title": "Understand a transition",
+    "items": [
+      [
+        "Change",
+        "Which roles shifted?"
+      ],
+      [
+        "Resources",
+        "What support is available?"
+      ],
+      [
+        "Adaptation",
+        "Which goals need revision?"
+      ]
+    ],
+    "caption": "A transition is understood through demands, resources and relationships."
+  },
+  "c08s04": {
+    "type": "rows",
+    "title": "Several routes to adaptation",
+    "items": [
+      [
+        "Select",
+        "Choose a meaningful goal"
+      ],
+      [
+        "Optimize",
+        "Invest in the chosen activity"
+      ],
+      [
+        "Compensate",
+        "Use another workable route"
+      ]
+    ],
+    "caption": "Adaptation can involve changing priorities as well as improving performance."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "Judge a transition in context",
+    "items": [
+      [
+        "Goal",
+        "What matters to this person?"
+      ],
+      [
+        "Resources",
+        "What is available?"
+      ],
+      [
+        "Constraint",
+        "What needs external support?"
+      ]
+    ],
+    "caption": "A life-course description is not a moral ranking of life paths."
+  },
+  "c09s03": {
+    "type": "compare",
+    "title": "Different demands",
+    "left": [
+      "Novel menu",
+      "New sequence",
+      "Speed and familiarity"
+    ],
+    "right": [
+      "Repair principles",
+      "Accumulated knowledge",
+      "A practiced domain"
+    ],
+    "caption": "Task-specific changes need not move together."
+  },
+  "c09s03b": {
+    "type": "flow",
+    "title": "Respond proportionately",
+    "items": [
+      [
+        "Check access",
+        "Can information be received?"
+      ],
+      [
+        "Support the task",
+        "Make the route usable"
+      ],
+      [
+        "Seek assessment",
+        "For persistent concerning change"
+      ]
+    ],
+    "caption": "Accessibility and appropriate care address different needs."
+  },
+  "c09s04": {
+    "type": "rows",
+    "title": "Avoid a diagnosis from a stereotype",
+    "items": [
+      [
+        "Describe",
+        "Which change occurred?"
+      ],
+      [
+        "Compare",
+        "Earlier functioning and context"
+      ],
+      [
+        "Respond",
+        "Support and suitable assessment"
+      ]
+    ],
+    "caption": "Neither age nor one error establishes dementia."
+  },
+  "c09s05": {
+    "type": "compare",
+    "title": "Three different questions",
+    "left": [
+      "Research trend",
+      "Average task pattern",
+      "Population uncertainty"
+    ],
+    "right": [
+      "Clinical concern",
+      "Change in daily life",
+      "Professional assessment"
+    ],
+    "caption": "Population ageing findings are not diagnostic rules."
+  },
+  "c10s03": {
+    "type": "flow",
+    "title": "Build an account",
+    "items": [
+      [
+        "Observe",
+        "A specific change"
+      ],
+      [
+        "Contextualize",
+        "Time, setting and support"
+      ],
+      [
+        "Compare",
+        "Alternative explanations"
+      ]
+    ],
+    "caption": "A developmental account specifies a pathway rather than a fixed identity."
+  },
+  "c10s03b": {
+    "type": "flow",
+    "title": "Test a practical support",
+    "items": [
+      [
+        "Specify",
+        "The intended outcome"
+      ],
+      [
+        "Compare",
+        "Relevant conditions"
+      ],
+      [
+        "Revisit",
+        "Later independent use"
+      ]
+    ],
+    "caption": "A benefit must be measured against the goal and its limits."
+  },
+  "c10s04": {
+    "type": "rows",
+    "title": "A responsible recommendation",
+    "items": [
+      [
+        "Evidence",
+        "What supports the claim?"
+      ],
+      [
+        "Agency",
+        "What does the person prefer?"
+      ],
+      [
+        "Limit",
+        "What remains unknown?"
+      ]
+    ],
+    "caption": "Use developmental science to improve questions and opportunities."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "From explanation to a fair action",
+    "items": [
+      [
+        "Claim",
+        "Specific developmental question"
+      ],
+      [
+        "Test",
+        "Relevant evidence and alternatives"
+      ],
+      [
+        "Action",
+        "Support with stated limits"
+      ]
+    ],
+    "caption": "A useful explanation supports proportionate, revisable action."
+  }
+}

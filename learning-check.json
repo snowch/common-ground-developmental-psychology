@@ -1,0 +1,80 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The neighborhood museum",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "A museum offers a family workshop. A toddler watches an unexpected toy event for longer. A guide calls this proof of advanced intelligence and labels a nearby child insecure because the child stays close to a caregiver.",
+    "A child sorts objects with a prompt but struggles with a new unprompted example. A bilingual visitor says little in English. An adolescent volunteer checks carefully in rehearsal and rushes during a public demonstration.",
+    "An older volunteer knows the exhibits but struggles with a small-print digital menu. A coordinator compares current teenagers with current older adults and calls the difference a pure age effect. A parent returns to study and is described as behind schedule.",
+    "The museum wants inclusive support and evidence that learning lasts. It has not measured prior experience, task access or later independent performance."
+  ],
+  "tasks": [
+    {
+      "title": "Age and historical context",
+      "chapters": [
+        1,
+        8,
+        9
+      ],
+      "prompt": "Explain two limits of the age comparison and the claim about being behind schedule.",
+      "answer": "Age groups differ in prior experience and historical opportunities. Cross-sectional differences do not isolate within-person change. A cultural timetable is not a universal developmental requirement."
+    },
+    {
+      "title": "Early development and relationships",
+      "chapters": [
+        2,
+        3,
+        5
+      ],
+      "prompt": "Separate the toddler’s observation from the intelligence inference and assess the attachment label. Explain why early risks do not determine a future.",
+      "answer": "Longer looking is an indirect attention measure with alternative explanations. One visit cannot classify attachment. Early exposures and relationships can alter probabilities without fixing individual outcomes; timing, dose and context matter."
+    },
+    {
+      "title": "Learning and participation",
+      "chapters": [
+        4,
+        6
+      ],
+      "prompt": "What would distinguish supported from independent learning? How should the language observation be interpreted?",
+      "answer": "Fade the prompt and use a new suitable example. Assess later independent use. One English conversation misses language knowledge across contexts; examine instructions, relationships and linguistic access before judging ability."
+    },
+    {
+      "title": "Adolescence and ageing",
+      "chapters": [
+        7,
+        9
+      ],
+      "prompt": "Recommend two task-specific supports without diagnosing or excluding anyone by age.",
+      "answer": "Rehearse the public task with clear safety boundaries and appropriate supervision. Improve display access and provide an accurate sequence. Context and experience matter; persistent concerning daily-life changes warrant qualified assessment."
+    },
+    {
+      "title": "Evaluate the workshop",
+      "chapters": [
+        1,
+        6,
+        10
+      ],
+      "prompt": "Design a proportionate test and state an ethical limit.",
+      "answer": "Specify a learning outcome, compare comparable supports, account for experience and access, then check delayed unfamiliar performance. Obtain appropriate consent and protect privacy; do not conduct informal diagnostic tests or experiments on children."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}
