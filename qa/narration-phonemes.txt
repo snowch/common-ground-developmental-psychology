@@ -1,0 +1,1099 @@
+c01s01
+At the café, seventeen-year-old Jo learns the booking system quickly. Seventy-year-old Pat takes longer but catches a missing safety step. Leo concludes that younger people learn better. Maya asks what the comparison actually measured.
+æt ðə kæfˈeɪ, sˈɛvəntˌiːnjˈɪɹˈoʊld dʒˈoʊ lˈɜːnz ðə bˈʊkɪŋ sˈɪstəm kwˈɪkli. sˈɛvəntijˈɪɹˈoʊld pˈæt tˈeɪks lˈɔŋɡɚ bˌʌt kˈætʃᵻz ɐ mˈɪsɪŋ sˈeɪfti stˈɛp. lˈiːoʊ kəŋklˈuːdz ðæt jˈʌŋɡɚ pˈiːpəl lˈɜːn bˈɛɾɚ. mˈaɪə ˈæsks wʌt ðə kəmpˈæɹɪsən ˈæktʃuːəli mˈɛʒɚd.
+
+c01s02
+First, make a prediction about the café story.
+
+What would best improve Leo’s age claim?
+
+A. Compare prior experience and repeated task performance.
+
+B. Time Jo and Pat once more on different tasks.
+
+C. Use the fastest result as each person’s ability.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt wʊd bˈɛst ɪmpɹˈuːv lˈiːoʊz ˈeɪdʒ klˈeɪm?   ˈeɪ. kəmpˈɛɹ pɹˈaɪɚɹ ɛkspˈiəɹɪəns ænd ɹᵻpˈiːɾᵻd tˈæsk pɚfˈɔːɹməns.   bˈiː. tˈaɪm dʒˈoʊ ænd pˈæt wˈʌns mˈɔːɹ ˌɔn dˈɪfɹənt tˈæsks.   sˈiː. jˈuːs ðə fˈæstɪst ɹɪzˈʌlt æz ˈiːtʃ pˈɜːsənz ɐbˈɪləɾi.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c01s02-feedback-0
+Comparable experience and repeated observations help test what changed, though other differences remain.
+kˈɑːmpɚɹəbəl ɛkspˈiəɹɪəns ænd ɹᵻpˈiːɾᵻd ɑːbzɚvˈeɪʃənz hˈɛlp tˈɛst wʌt tʃˈeɪndʒd, ðˌoʊ ˈʌðɚ dˈɪfɹənsᵻz ɹᵻmˈeɪn.
+
+c01s02-feedback-1
+Different tasks introduce another explanation for a difference.
+dˈɪfɹənt tˈæsks ˌɪntɹədˈuːs ɐnˈʌðɚɹ ɛksplɐnˈeɪʃən fɚɹə dˈɪfɹəns.
+
+c01s02-feedback-2
+One fastest result hides errors, variability and task demands.
+wˈʌn fˈæstɪst ɹɪzˈʌlt hˈaɪdz ˈɛɹɚz, vˌɛɹɪəbˈɪlᵻɾi ænd tˈæsk dᵻmˈændz.
+
+c01s03
+Development: change and continuity across life. Plasticity: capacity for change under conditions. Context: social and historical circumstances.
+
+Developmental psychology studies patterns of change and continuity from before birth through later life. Gains in one skill can accompany costs in another.
+
+Jo and Pat differ in experience as well as age. The café episode does not identify an age effect or either person’s general ability.
+dɪvˈɛləpmənt: tʃˈeɪndʒ ænd kɑːntɪnjˈuːᵻɾi əkɹˌɑːs lˈaɪf. plæstˈɪsᵻɾi: kəpˈæsᵻɾi fɔːɹ tʃˈeɪndʒ ˌʌndɚ kəndˈɪʃənz. kˈɑːntɛkst: sˈoʊʃəl ænd hɪstˈɔːɹɪkəl sˈɜːkəmstˌænsᵻz.   dɪvˈɛləpmˈɛntəl saɪkˈɑːlədʒi stˈʌdiz pˈætɚnz ʌv tʃˈeɪndʒ ænd kɑːntɪnjˈuːᵻɾi fɹʌm bᵻfˌɔːɹ bˈɜːθ θɹuː lˈeɪɾɚ lˈaɪf. ɡˈeɪnz ɪn wˈʌn skˈɪl kæn ɐkˈʌmpəni kˈɔsts ɪn ɐnˈʌðɚ.   dʒˈoʊ ænd pˈæt dˈɪfɚɹ ɪn ɛkspˈiəɹɪəns æz wˈɛl æz ˈeɪdʒ. ðə kæfˈeɪ ˈɛpɪsˌoʊd dʌznˌɑːt aɪdˈɛntᵻfˌaɪ ɐn ˈeɪdʒ ɪfˈɛkt ɔːɹ ˈiːðɚ pˈɜːsənz dʒˈɛnɚɹəl ɐbˈɪləɾi.
+
+c01s03b
+Cross-sectional study: compares age groups at one time. Cohort: people sharing a historical period.
+
+A cross-sectional comparison can reveal age differences, but cohorts may differ in schooling or technology exposure. A longitudinal study can examine within-person change.
+
+Longitudinal findings can still reflect repeated testing and selective dropout. Combining designs helps distinguish age, history and measurement effects.
+kɹˈɔssˈɛkʃənəl stˈʌdi: kəmpˈɛɹz ˈeɪdʒ ɡɹˈuːps æt wˈʌn tˈaɪm. kˈoʊhɔːɹt: pˈiːpəl ʃˈɛɹɪŋ ɐ hɪstˈɔːɹɪkəl pˈiəɹɪəd.   ɐ kɹˈɔssˈɛkʃənəl kəmpˈæɹɪsən kæn ɹᵻvˈiːl ˈeɪdʒ dˈɪfɹənsᵻz, bˌʌt kˈoʊhɔːɹts mˈeɪ dˈɪfɚɹ ɪn skˈuːlɪŋ ɔːɹ tɛknˈɑːlədʒi ɛkspˈoʊʒɚ. ɐ lˈɔndʒɪtˌuːdɪnəl stˈʌdi kæn ɛɡzˈæmɪn wɪðˌɪnpˈɜːsən tʃˈeɪndʒ.   lˈɔndʒɪtˌuːdɪnəl fˈaɪndɪŋz kæn stˈɪl ɹᵻflˈɛkt ɹᵻpˈiːɾᵻd tˈɛstɪŋ ænd sᵻlˈɛktɪv dɹˈɑːpaʊt. kəmbˈaɪnɪŋ dɪzˈaɪnz hˈɛlps dɪstˈɪŋɡwɪʃ ˈeɪdʒ, hˈɪstɚɹi ænd mˈɛʒɚmənt ɪfˈɛkts.
+
+c01s04
+Measurement: a defined way of recording an outcome. Practice effect: change from taking a task again. Attrition: loss of participants over time.
+
+Record learning accuracy, time and prior experience on comparable tasks. Follow change rather than ranking the worth of age groups.
+
+An accessible display may help Pat immediately without changing an underlying ability. Developmental explanations need evidence about the task, the environment and the person over time.
+mˈɛʒɚmənt: ɐ dᵻfˈaɪnd wˈeɪ ʌv ɹᵻkˈɔːɹdɪŋ ɐn ˈaʊtkʌm. pɹˈæktɪs ɪfˈɛkt: tʃˈeɪndʒ fɹʌm tˈeɪkɪŋ ɐ tˈæsk ɐɡˈɛn. ɐtɹˈɪʃən: lˈɔs ʌv pɑːɹtˈɪsɪpənts ˌoʊvɚ tˈaɪm.   ɹˈɛkɚd lˈɜːnɪŋ ˈækjʊɹəsi, tˈaɪm ænd pɹˈaɪɚɹ ɛkspˈiəɹɪəns ˌɔn kˈɑːmpɚɹəbəl tˈæsks. fˈɑːloʊ tʃˈeɪndʒ ɹˈæðɚ ðɐn ɹˈæŋkɪŋ ðə wˈɜːθ ʌv ˈeɪdʒ ɡɹˈuːps.   ɐn æksˈɛsəbəl dɪsplˈeɪ mˈeɪ hˈɛlp pˈæt ɪmˈiːdɪətli wɪðˌaʊt tʃˈeɪndʒɪŋ ɐn ˌʌndɚlˈaɪɪŋ ɐbˈɪləɾi. dɪvˈɛləpmˈɛntəl ɛksplɐnˈeɪʃənz nˈiːd ˈɛvɪdəns ɐbˌaʊt ðə tˈæsk, ðɪ ɛnvˈaɪɹənmənt ænd ðə pˈɜːsən ˌoʊvɚ tˈaɪm.
+
+c01s05
+Lifespan research treats development as multidirectional and embedded in historical contexts. Average age trends summarize samples; they do not fix an individual’s trajectory.
+
+Selective samples, repeated testing and changing environments limit causal claims. The fictional café comparison illustrates those limits; it is not developmental data.
+lˈaɪfspæn ɹᵻsˈɜːtʃ tɹˈiːts dɪvˈɛləpmənt æz mˌʌltɪdᵻɹˈɛkʃənəl ænd ɛmbˈɛdᵻd ɪn hɪstˈɔːɹɪkəl kˈɑːntɛksts. ˈævɹɪdʒ ˈeɪdʒ tɹˈɛndz sˈʌmɚɹˌaɪz sˈæmpəlz; ðeɪ duːnˌɑːt fˈɪks ɐn ˌɪndᵻvˈɪdʒuːəlz tɹədʒˈɛktɚɹi.   sᵻlˈɛktɪv sˈæmpəlz, ɹᵻpˈiːɾᵻd tˈɛstɪŋ ænd tʃˈeɪndʒɪŋ ɛnvˈaɪɹənmənts lˈɪmɪt kˈɔːzəl klˈeɪmz. ðə fˈɪkʃənəl kæfˈeɪ kəmpˈæɹɪsən ˈɪləstɹˌeɪts ðoʊz lˈɪmɪts; ɪɾ ɪz nˌɑːt dɪvˈɛləpmˈɛntəl dˈeɪɾə.
+
+c01s06
+Apply the idea to this new fictional case.
+
+A library compares current twenty-year-olds and eighty-year-olds on a digital search task. Their schooling and computer experience differ.
+
+Which limitation matters in this study?
+
+A. Age and historical schooling may be mixed.
+
+B. Repeated testing explains every age difference.
+
+C. The group difference proves each older person declines.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ lˈaɪbɹɛɹi kəmpˈɛɹz kˈɜːɹənt twˈɛntijˈɪɹˈoʊldz ænd ˈeɪɾijˈɪɹˈoʊldz ˌɔn ɐ dˈɪdʒɪɾəl sˈɜːtʃ tˈæsk. ðɛɹ skˈuːlɪŋ ænd kəmpjˈuːɾɚɹ ɛkspˈiəɹɪəns dˈɪfɚ.   wˌɪtʃ lˌɪmɪtˈeɪʃən mˈæɾɚz ɪn ðɪs stˈʌdi?   ˈeɪ. ˈeɪdʒ ænd hɪstˈɔːɹɪkəl skˈuːlɪŋ mˈeɪ biː mˈɪkst.   bˈiː. ɹᵻpˈiːɾᵻd tˈɛstɪŋ ɛksplˈeɪnz ˈɛvɹi ˈeɪdʒ dˈɪfɹəns.   sˈiː. ðə ɡɹˈuːp dˈɪfɹəns pɹˈuːvz ˈiːtʃ ˈoʊldɚ pˈɜːsən dᵻklˈaɪnz.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c01s06-feedback-0
+Different cohorts had different opportunities; age alone is not isolated.
+dˈɪfɹənt kˈoʊhɔːɹts hæd dˈɪfɹənt ɑːpɚtˈuːnᵻɾiz; ˈeɪdʒ ɐlˈoʊn ɪz nˌɑːt ˈaɪsəlˌeɪɾᵻd.
+
+c01s06-feedback-1
+This is cross-sectional, so repeated testing is not the primary issue.
+ðɪs ɪz kɹˈɔssˈɛkʃənəl, sˌoʊ ɹᵻpˈiːɾᵻd tˈɛstɪŋ ɪz nˌɑːt ðə pɹˈaɪmɚɹi ˈɪʃuː.
+
+c01s06-feedback-2
+A group average does not specify each individual trajectory.
+ɐ ɡɹˈuːp ˈævɹɪdʒ dʌznˌɑːt spˈɛsᵻfˌaɪ ˈiːtʃ ˌɪndᵻvˈɪdʒuːəl tɹədʒˈɛktɚɹi.
+
+c01s07
+Try these questions without your notes.
+
+How does a cohort differ from an age?
+
+What can longitudinal evidence add?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   hˌaʊ dˈʌz ɐ kˈoʊhɔːɹt dˈɪfɚ fɹʌm ɐn ˈeɪdʒ?   wˌʌt kæn lˈɔndʒɪtˌuːdɪnəl ˈɛvɪdəns ˈæd?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c01s07-answers
+A cohort shares a historical period and related experiences; age is time since birth.
+
+It follows within-person change, while practice and dropout still need checking.
+ɐ kˈoʊhɔːɹt ʃˈɛɹz ɐ hɪstˈɔːɹɪkəl pˈiəɹɪəd ænd ɹᵻlˈeɪɾᵻd ɛkspˈiəɹɪənsᵻz; ˈeɪdʒ ɪz tˈaɪm sˈɪns bˈɜːθ.   ɪt fˈɑːloʊz wɪðˌɪnpˈɜːsən tʃˈeɪndʒ, wˌaɪl pɹˈæktɪs ænd dɹˈɑːpaʊt stˈɪl nˈiːd tʃˈɛkɪŋ.
+
+c01s08
+Compare two non-sensitive learning tasks in your own experience. Name the outcome and two influences other than age. Do not assess another person’s abilities.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+kəmpˈɛɹ tˈuː nˈɑːnsˈɛnsᵻtˌɪv lˈɜːnɪŋ tˈæsks ɪn jʊɹ ˈoʊn ɛkspˈiəɹɪəns. nˈeɪm ðɪ ˈaʊtkʌm ænd tˈuː ˈɪnfluːənsᵻz ˈʌðɚ ðɐn ˈeɪdʒ. duːnˌɑːt ɐsˈɛs ɐnˈʌðɚ pˈɜːsənz ɐbˈɪləɾiz.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c02s01
+A café poster claims that one early exposure determines a child’s future. Sam worries that a relative’s pregnancy history explains every later difficulty. Maya asks whether a risk factor can establish an individual cause.
+ɐ kæfˈeɪ pˈoʊstɚ klˈeɪmz ðˈætwˌʌn ˈɜːli ɛkspˈoʊʒɚ dɪtˈɜːmɪnz ɐ tʃˈaɪldz fjˈuːtʃɚ. sˈæm wˈʌɹiz ðˌæɾɚ ɹˈɛlətˌɪvz pɹˈɛɡnənsi hˈɪstɚɹi ɛksplˈeɪnz ˈɛvɹi lˈeɪɾɚ dˈɪfɪkˌʌlti. mˈaɪə ˈæsks wˈɛðɚɹ ɐ ɹˈɪsk fˈæktɚ kæn ɪstˈæblɪʃ ɐn ˌɪndᵻvˈɪdʒuːəl kˈɔːz.
+
+c02s02
+First, make a prediction about the café story.
+
+How should the poster’s claim be revised?
+
+A. State the exposure guarantees the same outcome.
+
+B. Describe increased risk with timing and dose limits.
+
+C. Treat all prenatal associations as meaningless.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   hˌaʊ ʃˌʊd ðə pˈoʊstɚz klˈeɪm biː ɹᵻvˈaɪzd?   ˈeɪ. stˈeɪt ðɪ ɛkspˈoʊʒɚ ɡˌæɹəntˈiːz ðə sˈeɪm ˈaʊtkʌm.   bˈiː. dᵻskɹˈaɪb ɪŋkɹˈiːst ɹˈɪsk wɪð tˈaɪmɪŋ ænd dˈoʊs lˈɪmɪts.   sˈiː. tɹˈiːt ˈɔːl pɹɪnˈeɪɾəl ɐsˌoʊsɪˈeɪʃənz æz mˈiːnɪŋləs.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c02s02-feedback-0
+That turns a probabilistic finding into an unsupported certainty.
+ðæt tˈɜːnz ɐ pɹˌɑːbəbɪlˈɪstɪk fˈaɪndɪŋ ˌɪntʊ ɐn ʌnsəpˈɔːɹɾᵻd sˈɜːtənti.
+
+c02s02-feedback-1
+Timing, dose and outcome specify the claim without diagnosing an individual.
+tˈaɪmɪŋ, dˈoʊs ænd ˈaʊtkʌm spˈɛsᵻfˌaɪ ðə klˈeɪm wɪðˌaʊt dˌaɪəɡnˈoʊzɪŋ ɐn ˌɪndᵻvˈɪdʒuːəl.
+
+c02s02-feedback-2
+Observational evidence can inform prevention while retaining limitations.
+ɑːbzɚvˈeɪʃənəl ˈɛvɪdəns kæn ɪnfˈɔːɹm pɹɪvˈɛnʃən wˌaɪl ɹᵻtˈeɪnɪŋ lˌɪmɪtˈeɪʃənz.
+
+c02s03
+Gestation: the course of pregnancy. Teratogen: an exposure that can disrupt prenatal development.
+
+Prenatal development involves changing biological systems. Some exposures can increase the risk of harm, and effects depend partly on when development is occurring.
+
+This does not mean an exposure guarantees an outcome. Advice about a specific pregnancy belongs with a qualified healthcare professional who can evaluate the actual exposure.
+dʒɛstˈeɪʃən: ðə kˈɔːɹs ʌv pɹˈɛɡnənsi. tˈɛɹəɾədʒən: ɐn ɛkspˈoʊʒɚ ðæt kæn dɪsɹˈʌpt pɹɪnˈeɪɾəl dɪvˈɛləpmənt.   pɹɪnˈeɪɾəl dɪvˈɛləpmənt ɪnvˈɑːlvz tʃˈeɪndʒɪŋ bˌaɪəlˈɑːdʒɪkəl sˈɪstəmz. sˌʌm ɛkspˈoʊʒɚz kæn ɪŋkɹˈiːs ðə ɹˈɪsk ʌv hˈɑːɹm, ænd ɪfˈɛkts dᵻpˈɛnd pˈɑːɹtli ˌɔn wɛn dɪvˈɛləpmənt ɪz əkˈɜːɹɪŋ.   ðɪs dʌznˌɑːt mˈiːn ɐn ɛkspˈoʊʒɚ ɡˌæɹəntˈiːz ɐn ˈaʊtkʌm. ɐdvˈaɪs ɐbˌaʊt ɐ spəsˈɪfɪk pɹˈɛɡnənsi bᵻlˈɔŋz wɪð ɐ kwˈɔlᵻfˌaɪd hˈɛlθkɛɹ pɹəfˈɛʃənəl hˌuː kæn ɪvˈæljuːˌeɪt ðɪ ˈæktʃuːəl ɛkspˈoʊʒɚ.
+
+c02s03b
+Sensitive period: time of heightened responsiveness. Risk factor: condition associated with increased likelihood.
+
+A developing system can be more responsive to an exposure during particular periods. Dose, duration, nutrition, health and other exposures may also matter.
+
+A population association does not show which factor caused a particular child’s difficulty. Retrospective accounts can leave important details unmeasured.
+sˈɛnsᵻtˌɪv pˈiəɹɪəd: tˈaɪm ʌv hˈaɪʔnd ɹᵻspˈɑːnsɪvnəs. ɹˈɪsk fˈæktɚ: kəndˈɪʃən ɐsˈoʊsɪˌeɪɾᵻd wɪð ɪŋkɹˈiːst lˈaɪklihˌʊd.   ɐ dɪvˈɛləpɪŋ sˈɪstəm kæn biː mˈɔːɹ ɹᵻspˈɑːnsɪv tʊ ɐn ɛkspˈoʊʒɚ dˈʊɹɹɪŋ pɚtˈɪkjʊlɚ pˈiəɹɪədz. dˈoʊs, dʊɹɹˈeɪʃən, njuːtɹˈɪʃən, hˈɛlθ ænd ˈʌðɚɹ ɛkspˈoʊʒɚz mˈeɪ ˈɔːlsoʊ mˈæɾɚ.   ɐ pˌɑːpjʊlˈeɪʃən ɐsˌoʊsɪˈeɪʃən dʌznˌɑːt ʃˈoʊ wˌɪtʃ fˈæktɚ kˈɔːzd ɐ pɚtˈɪkjʊlɚ tʃˈaɪldz dˈɪfɪkˌʌlti. ɹˌɛtɹoʊspˈɛktɪv ɐkˈaʊnts kæn lˈiːv ɪmpˈɔːɹtənt diːtˈeɪlz ʌnmˈɛʒɚd.
+
+c02s04
+Protective factor: condition that can reduce adverse risk. Probabilistic: concerning likelihood rather than certainty. Developmental pathway: pattern of change over time.
+
+Healthcare access and supportive environments can influence later opportunities. Biological and social development continue to interact after birth.
+
+Avoid assigning blame from a simplified origin story. Ask what is known now and which practical supports are appropriate, without promising that support reverses every possible effect.
+pɹətˈɛktɪv fˈæktɚ: kəndˈɪʃən ðæt kæn ɹᵻdˈuːs ædvˈɜːs ɹˈɪsk. pɹˌɑːbəbɪlˈɪstɪk: kənsˈɜːnɪŋ lˈaɪklihˌʊd ɹˈæðɚ ðɐn sˈɜːtənti. dɪvˈɛləpmˈɛntəl pˈæθweɪ: pˈætɚn ʌv tʃˈeɪndʒ ˌoʊvɚ tˈaɪm.   hˈɛlθkɛɹ ˈæksɛs ænd səpˈɔːɹɾɪv ɛnvˈaɪɹənmənts kæn ˈɪnfluːəns lˈeɪɾɚɹ ɑːpɚtˈuːnᵻɾiz. bˌaɪəlˈɑːdʒɪkəl ænd sˈoʊʃəl dɪvˈɛləpmənt kəntˈɪnjuː tʊ ˌɪntɚɹˈækt ˈæftɚ bˈɜːθ.   ɐvˈɔɪd ɐsˈaɪnɪŋ blˈeɪm fɹʌm ɐ sˈɪmplᵻfˌaɪd ˈɔːɹɪdʒˌɪn stˈɔːɹi. ˈæsk wʌt ɪz nˈoʊn nˈaʊ ænd wˌɪtʃ pɹˈæktɪkəl səpˈɔːɹts ɑːɹ ɐpɹˈoʊpɹɪət, wɪðˌaʊt pɹˈɑːmɪsɪŋ ðæt səpˈɔːɹt ɹᵻvˈɜːsᵻz ˈɛvɹi pˈɑːsᵻbəl ɪfˈɛkt.
+
+c02s05
+Prenatal risk evidence often comes from observational studies because harmful exposures cannot ethically be assigned. Confounding, exposure measurement and differences between outcomes matter.
+
+A sensitive period is specific to a system and experience. It does not mean that all development ends after an early deadline.
+pɹɪnˈeɪɾəl ɹˈɪsk ˈɛvɪdəns ˈɔfən kˈʌmz fɹʌm ɑːbzɚvˈeɪʃənəl stˈʌdiz bɪkˈʌz hˈɑːɹmfəl ɛkspˈoʊʒɚz kænˈɑːt ˈɛθɪkli biː ɐsˈaɪnd. kənfˈaʊndɪŋ, ɛkspˈoʊʒɚ mˈɛʒɚmənt ænd dˈɪfɹənsᵻz bᵻtwˌiːn ˈaʊtkʌmz mˈæɾɚ.   ɐ sˈɛnsᵻtˌɪv pˈiəɹɪəd ɪz spəsˈɪfɪk tʊ ɐ sˈɪstəm ænd ɛkspˈiəɹɪəns. ɪt dʌznˌɑːt mˈiːn ðæt ˈɔːl dɪvˈɛləpmənt ˈɛndz ˈæftɚɹ ɐn ˈɜːli dˈɛdlaɪn.
+
+c02s06
+Apply the idea to this new fictional case.
+
+A friend is concerned about a past exposure during pregnancy after reading a general risk headline.
+
+What is the most appropriate response?
+
+A. Infer permanent harm from the headline.
+
+B. Dismiss the concern because development continues.
+
+C. Seek qualified advice about the actual exposure.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ fɹˈɛnd ɪz kənsˈɜːnd ɐbˌaʊt ɐ pˈæst ɛkspˈoʊʒɚ dˈʊɹɹɪŋ pɹˈɛɡnənsi ˈæftɚ ɹˈiːdɪŋ ɐ dʒˈɛnɚɹəl ɹˈɪsk hˈɛdlaɪn.   wˌʌt ɪz ðə mˈoʊst ɐpɹˈoʊpɹɪət ɹᵻspˈɑːns?   ˈeɪ. ɪnfˈɜː pˈɜːmənənt hˈɑːɹm fɹʌmðə hˈɛdlaɪn.   bˈiː. dɪsmˈɪs ðə kənsˈɜːn bɪkˈʌz dɪvˈɛləpmənt kəntˈɪnjuːz.   sˈiː. sˈiːk kwˈɔlᵻfˌaɪd ɐdvˈaɪs ɐbˌaʊt ðɪ ˈæktʃuːəl ɛkspˈoʊʒɚ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c02s06-feedback-0
+A headline cannot establish this individual outcome.
+ɐ hˈɛdlaɪn kænˈɑːt ɪstˈæblɪʃ ðɪs ˌɪndᵻvˈɪdʒuːəl ˈaʊtkʌm.
+
+c02s06-feedback-1
+Continuing development does not make an exposure irrelevant.
+kəntˈɪnjuːɪŋ dɪvˈɛləpmənt dʌznˌɑːt mˌeɪk ɐn ɛkspˈoʊʒɚɹ ɪɹˈɛlᵻvənt.
+
+c02s06-feedback-2
+Clinical advice can consider timing, amount and the person’s circumstances.
+klˈɪnɪkəl ɐdvˈaɪs kæn kənsˈɪdɚ tˈaɪmɪŋ, ɐmˈaʊnt ænd ðə pˈɜːsənz sˈɜːkəmstˌænsᵻz.
+
+c02s07
+Try these questions without your notes.
+
+Why does a sensitive period need a specified system?
+
+Does a risk factor prove an individual cause?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ dˈʌz ɐ sˈɛnsᵻtˌɪv pˈiəɹɪəd nˈiːd ɐ spˈɛsᵻfˌaɪd sˈɪstəm?   dˈʌz ɐ ɹˈɪsk fˈæktɚ pɹˈuːv ɐn ˌɪndᵻvˈɪdʒuːəl kˈɔːz?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c02s07-answers
+Different systems develop on different schedules and respond to different experiences.
+
+No. Risk concerns likelihood; individual causes require more evidence.
+dˈɪfɹənt sˈɪstəmz dɪvˈɛləp ˌɔn dˈɪfɹənt skˈɛdʒuːlz ænd ɹᵻspˈɑːnd tə dˈɪfɹənt ɛkspˈiəɹɪənsᵻz.   nˈoʊ. ɹˈɪsk kənsˈɜːnz lˈaɪklihˌʊd; ˌɪndᵻvˈɪdʒuːəl kˈɔːzᵻz ɹᵻkwˈaɪɚ mˈɔːɹ ˈɛvɪdəns.
+
+c02s08
+Choose a public developmental-risk headline. Identify its exposure, outcome and uncertainty without investigating anyone’s private history.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+tʃˈuːz ɐ pˈʌblɪk dɪvˈɛləpmˈɛntəlɹˈɪsk hˈɛdlaɪn. aɪdˈɛntᵻfˌaɪ ɪts ɛkspˈoʊʒɚ, ˈaʊtkʌm ænd ʌnsˈɜːtənti wɪðˌaʊt ɪnvˈɛstᵻɡˌeɪɾɪŋ ˈɛnɪwˌʌnz pɹˈaɪvət hˈɪstɚɹi.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c03s01
+A visitor’s baby looks longer when a toy unexpectedly disappears. Leo says this proves the baby understands every rule about objects. Sam asks what looking time actually tells the researchers.
+ɐ vˈɪzɪɾɚz bˈeɪbi lˈʊks lˈɔŋɡɚ wɛn ɐ tˈɔɪ ˌʌnɛkspˈɛktᵻdli dˌɪsɐpˈɪɹz. lˈiːoʊ sˈɛz ðɪs pɹˈuːvz ðə bˈeɪbi ˌʌndɚstˈændz ˈɛvɹi ɹˈuːl ɐbˌaʊt ˈɑːbdʒɛkts. sˈæm ˈæsks wʌt lˈʊkɪŋ tˈaɪm ˈæktʃuːəli tˈɛlz ðə ɹᵻsˈɜːtʃɚz.
+
+c03s02
+First, make a prediction about the café story.
+
+What does the longer look establish most directly?
+
+A. A measured difference in attention.
+
+B. Complete adult-like object knowledge.
+
+C. The baby’s future intelligence.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt dˈʌz ðə lˈɔŋɡɚ lˈʊk ɪstˈæblɪʃ mˈoʊst dᵻɹˈɛktli?   ˈeɪ. ɐ mˈɛʒɚd dˈɪfɹəns ɪn ɐtˈɛnʃən.   bˈiː. kəmplˈiːt ɐdˈʌltlˈaɪk ˈɑːbdʒɛkt nˈɑːlɪdʒ.   sˈiː. ðə bˈeɪbiz fjˈuːtʃɚɹ ɪntˈɛlɪdʒəns.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c03s02-feedback-0
+The attention difference is observed; its explanation needs controlled comparisons.
+ðɪ ɐtˈɛnʃən dˈɪfɹəns ɪz əbzˈɜːvd; ɪts ɛksplɐnˈeɪʃən nˈiːdz kəntɹˈoʊld kəmpˈæɹɪsənz.
+
+c03s02-feedback-1
+This extends beyond what the measure uniquely identifies.
+ðɪs ɛkstˈɛndz bᵻjˌɔnd wʌt ðə mˈɛʒɚ juːnˈiːkli aɪdˈɛntᵻfˌaɪz.
+
+c03s02-feedback-2
+A single looking response does not predict a general future score.
+ɐ sˈɪŋɡəl lˈʊkɪŋ ɹᵻspˈɑːns dʌznˌɑːt pɹɪdˈɪkt ɐ dʒˈɛnɚɹəl fjˈuːtʃɚ skˈɔːɹ.
+
+c03s03
+Habituation: reduced responding with repeated stimulation. Dishabituation: renewed responding after a change. Looking time: duration of visual attention.
+
+Infants cannot explain an answer verbally. Researchers therefore use responses such as looking, reaching or sucking under defined conditions.
+
+A renewed look can indicate discrimination or novelty. It does not by itself reveal a complete adult-like concept. Visual salience and familiarity are alternative explanations to test.
+hˌæbɪtʃuːˈeɪʃən: ɹᵻdˈuːst ɹᵻspˈɑːndɪŋ wɪð ɹᵻpˈiːɾᵻd stˌɪmjʊlˈeɪʃən. dɪshˌæbɪtʃuːˈeɪʃən: ɹᵻnˈuːd ɹᵻspˈɑːndɪŋ ˈæftɚɹ ɐ tʃˈeɪndʒ. lˈʊkɪŋ tˈaɪm: dʊɹɹˈeɪʃən ʌv vˈɪʒuːəl ɐtˈɛnʃən.   ˈɪnfənts kænˈɑːt ɛksplˈeɪn ɐn ˈænsɚ vˈɜːbəli. ɹᵻsˈɜːtʃɚz ðˈɛɹfɔːɹ jˈuːs ɹᵻspˈɑːnsᵻz sˈʌtʃ ɐz lˈʊkɪŋ, ɹˈiːtʃɪŋ ɔːɹ sˈʌkɪŋ ˌʌndɚ dᵻfˈaɪnd kəndˈɪʃənz.   ɐ ɹᵻnˈuːd lˈʊk kæn ˈɪndᵻkˌeɪt dɪskɹˌɪmᵻnˈeɪʃən ɔːɹ nˈɑːvəlɾi. ɪt dʌznˌɑːt baɪ ɪtsˈɛlf ɹᵻvˈiːl ɐ kəmplˈiːt ɐdˈʌltlˈaɪk kˈɑːnsɛpt. vˈɪʒuːəl sˈeɪliəns ænd fəmˌɪliˈæɹᵻɾi ɑːɹ ɔːltˈɜːnətˌɪv ɛksplɐnˈeɪʃənz tə tˈɛst.
+
+c03s03b
+Object permanence: understanding that objects continue unseen. Task demand: what successful performance requires.
+
+Searching for a hidden object requires remembering a location and coordinating action. A looking task has different demands.
+
+Different ages of success across tasks need not mean one method is useless. Compare the specific ability each task requires and seek converging evidence before making a broad claim.
+ˈɑːbdʒɛkt pˈɜːmənəns: ˌʌndɚstˈændɪŋ ðæt ɑːbdʒˈɛkts kəntˈɪnjuː ʌnsˈiːn. tˈæsk dᵻmˈænd: wˌʌt səksˈɛsfəl pɚfˈɔːɹməns ɹᵻkwˈaɪɚz.   sˈɜːtʃɪŋ fɚɹə hˈɪdən ˈɑːbdʒɛkt ɹᵻkwˈaɪɚz ɹᵻmˈɛmbɚɹɪŋ ɐ loʊkˈeɪʃən ænd koʊˈɔːɹdɪnˌeɪɾɪŋ ˈækʃən. ɐ lˈʊkɪŋ tˈæsk hɐz dˈɪfɹənt dᵻmˈændz.   dˈɪfɹənt ˈeɪdʒᵻz ʌv səksˈɛs əkɹˌɑːs tˈæsks nˈiːd nˌɑːt mˈiːn wˈʌn mˈɛθəd ɪz jˈuːsləs. kəmpˈɛɹ ðə spəsˈɪfɪk ɐbˈɪləɾi ˈiːtʃ tˈæsk ɹᵻkwˈaɪɚz ænd sˈiːk kənvˈɜːdʒɪŋ ˈɛvɪdəns bᵻfˌɔːɹ mˌeɪkɪŋ ɐ bɹˈɔːd klˈeɪm.
+
+c03s04
+Joint attention: sharing attention toward something. Contingent response: response related to a preceding signal. Individual variation: differences among developmental paths.
+
+Infants learn through perception, movement and interaction with caregivers. Shared attention can support learning about objects and words.
+
+Developmental milestones describe useful patterns of change, with variation. A casual observation is not a developmental assessment. Persistent concerns are a reason to seek appropriate professional advice.
+dʒˈɔɪnt ɐtˈɛnʃən: ʃˈɛɹɪŋ ɐtˈɛnʃən təwˈɔːɹd sˈʌmθɪŋ. kəntˈɪndʒənt ɹᵻspˈɑːns: ɹᵻspˈɑːns ɹᵻlˈeɪɾᵻd tʊ ɐ pɹɪsˈiːdɪŋ sˈɪɡnəl. ˌɪndᵻvˈɪdʒuːəl vˌɛɹɪˈeɪʃən: dˈɪfɹənsᵻz ɐmˌʌŋ dɪvˈɛləpmˈɛntəl pˈæθs.   ˈɪnfənts lˈɜːn θɹuː pɚsˈɛpʃən, mˈuːvmənt ænd ˌɪntɚɹˈækʃən wɪð kˈɛɹɡɪvɚz. ʃˈɛɹd ɐtˈɛnʃən kæn səpˈɔːɹt lˈɜːnɪŋ ɐbˌaʊt ˈɑːbdʒɛkts ænd wˈɜːdz.   dɪvˈɛləpmˈɛntəl mˈaɪlstoʊnz dᵻskɹˈaɪb jˈuːsfəl pˈætɚnz ʌv tʃˈeɪndʒ, wɪð vˌɛɹɪˈeɪʃən. ɐ kˈæʒuːəl ɑːbzɚvˈeɪʃən ɪz nˌɑːɾə dɪvˈɛləpmˈɛntəl ɐsˈɛsmənt. pɚsˈɪstənt kənsˈɜːnz ɑːɹ ɐ ɹˈiːzən tə sˈiːk ɐpɹˈoʊpɹɪət pɹəfˈɛʃənəl ɐdvˈaɪs.
+
+c03s05
+Infant methods provide valuable evidence when comparison events control low-level differences and results replicate. Different measures can produce different developmental estimates.
+
+The fictional toy event does not demonstrate a universal timetable, intelligence score or diagnosis.
+ˈɪnfənt mˈɛθədz pɹəvˈaɪd vˈæljuːəbəl ˈɛvɪdəns wɛn kəmpˈæɹɪsən ᵻvˈɛnts kəntɹˈoʊl lˈoʊlˈɛvəl dˈɪfɹənsᵻz ænd ɹɪzˈʌlts ɹˈɛplᵻkˌeɪt. dˈɪfɹənt mˈɛʒɚz kæn pɹədˈuːs dˈɪfɹənt dɪvˈɛləpmˈɛntəl ˈɛstᵻməts.   ðə fˈɪkʃənəl tˈɔɪ ᵻvˈɛnt dʌznˌɑːt dˈɛmənstɹˌeɪt ɐ jˌuːnɪvˈɜːsəl tˈaɪmteɪbəl, ɪntˈɛlɪdʒəns skˈɔːɹ ɔːɹ dˌaɪəɡnˈoʊsɪs.
+
+c03s06
+Apply the idea to this new fictional case.
+
+An infant looks toward a hidden toy but does not reach to retrieve it in a more demanding search task.
+
+What should the researcher consider first?
+
+A. The child lacks all understanding of hidden objects.
+
+B. Memory and reaching demands differ between tasks.
+
+C. Looking tasks cannot supply useful evidence.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐn ˈɪnfənt lˈʊks təwˈɔːɹd ɐ hˈɪdən tˈɔɪ bˌʌt dʌznˌɑːt ɹˈiːtʃ tə ɹᵻtɹˈiːv ɪɾ ɪn ɐ mˈɔːɹ dᵻmˈændɪŋ sˈɜːtʃ tˈæsk.   wˌʌt ʃˌʊd ðə ɹᵻsˈɜːtʃɚ kənsˈɪdɚ fˈɜːst?   ˈeɪ. ðə tʃˈaɪld lˈæks ˈɔːl ˌʌndɚstˈændɪŋ ʌv hˈɪdən ˈɑːbdʒɛkts.   bˈiː. mˈɛmɚɹi ænd ɹˈiːtʃɪŋ dᵻmˈændz dˈɪfɚ bᵻtwˌiːn tˈæsks.   sˈiː. lˈʊkɪŋ tˈæsks kænˈɑːt səplˈaɪ jˈuːsfəl ˈɛvɪdəns.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c03s06-feedback-0
+Failure on one search task does not establish a complete absence of understanding.
+fˈeɪlɪɹ ˌɔn wˈʌn sˈɜːtʃ tˈæsk dʌznˌɑːt ɪstˈæblɪʃ ɐ kəmplˈiːt ˈæbsəns ʌv ˌʌndɚstˈændɪŋ.
+
+c03s06-feedback-1
+Different task demands can contribute to the discrepancy and can be tested.
+dˈɪfɹənt tˈæsk dᵻmˈændz kæn kəntɹˈɪbjuːt tə ðə dɪskɹˈɛpənsi ænd kæn biː tˈɛstᵻd.
+
+c03s06-feedback-2
+Controlled looking comparisons can still support bounded inferences.
+kəntɹˈoʊld lˈʊkɪŋ kəmpˈæɹɪsənz kæn stˈɪl səpˈɔːɹt bˈaʊndᵻd ˈɪnfɚɹənsᵻz.
+
+c03s07
+Try these questions without your notes.
+
+Why is looking time an indirect measure?
+
+Why compare looking and search tasks?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz lˈʊkɪŋ tˈaɪm ɐn ˌɪndɚɹˈɛkt mˈɛʒɚ?   wˌaɪ kəmpˈɛɹ lˈʊkɪŋ ænd sˈɜːtʃ tˈæsks?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c03s07-answers
+It records attention, from which a particular psychological process is inferred.
+
+They involve different demands; convergence strengthens a specific interpretation.
+ɪt ɹᵻkˈɔːɹdz ɐtˈɛnʃən, fɹʌm wˈɪtʃ ɐ pɚtˈɪkjʊlɚ saɪkəlˈɑːdʒɪkəl pɹˈɑːsɛs ɪz ɪnfˈɜːd.   ðeɪ ɪnvˈɑːlv dˈɪfɹənt dᵻmˈændz; kənvˈɜːdʒəns stɹˈɛŋθənz ɐ spəsˈɪfɪk ɪntˌɜːpɹɪtˈeɪʃən.
+
+c03s08
+Read a public infant-study summary. Separate the measured action from the claimed mental ability. Do not test or record a child.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹˈiːd ɐ pˈʌblɪk ˈɪnfəntstˈʌdi sˈʌmɚɹi. sˈɛpɹət ðə mˈɛʒɚd ˈækʃən fɹʌmðə klˈeɪmd mˈɛntəl ɐbˈɪləɾi. duːnˌɑːt tˈɛst ɔːɹ ɹˈɛkɚd ɐ tʃˈaɪld.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c04s01
+Jo helps a younger visitor sort donated buttons. The visitor succeeds after Jo points to one example, then struggles when the rule changes. Leo calls the first success proof of independent mastery.
+dʒˈoʊ hˈɛlps ɐ jˈʌŋɡɚ vˈɪzɪɾɚ sˈɔːɹt doʊnˈeɪɾᵻd bˈʌʔnz. ðə vˈɪzɪɾɚ səksˈiːdz ˈæftɚ dʒˈoʊ pˈɔɪnts tə wˈʌn ɛɡzˈæmpəl, ðˈɛn stɹˈʌɡəlz wɛn ðə ɹˈuːl tʃˈeɪndʒᵻz. lˈiːoʊ kˈɔːlz ðə fˈɜːst səksˈɛs pɹˈuːf ʌv ˌɪndᵻpˈɛndənt mˈæstɚɹi.
+
+c04s02
+First, make a prediction about the café story.
+
+What would show independent learning more clearly?
+
+A. Count the prompted success as mastery.
+
+B. Give the same prompt more loudly.
+
+C. Try a new sorting case after reducing help.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt wʊd ʃˈoʊ ˌɪndᵻpˈɛndənt lˈɜːnɪŋ mˈɔːɹ klˈɪɹli?   ˈeɪ. kˈaʊnt ðə pɹˈɑːmptᵻd səksˈɛs æz mˈæstɚɹi.   bˈiː. ɡˈɪv ðə sˈeɪm pɹˈɑːmpt mˈɔːɹ lˈaʊdli.   sˈiː. tɹˈaɪ ɐ nˈuː sˈɔːɹɾɪŋ kˈeɪs ˈæftɚ ɹᵻdˈuːsɪŋ hˈɛlp.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c04s02-feedback-0
+Prompted success shows performance with support.
+pɹˈɑːmptᵻd səksˈɛs ʃˈoʊz pɚfˈɔːɹməns wɪð səpˈɔːɹt.
+
+c04s02-feedback-1
+A louder cue does not test independence or clarify the rule.
+ɐ lˈaʊdɚ kjˈuː dʌznˌɑːt tˈɛst ˌɪndᵻpˈɛndəns ɔːɹ klˈæɹᵻfˌaɪ ðə ɹˈuːl.
+
+c04s02-feedback-2
+A new unprompted case tests whether the rule can now be used independently.
+ɐ nˈuː ʌnpɹˈɑːmptᵻd kˈeɪs tˈɛsts wˈɛðɚ ðə ɹˈuːl kæn nˈaʊ biː jˈuːzd ˌɪndᵻpˈɛndəntli.
+
+c04s03
+Schema: organized understanding of a situation. Assimilation: interpreting experience using an existing schema. Accommodation: changing a schema to fit experience.
+
+Piaget described children as actively constructing understanding. New experiences can fit an existing way of thinking or require revising it.
+
+His broad stages remain historically influential, but performance also varies with task wording, experience and support. Do not use a stage label as a complete account of a particular child.
+skˈiːmə: ˈɔːɹɡənˌaɪzd ˌʌndɚstˈændɪŋ əvə sˌɪtʃuːˈeɪʃən. ɐsˌɪmɪlˈeɪʃən: ɪntˈɜːpɹɪɾɪŋ ɛkspˈiəɹɪəns jˈuːzɪŋ ɐn ɛɡzˈɪstɪŋ skˈiːmə. ɐkˌɑːmədˈeɪʃən: tʃˈeɪndʒɪŋ ɐ skˈiːmə tə fˈɪt ɛkspˈiəɹɪəns.   pˈaɪəɡɪt dᵻskɹˈaɪbd tʃˈɪldɹən æz ˈæktɪvli kənstɹˈʌktɪŋ ˌʌndɚstˈændɪŋ. nˈuː ɛkspˈiəɹɪənsᵻz kæn fˈɪt ɐn ɛɡzˈɪstɪŋ wˈeɪ ʌv θˈɪŋkɪŋ ɔːɹ ɹᵻkwˈaɪɚ ɹᵻvˈaɪzɪŋ ɪt.   hɪz bɹˈɔːd stˈeɪdʒᵻz ɹᵻmˈeɪn hɪstˈɔːɹɪkli ˌɪnfluːˈɛnʃəl, bˌʌt pɚfˈɔːɹməns ˈɔːlsoʊ vˈɛɹiz wɪð tˈæsk wˈɜːdɪŋ, ɛkspˈiəɹɪəns ænd səpˈɔːɹt. duːnˌɑːt jˈuːz ɐ stˈeɪdʒ lˈeɪbəl æz ɐ kəmplˈiːt ɐkˈaʊnt əvə pɚtˈɪkjʊlɚ tʃˈaɪld.
+
+c04s03b
+Zone of proximal development: gap between independent and supported performance. Scaffolding: temporary support adjusted to a task. Guided participation: learning through supported shared activity.
+
+Vygotsky emphasized learning in social and cultural activity. Success with guidance identifies what is possible with that support.
+
+Jo can model one comparison, invite the visitor to explain, then reduce help. Independent performance needs a later attempt without the prompt and a suitable new example.
+zˈoʊn ʌv pɹˈɑːksɪməl dɪvˈɛləpmənt: ɡˈæp bᵻtwˌiːn ˌɪndᵻpˈɛndənt ænd səpˈɔːɹɾᵻd pɚfˈɔːɹməns. skˈæfoʊldɪŋ: tˈɛmpɚɹˌɛɹi səpˈɔːɹt ɐdʒˈʌstᵻd tʊ ɐ tˈæsk. ɡˈaɪdᵻd pɑːɹtˈɪsɪpˈeɪʃən: lˈɜːnɪŋ θɹuː səpˈɔːɹɾᵻd ʃˈɛɹd æktˈɪvᵻɾi.   vaɪɡˈɑːtski ˈɛmfɐsˌaɪzd lˈɜːnɪŋ ɪn sˈoʊʃəl ænd kˈʌltʃɚɹəl æktˈɪvᵻɾi. səksˈɛs wɪð ɡˈaɪdəns aɪdˈɛntᵻfˌaɪz wʌt ɪz pˈɑːsᵻbəl wɪð ðæt səpˈɔːɹt.   dʒˈoʊ kæn mˈɑːdəl wˈʌn kəmpˈæɹɪsən, ɪnvˈaɪt ðə vˈɪzɪɾɚ tʊ ɛksplˈeɪn, ðˈɛn ɹᵻdˈuːs hˈɛlp. ˌɪndᵻpˈɛndənt pɚfˈɔːɹməns nˈiːdz ɐ lˈeɪɾɚɹ ɐtˈɛmpt wɪðˌaʊt ðə pɹˈɑːmpt ænd ɐ sˈuːɾəbəl nˈuː ɛɡzˈæmpəl.
+
+c04s04
+Receptive language: understanding communicated language. Expressive language: producing communicated language. Bilingual development: development involving more than one language.
+
+Understanding and producing words are different demands. Vocabulary in each language depends on exposure and context; a single-language count can miss knowledge expressed elsewhere.
+
+Invite clear, responsive communication rather than judging ability from one conversation. Concerns about development require culturally and linguistically appropriate assessment.
+ɹᵻsˈɛptɪv lˈæŋɡwɪdʒ: ˌʌndɚstˈændɪŋ kəmjˈuːnᵻkˌeɪɾᵻd lˈæŋɡwɪdʒ. ɛkspɹˈɛsɪv lˈæŋɡwɪdʒ: pɹədˈuːsɪŋ kəmjˈuːnᵻkˌeɪɾᵻd lˈæŋɡwɪdʒ. baɪlˈɪŋɡwəl dɪvˈɛləpmənt: dɪvˈɛləpmənt ɪnvˈɑːlvɪŋ mˈɔːɹ ðɐn wˈʌn lˈæŋɡwɪdʒ.   ˌʌndɚstˈændɪŋ ænd pɹədˈuːsɪŋ wˈɜːdz ɑːɹ dˈɪfɹənt dᵻmˈændz. voʊkˈæbjʊlˌɛɹi ɪn ˈiːtʃ lˈæŋɡwɪdʒ dᵻpˈɛndz ˌɔn ɛkspˈoʊʒɚ ænd kˈɑːntɛkst; ɐ sˈɪŋɡəllˈæŋɡwɪdʒ kˈaʊnt kæn mˈɪs nˈɑːlɪdʒ ɛkspɹˈɛst ˈɛlswɛɹ.   ɪnvˈaɪt klˈɪɹ, ɹᵻspˈɑːnsɪv kəmjˌuːnɪkˈeɪʃən ɹˈæðɚ ðɐn dʒˈʌdʒɪŋ ɐbˈɪləɾi fɹʌm wˈʌn kɑːnvɚsˈeɪʃən. kənsˈɜːnz ɐbˌaʊt dɪvˈɛləpmənt ɹᵻkwˈaɪɚ kˈʌltʃɚɹəli ænd lɪŋɡwˈɪstɪkli ɐpɹˈoʊpɹɪət ɐsˈɛsmənt.
+
+c04s05
+Developmental theories guide questions rather than establish rigid instructions for every age. Evidence on guided learning depends on how assistance and later transfer are measured.
+
+The café task is an illustration. It does not validate a teaching method for all learners or make a developmental assessment.
+dɪvˈɛləpmˈɛntəl θˈiəɹiz ɡˈaɪd kwˈɛstʃənz ɹˈæðɚ ðɐn ɪstˈæblɪʃ ɹˈɪdʒɪd ɪnstɹˈʌkʃənz fɔːɹ ˈɛvɹi ˈeɪdʒ. ˈɛvɪdəns ˌɔn ɡˈaɪdᵻd lˈɜːnɪŋ dᵻpˈɛndz ˌɔn hˌaʊ ɐsˈɪstəns ænd lˈeɪɾɚ tɹˈænsfɜːɹ ɑːɹ mˈɛʒɚd.   ðə kæfˈeɪ tˈæsk ɪz ɐn ˌɪləstɹˈeɪʃən. ɪt dʌznˌɑːt vˈælᵻdˌeɪt ɐ tˈiːtʃɪŋ mˈɛθəd fɔːɹ ˈɔːl lˈɜːnɚz ɔːɹ mˌeɪk ɐ dɪvˈɛləpmˈɛntəl ɐsˈɛsmənt.
+
+c04s06
+Apply the idea to this new fictional case.
+
+A bilingual child uses few English words during a brief workshop but communicates fluently with a family member in another language.
+
+Which response best fits the evidence?
+
+A. Consider language exposure and knowledge across settings.
+
+B. Conclude the child has limited total vocabulary.
+
+C. Stop using the other language immediately.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ baɪlˈɪŋɡwəl tʃˈaɪld jˈuːsᵻz fjˈuː ˈɪŋɡlɪʃ wˈɜːdz dˈʊɹɹɪŋ ɐ bɹˈiːf wˈɜːkʃɑːp bˌʌt kəmjˈuːnᵻkˌeɪts flˈuːəntli wɪð ɐ fˈæmɪli mˈɛmbɚɹ ɪn ɐnˈʌðɚ lˈæŋɡwɪdʒ.   wˌɪtʃ ɹᵻspˈɑːns bˈɛst fˈɪts ðɪ ˈɛvɪdəns?   ˈeɪ. kənsˈɪdɚ lˈæŋɡwɪdʒ ɛkspˈoʊʒɚ ænd nˈɑːlɪdʒ əkɹˌɑːs sˈɛɾɪŋz.   bˈiː. kəŋklˈuːd ðə tʃˈaɪld hɐz lˈɪmɪɾᵻd tˈoʊɾəl voʊkˈæbjʊlˌɛɹi.   sˈiː. stˈɑːp jˈuːzɪŋ ðɪ ˈʌðɚ lˈæŋɡwɪdʒ ɪmˈiːdɪətli.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c04s06-feedback-0
+A single-language sample is incomplete; context and suitable assessment matter.
+ɐ sˈɪŋɡəllˈæŋɡwɪdʒ sˈæmpəl ɪz ɪŋkəmplˈiːt; kˈɑːntɛkst ænd sˈuːɾəbəl ɐsˈɛsmənt mˈæɾɚ.
+
+c04s06-feedback-1
+That conclusion exceeds this brief observation.
+ðæt kəŋklˈuːʒən ɛksˈiːdz ðɪs bɹˈiːf ɑːbzɚvˈeɪʃən.
+
+c04s06-feedback-2
+The observation does not justify that recommendation.
+ðɪ ɑːbzɚvˈeɪʃən dʌznˌɑːt dʒˈʌstᵻfˌaɪ ðæt ɹˌɛkəmɛndˈeɪʃən.
+
+c04s07
+Try these questions without your notes.
+
+How does supported success differ from independent performance?
+
+Why can a single-language sample be incomplete?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   hˌaʊ dˈʌz səpˈɔːɹɾᵻd səksˈɛs dˈɪfɚ fɹʌm ˌɪndᵻpˈɛndənt pɚfˈɔːɹməns?   wˌaɪ kæn ɐ sˈɪŋɡəllˈæŋɡwɪdʒ sˈæmpəl biː ɪŋkəmplˈiːt?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c04s07-answers
+The assistance contributes to success; independence needs an appropriate attempt without it.
+
+Knowledge and exposure can be distributed across languages and contexts.
+ðɪ ɐsˈɪstəns kəntɹˈɪbjuːts tə səksˈɛs; ˌɪndᵻpˈɛndəns nˈiːdz ɐn ɐpɹˈoʊpɹɪət ɐtˈɛmpt wɪðˈaʊt ɪt.   nˈɑːlɪdʒ ænd ɛkspˈoʊʒɚ kæn biː dˈɪstɹɪbjˌuːɾᵻd əkɹˌɑːs lˈæŋɡwɪdʒᵻz ænd kˈɑːntɛksts.
+
+c04s08
+For your own learning, choose a task you can do with a guide. Reduce one prompt, then try a new example and record what still needs support.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+fɔːɹ jʊɹ ˈoʊn lˈɜːnɪŋ, tʃˈuːz ɐ tˈæsk juː kæn dˈuː wɪð ɐ ɡˈaɪd. ɹᵻdˈuːs wˈʌn pɹˈɑːmpt, ðˈɛn tɹˈaɪ ɐ nˈuː ɛɡzˈæmpəl ænd ɹˈɛkɚd wʌt stˈɪl nˈiːdz səpˈɔːɹt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c05s01
+A young visitor stays close to a caregiver in the noisy café, then explores once the caregiver joins the table. Leo wants to label the child’s attachment from that brief visit.
+ɐ jˈʌŋ vˈɪzɪɾɚ stˈeɪz klˈoʊs tʊ ɐ kˈɛɹɡɪvɚɹ ɪnðə nˈɔɪzi kæfˈeɪ, ðˈɛn ɛksplˈɔːɹz wˈʌns ðə kˈɛɹɡɪvɚ dʒˈɔɪnz ðə tˈeɪbəl. lˈiːoʊ wˈɔnts tə lˈeɪbəl ðə tʃˈaɪldz ɐtˈætʃmənt fɹʌm ðæt bɹˈiːf vˈɪzɪt.
+
+c05s02
+First, make a prediction about the café story.
+
+What can Leo reasonably conclude?
+
+A. The child has an insecure identity.
+
+B. Proximity changed as the situation changed.
+
+C. The caregiver caused a permanent problem.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt kæn lˈiːoʊ ɹˈiːzənəbli kəŋklˈuːd?   ˈeɪ. ðə tʃˈaɪld hɐz ɐn ˌɪnsᵻkjˈʊɹ aɪdˈɛntᵻɾi.   bˈiː. pɹɑːksˈɪmᵻɾi tʃˈeɪndʒd æz ðə sˌɪtʃuːˈeɪʃən tʃˈeɪndʒd.   sˈiː. ðə kˈɛɹɡɪvɚ kˈɔːzd ɐ pˈɜːmənənt pɹˈɑːbləm.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c05s02-feedback-0
+One episode does not support a fixed classification.
+wˈʌn ˈɛpɪsˌoʊd dʌznˌɑːt səpˈɔːɹt ɐ fˈɪkst klˌæsɪfɪkˈeɪʃən.
+
+c05s02-feedback-1
+This describes the observation while leaving its explanation open.
+ðɪs dᵻskɹˈaɪbz ðɪ ɑːbzɚvˈeɪʃən wˌaɪl lˈiːvɪŋ ɪts ɛksplɐnˈeɪʃən ˈoʊpən.
+
+c05s02-feedback-2
+Neither causation nor permanence follows from this visit.
+nˈiːðɚ kɔːsˈeɪʃən nˈɔːɹ pˈɜːmənəns fˈɑːloʊz fɹʌm ðɪs vˈɪzɪt.
+
+c05s03
+Secure base: a caregiver relationship supporting exploration. Safe haven: comfort sought when distressed.
+
+Attachment theory concerns how relationships support safety and exploration, particularly under stress. Staying close in an unfamiliar room can have several explanations.
+
+A short café visit cannot classify a child or caregiver. Researchers use structured procedures and consider the relationship and context being measured.
+sᵻkjˈʊɹ bˈeɪs: ɐ kˈɛɹɡɪvɚ ɹᵻlˈeɪʃənʃˌɪp səpˈɔːɹɾɪŋ ɛksplɔːɹˈeɪʃən. sˈeɪf hˈeɪvən: kˈʌmfɚt sˈɔːt wɛn dɪstɹˈɛst.   ɐtˈætʃmənt θˈiəɹi kənsˈɜːnz hˌaʊ ɹᵻlˈeɪʃənʃˌɪps səpˈɔːɹt sˈeɪfti ænd ɛksplɔːɹˈeɪʃən, pɚtˈɪkjʊlɚli ˌʌndɚ stɹˈɛs. stˈeɪɪŋ klˈoʊs ɪn ɐn ʌnfəmˈɪlɪɹ ɹˈuːm kæn hæv sˈɛvɹəl ɛksplɐnˈeɪʃənz.   ɐ ʃˈɔːɹt kæfˈeɪ vˈɪzɪt kænˈɑːt klˈæsᵻfˌaɪ ɐ tʃˈaɪld ɔːɹ kˈɛɹɡɪvɚ. ɹᵻsˈɜːtʃɚz jˈuːs stɹˈʌktʃɚd pɹəsˈiːdʒɚz ænd kənsˈɪdɚ ðə ɹᵻlˈeɪʃənʃˌɪp ænd kˈɑːntɛkst bˌiːɪŋ mˈɛʒɚd.
+
+c05s03b
+Attachment pattern: observed relationship-related organization. Caregiving sensitivity: noticing and responding appropriately to signals.
+
+Temperament and attachment address different questions. A child may react strongly to noise without having an insecure relationship.
+
+Attachment classifications summarize behavior in specified circumstances. They are not moral ratings, permanent personality types or diagnoses from a single behavior.
+ɐtˈætʃmənt pˈætɚn: əbzˈɜːvd ɹᵻlˈeɪʃənʃˌɪpɹᵻlˈeɪɾᵻd ˌɔːɹɡɐnᵻzˈeɪʃən. kˈɛɹɡɪvɪŋ sˌɛnsɪtˈɪvᵻɾi: nˈoʊɾɪsɪŋ ænd ɹᵻspˈɑːndɪŋ ɐpɹˈoʊpɹɪətli tə sˈɪɡnəlz.   tˈɛmpɹəmənt ænd ɐtˈætʃmənt ɐdɹˈɛs dˈɪfɹənt kwˈɛstʃənz. ɐ tʃˈaɪld mˈeɪ ɹɪˈækt stɹˈɔŋli tə nˈɔɪz wɪðˌaʊt hˌævɪŋ ɐn ˌɪnsᵻkjˈʊɹ ɹᵻlˈeɪʃənʃˌɪp.   ɐtˈætʃmənt klˌæsɪfɪkˈeɪʃənz sˈʌmɚɹˌaɪz bᵻhˈeɪvjɚɹ ɪn spˈɛsᵻfˌaɪd sˈɜːkəmstˌænsᵻz. ðeɪ ɑːɹ nˌɑːt mˈɔːɹəl ɹˈeɪɾɪŋz, pˈɜːmənənt pˌɜːsənˈælᵻɾi tˈaɪps ɔːɹ dˌaɪəɡnˈoʊsiːz fɹʌm ɐ sˈɪŋɡəl bᵻhˈeɪvjɚ.
+
+c05s04
+Responsiveness: appropriate response to another’s signals. Continuity: persistence across time. Change: variation in later relationship experience.
+
+Responsive care matters, but caregiving occurs within work, health, housing and cultural conditions. Children can form attachments with more than one caregiver.
+
+Early patterns can be associated with later outcomes without determining them. Later relationships and changing circumstances also contribute to development.
+ɹᵻspˈɑːnsɪvnəs: ɐpɹˈoʊpɹɪət ɹᵻspˈɑːns tʊ ɐnˈʌðɚz sˈɪɡnəlz. kɑːntɪnjˈuːᵻɾi: pɚsˈɪstəns əkɹˌɑːs tˈaɪm. tʃˈeɪndʒ: vˌɛɹɪˈeɪʃən ɪn lˈeɪɾɚ ɹᵻlˈeɪʃənʃˌɪp ɛkspˈiəɹɪəns.   ɹᵻspˈɑːnsɪv kˈɛɹ mˈæɾɚz, bˌʌt kˈɛɹɡɪvɪŋ əkˈɜːz wɪðˌɪn wˈɜːk, hˈɛlθ, hˈaʊzɪŋ ænd kˈʌltʃɚɹəl kəndˈɪʃənz. tʃˈɪldɹən kæn fˈɔːɹm ɐtˈætʃmənts wɪð mˈɔːɹ ðɐn wˈʌn kˈɛɹɡɪvɚ.   ˈɜːli pˈætɚnz kæn biː ɐsˈoʊsɪˌeɪɾᵻd wɪð lˈeɪɾɚɹ ˈaʊtkʌmz wɪðˌaʊt dɪtˈɜːmɪnɪŋ ðˌɛm. lˈeɪɾɚ ɹᵻlˈeɪʃənʃˌɪps ænd tʃˈeɪndʒɪŋ sˈɜːkəmstˌænsᵻz ˈɔːlsoʊ kəntɹˈɪbjuːt tə dɪvˈɛləpmənt.
+
+c05s05
+Attachment evidence uses relationship-specific measures and longitudinal comparisons. Cultural practices, measurement and stress conditions affect interpretation.
+
+Early associations with later outcomes are probabilistic. They do not show that one behavior identifies a permanent attachment style or parental fault.
+ɐtˈætʃmənt ˈɛvɪdəns jˈuːsᵻz ɹᵻlˈeɪʃənʃˌɪpspəsˈɪfɪk mˈɛʒɚz ænd lˈɔndʒɪtˌuːdɪnəl kəmpˈæɹɪsənz. kˈʌltʃɚɹəl pɹˈæktɪsᵻz, mˈɛʒɚmənt ænd stɹˈɛs kəndˈɪʃənz ɐfˈɛkt ɪntˌɜːpɹɪtˈeɪʃən.   ˈɜːli ɐsˌoʊsɪˈeɪʃənz wɪð lˈeɪɾɚɹ ˈaʊtkʌmz ɑːɹ pɹˌɑːbəbɪlˈɪstɪk. ðeɪ duːnˌɑːt ʃˈoʊ ðˈætwˌʌn bᵻhˈeɪvjɚɹ aɪdˈɛntᵻfˌaɪz ɐ pˈɜːmənənt ɐtˈætʃmənt stˈaɪl ɔːɹ pɚɹˈɛntəl fˈɔlt.
+
+c05s06
+Apply the idea to this new fictional case.
+
+A child startles easily but seeks comfort from a familiar caregiver and later resumes play.
+
+Which interpretation is best supported?
+
+A. High reactivity and a supportive relationship can coexist.
+
+B. Strong reactions rule out a secure relationship.
+
+C. Comfort proves every later relationship will be secure.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ tʃˈaɪld stˈɑːɹɾəlz ˈiːzili bˌʌt sˈiːks kˈʌmfɚt fɹʌm ɐ fəmˈɪlɪɹ kˈɛɹɡɪvɚ ænd lˈeɪɾɚ ɹᵻzˈuːmz plˈeɪ.   wˌɪtʃ ɪntˌɜːpɹɪtˈeɪʃən ɪz bˈɛst səpˈɔːɹɾᵻd?   ˈeɪ. hˈaɪ ɹɪɐktˈɪvᵻɾi ænd ɐ səpˈɔːɹɾɪv ɹᵻlˈeɪʃənʃˌɪp kæn kˌoʊɛɡzˈɪst.   bˈiː. stɹˈɔŋ ɹɪˈækʃənz ɹˈuːl ˈaʊt ɐ sᵻkjˈʊɹ ɹᵻlˈeɪʃənʃˌɪp.   sˈiː. kˈʌmfɚt pɹˈuːvz ˈɛvɹi lˈeɪɾɚ ɹᵻlˈeɪʃənʃˌɪp wɪl biː sᵻkjˈʊɹ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c05s06-feedback-0
+Temperament and relationship security are distinct questions.
+tˈɛmpɹəmənt ænd ɹᵻlˈeɪʃənʃˌɪp sᵻkjˈʊɹɹᵻɾi ɑːɹ dɪstˈɪŋkt kwˈɛstʃənz.
+
+c05s06-feedback-1
+Reactivity does not uniquely identify attachment security.
+ɹɪɐktˈɪvᵻɾi dʌznˌɑːt juːnˈiːkli aɪdˈɛntᵻfˌaɪ ɐtˈætʃmənt sᵻkjˈʊɹɹᵻɾi.
+
+c05s06-feedback-2
+This overgeneralizes one relationship and occasion.
+ðɪs ˌoʊvɚdʒˈɛnɚɹəlˌaɪzᵻz wˈʌn ɹᵻlˈeɪʃənʃˌɪp ænd əkˈeɪʒən.
+
+c05s07
+Try these questions without your notes.
+
+What is the secure-base idea?
+
+Why avoid a fixed attachment identity?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt ɪz ðə sᵻkjˈʊɹbˈeɪs aɪdˈiə?   wˌaɪ ɐvˈɔɪd ɐ fˈɪkst ɐtˈætʃmənt aɪdˈɛntᵻɾi?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c05s07-answers
+A supportive relationship can provide safety from which a child explores.
+
+Patterns concern relationships and conditions, can change, and need suitable assessment.
+ɐ səpˈɔːɹɾɪv ɹᵻlˈeɪʃənʃˌɪp kæn pɹəvˈaɪd sˈeɪfti fɹʌm wˈɪtʃ ɐ tʃˈaɪld ɛksplˈɔːɹz.   pˈætɚnz kənsˈɜːn ɹᵻlˈeɪʃənʃˌɪps ænd kəndˈɪʃənz, kæn tʃˈeɪndʒ, ænd nˈiːd sˈuːɾəbəl ɐsˈɛsmənt.
+
+c05s08
+Use a fictional film scene to distinguish a description of support-seeking from an attachment label. Do not classify real children or partners.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+jˈuːs ɐ fˈɪkʃənəl fˈɪlm sˈiːn tə dɪstˈɪŋɡwɪʃ ɐ dᵻskɹˈɪpʃən ʌv səpˈɔːɹtsˈiːkɪŋ fɹʌm ɐn ɐtˈætʃmənt lˈeɪbəl. duːnˌɑːt klˈæsᵻfˌaɪ ɹˈiːəl tʃˈɪldɹən ɔːɹ pˈɑːɹtnɚz.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c06s01
+Jo notices that a younger visitor is quiet at the café but animated at a neighborhood club. Leo blames parenting. Sam discovers that the café instructions are unfamiliar and the club has a trusted friend.
+dʒˈoʊ nˈoʊɾɪsᵻz ðˌæɾə jˈʌŋɡɚ vˈɪzɪɾɚɹ ɪz kwˈaɪət æt ðə kæfˈeɪ bˌʌt ˈænɪmˌeɪɾᵻd æɾə nˈeɪbɚhˌʊd klˈʌb. lˈiːoʊ blˈeɪmz pˈɛɹəntɪŋ. sˈæm dɪskˈʌvɚz ðætðə kæfˈeɪ ɪnstɹˈʌkʃənz ɑːɹ ʌnfəmˈɪlɪɹ ænd ðə klˈʌb hɐz ɐ tɹˈʌstᵻd fɹˈɛnd.
+
+c06s02
+First, make a prediction about the café story.
+
+What should Sam examine first?
+
+A. Which contextual conditions differ across settings.
+
+B. Which parenting label fits the family.
+
+C. Whether quietness proves low social ability.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ʃˌʊd sˈæm ɛɡzˈæmɪn fˈɜːst?   ˈeɪ. wˌɪtʃ kəntˈɛkstʃuːəl kəndˈɪʃənz dˈɪfɚɹ əkɹˌɑːs sˈɛɾɪŋz.   bˈiː. wˌɪtʃ pˈɛɹəntɪŋ lˈeɪbəl fˈɪts ðə fˈæmɪli.   sˈiː. wˈɛðɚ kwˈaɪətnəs pɹˈuːvz lˈoʊ sˈoʊʃəl ɐbˈɪləɾi.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c06s02-feedback-0
+The contrasting settings offer testable contextual explanations.
+ðə kəntɹˈæstɪŋ sˈɛɾɪŋz ˈɔfɚ tˈɛstəbəl kəntˈɛkstʃuːəl ɛksplɐnˈeɪʃənz.
+
+c06s02-feedback-1
+A label cannot establish the cause of the observed difference.
+ɐ lˈeɪbəl kænˈɑːt ɪstˈæblɪʃ ðə kˈɔːz ʌvðɪ əbzˈɜːvd dˈɪfɹəns.
+
+c06s02-feedback-2
+One setting does not define a general social capacity.
+wˈʌn sˈɛɾɪŋ dʌznˌɑːt dᵻfˈaɪn ɐ dʒˈɛnɚɹəl sˈoʊʃəl kəpˈæsᵻɾi.
+
+c06s03
+Microsystem: immediate setting and relationships. Mesosystem: connections between immediate settings.
+
+An ecological approach examines the child in family, school, peer and community settings. Links between those settings can influence experience.
+
+A quiet response at the café may reflect unfamiliar language, relationships or task expectations. A parenting explanation is one possible account, not a finding established by the observation.
+mˈaɪkɹoʊsˌɪstəm: ɪmˈiːdɪət sˈɛɾɪŋ ænd ɹᵻlˈeɪʃənʃˌɪps. mˈɛsəsˌɪstəm: kənˈɛkʃənz bᵻtwˌiːn ɪmˈiːdɪət sˈɛɾɪŋz.   ɐn ˌɛkəlˈɑːdʒɪkəl ɐpɹˈoʊtʃ ɛɡzˈæmɪnz ðə tʃˈaɪld ɪn fˈæmɪli, skˈuːl, pˈɪɹ ænd kəmjˈuːnᵻɾi sˈɛɾɪŋz. lˈɪŋks bᵻtwˌiːn ðoʊz sˈɛɾɪŋz kæn ˈɪnfluːəns ɛkspˈiəɹɪəns.   ɐ kwˈaɪət ɹᵻspˈɑːns æt ðə kæfˈeɪ mˈeɪ ɹᵻflˈɛkt ʌnfəmˈɪlɪɹ lˈæŋɡwɪdʒ, ɹᵻlˈeɪʃənʃˌɪps ɔːɹ tˈæsk ɛkspɪktˈeɪʃənz. ɐ pˈɛɹəntɪŋ ɛksplɐnˈeɪʃən ɪz wˈʌn pˈɑːsᵻbəl ɐkˈaʊnt, nˌɑːɾə fˈaɪndɪŋ ɪstˈæblɪʃt baɪ ðɪ ɑːbzɚvˈeɪʃən.
+
+c06s03b
+Bidirectional influence: each participant affects the other. Selection effect: people enter different environments. Confounding: another factor contributes to an association.
+
+Children affect adult responses while adults shape children’s opportunities. Family stress, resources and individual characteristics may influence both.
+
+A correlation between a parenting measure and behavior does not isolate a one-way cause. Stronger designs examine alternative explanations and change over time.
+baɪdᵻɹˈɛkʃənəl ˈɪnfluːəns: ˈiːtʃ pɑːɹtˈɪsɪpənt ɐfˈɛkts ðɪ ˈʌðɚ. sᵻlˈɛkʃən ɪfˈɛkt: pˈiːpəl ˈɛntɚ dˈɪfɹənt ɛnvˈaɪɹənmənts. kənfˈaʊndɪŋ: ɐnˈʌðɚ fˈæktɚ kəntɹˈɪbjuːts tʊ ɐn ɐsˌoʊsɪˈeɪʃən.   tʃˈɪldɹən ɐfˈɛkt ɐdˈʌlt ɹᵻspˈɑːnsᵻz wˌaɪl ɐdˈʌlts ʃˈeɪp tʃˈɪldɹənz ɑːpɚtˈuːnᵻɾiz. fˈæmɪli stɹˈɛs, ɹᵻsˈɔːɹsᵻz ænd ˌɪndᵻvˈɪdʒuːəl kˌæɹɪktɚɹˈɪstɪks mˈeɪ ˈɪnfluːəns bˈoʊθ.   ɐ kˌɔɹɪlˈeɪʃən bᵻtwˌiːn ɐ pˈɛɹəntɪŋ mˈɛʒɚ ænd bᵻhˈeɪvjɚ dʌznˌɑːt ˈaɪsəlˌeɪt ɐ wˈʌnwˈeɪ kˈɔːz. stɹˈɔŋɡɚ dɪzˈaɪnz ɛɡzˈæmɪn ɔːltˈɜːnətˌɪv ɛksplɐnˈeɪʃənz ænd tʃˈeɪndʒ ˌoʊvɚ tˈaɪm.
+
+c06s04
+Peer norm: expectation within a peer group. Socialization: learning shared practices and expectations. Exosystem: settings affecting a child indirectly.
+
+Peers can encourage participation, practice and belonging, as well as pressure toward risky actions. The effect depends on the group and situation.
+
+An adult’s work schedule may change a child’s available support indirectly. Examine specific conditions before turning a contextual pattern into a judgment about a family.
+pˈɪɹ nˈɔːɹm: ɛkspɪktˈeɪʃən wɪðˌɪn ɐ pˈɪɹ ɡɹˈuːp. sˌoʊʃəlᵻzˈeɪʃən: lˈɜːnɪŋ ʃˈɛɹd pɹˈæktɪsᵻz ænd ɛkspɪktˈeɪʃənz. ˈɛksoʊsˌɪstəm: sˈɛɾɪŋz ɐfˈɛktɪŋ ɐ tʃˈaɪld ˌɪndɚɹˈɛktli.   pˈɪɹz kæn ɛŋkˈɜːɹɪdʒ pɑːɹtˈɪsɪpˈeɪʃən, pɹˈæktɪs ænd bᵻlˈɔŋɪŋ, æz wˈɛl æz pɹˈɛʃɚ təwˈɔːɹd ɹˈɪski ˈækʃənz. ðɪ ɪfˈɛkt dᵻpˈɛndz ɔnðə ɡɹˈuːp ænd sˌɪtʃuːˈeɪʃən.   ɐn ɐdˈʌlts wˈɜːk skˈɛdʒuːl mˈeɪ tʃˈeɪndʒ ɐ tʃˈaɪldz ɐvˈeɪləbəl səpˈɔːɹt ˌɪndɚɹˈɛktli. ɛɡzˈæmɪn spəsˈɪfɪk kəndˈɪʃənz bᵻfˌɔːɹ tˈɜːnɪŋ ɐ kəntˈɛkstʃuːəl pˈætɚn ˌɪntʊ ɐ dʒˈʌdʒmənt ɐbˌaʊt ɐ fˈæmɪli.
+
+c06s05
+Ecological models organize possible influences; drawing a map does not prove every proposed causal arrow. Observational associations need careful interpretation.
+
+Culture, resources and structural constraints qualify comparisons of family practices. One preferred family style is not a universal explanation of outcomes.
+ˌɛkəlˈɑːdʒɪkəl mˈɑːdəlz ˈɔːɹɡənˌaɪz pˈɑːsᵻbəl ˈɪnfluːənsᵻz; dɹˈɔːɪŋ ɐ mˈæp dʌznˌɑːt pɹˈuːv ˈɛvɹi pɹəpˈoʊzd kˈɔːzəl ˈæɹoʊ. ɑːbzɚvˈeɪʃənəl ɐsˌoʊsɪˈeɪʃənz nˈiːd kˈɛɹfəl ɪntˌɜːpɹɪtˈeɪʃən.   kˈʌltʃɚ, ɹᵻsˈɔːɹsᵻz ænd stɹˈʌktʃɚɹəl kənstɹˈeɪnts kwˈɔlᵻfˌaɪ kəmpˈæɹɪsənz ʌv fˈæmɪli pɹˈæktɪsᵻz. wˈʌn pɹɪfˈɜːd fˈæmɪli stˈaɪl ɪz nˌɑːɾə jˌuːnɪvˈɜːsəl ɛksplɐnˈeɪʃən ʌv ˈaʊtkʌmz.
+
+c06s06
+Apply the idea to this new fictional case.
+
+A study finds that children whose caregivers attend school events have higher average attainment, but work schedules and resources were not measured.
+
+What is a plausible alternative explanation?
+
+A. The association proves parental attendance causes attainment.
+
+B. Resources or schedules influence both attendance and attainment.
+
+C. Attendance cannot ever matter.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ stˈʌdi fˈaɪndz ðæt tʃˈɪldɹən hˌuːz kˈɛɹɡɪvɚz ɐtˈɛnd skˈuːl ᵻvˈɛnts hæv hˈaɪɚɹ ˈævɹɪdʒ ɐtˈeɪnmənt, bˌʌt wˈɜːk skˈɛdʒuːlz ænd ɹᵻsˈɔːɹsᵻz wɜː nˌɑːt mˈɛʒɚd.   wˌʌt ɪz ɐ plˈɔːzᵻbəl ɔːltˈɜːnətˌɪv ɛksplɐnˈeɪʃən?   ˈeɪ. ðɪ ɐsˌoʊsɪˈeɪʃən pɹˈuːvz pɚɹˈɛntəl ɐtˈɛndəns kˈɔːzᵻz ɐtˈeɪnmənt.   bˈiː. ɹᵻsˈɔːɹsᵻz ɔːɹ skˈɛdʒuːlz ˈɪnfluːəns bˈoʊθ ɐtˈɛndəns ænd ɐtˈeɪnmənt.   sˈiː. ɐtˈɛndəns kænˈɑːt ˈɛvɚ mˈæɾɚ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c06s06-feedback-0
+The observation leaves shared causes unmeasured.
+ðɪ ɑːbzɚvˈeɪʃən lˈiːvz ʃˈɛɹd kˈɔːzᵻz ʌnmˈɛʒɚd.
+
+c06s06-feedback-1
+Shared constraints can generate an association and should be examined.
+ʃˈɛɹd kənstɹˈeɪnts kæn dʒˈɛnɚɹˌeɪt ɐn ɐsˌoʊsɪˈeɪʃən ænd ʃˌʊd biː ɛɡzˈæmɪnd.
+
+c06s06-feedback-2
+A causal limitation does not prove that attendance has no effect.
+ɐ kˈɔːzəl lˌɪmɪtˈeɪʃən dʌznˌɑːt pɹˈuːv ðæt ɐtˈɛndəns hɐz nˈoʊ ɪfˈɛkt.
+
+c06s07
+Try these questions without your notes.
+
+What does bidirectional influence mean?
+
+How can a work schedule influence development?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt dˈʌz baɪdᵻɹˈɛkʃənəl ˈɪnfluːəns mˈiːn?   hˌaʊ kæn ɐ wˈɜːk skˈɛdʒuːl ˈɪnfluːəns dɪvˈɛləpmənt?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c06s07-answers
+Each person’s behavior can affect the other’s response over time.
+
+It can change available time, stress or access to support without involving the child directly.
+ˈiːtʃ pˈɜːsənz bᵻhˈeɪvjɚ kæn ɐfˈɛkt ðɪ ˈʌðɚz ɹᵻspˈɑːns ˌoʊvɚ tˈaɪm.   ɪt kæn tʃˈeɪndʒ ɐvˈeɪləbəl tˈaɪm, stɹˈɛs ɔːɹ ˈæksɛs tə səpˈɔːɹt wɪðˌaʊt ɪnvˈɑːlvɪŋ ðə tʃˈaɪld dᵻɹˈɛktli.
+
+c06s08
+Map the contexts in a fictional learner’s participation problem. Include one indirect influence and one practical environmental change.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+mˈæp ðə kˈɑːntɛksts ɪn ɐ fˈɪkʃənəl lˈɜːnɚz pɑːɹtˈɪsɪpˈeɪʃən pɹˈɑːbləm. ɪŋklˈuːd wˈʌn ˌɪndɚɹˈɛkt ˈɪnfluːəns ænd wˈʌn pɹˈæktɪkəl ɛnvˌaɪɹənmˈɛntəl tʃˈeɪndʒ.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c07s01
+Jo checks a repair carefully when working alone but rushes during a lively public demonstration. Leo says teenagers cannot make sound decisions. Maya points to Jo’s careful work earlier that day.
+dʒˈoʊ tʃˈɛks ɐ ɹᵻpˈɛɹ kˈɛɹfəli wɛn wˈɜːkɪŋ ɐlˈoʊn bˌʌt ɹˈʌʃᵻz dˈʊɹɹɪŋ ɐ lˈaɪvli pˈʌblɪk dˌɛmənstɹˈeɪʃən. lˈiːoʊ sˈɛz tˈiːneɪdʒɚz kænˈɑːt mˌeɪk sˈaʊnd dᵻsˈɪʒənz. mˈaɪə pˈɔɪnts tə dʒˈoʊz kˈɛɹfəl wˈɜːk ˈɜːlɪɚ ðæt dˈeɪ.
+
+c07s02
+First, make a prediction about the café story.
+
+Which explanation fits Jo’s contrasting performance best?
+
+A. Adolescents cannot reason carefully.
+
+B. The audience and task conditions may matter.
+
+C. One careful repair proves context has no effect.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ ɛksplɐnˈeɪʃən fˈɪts dʒˈoʊz kəntɹˈæstɪŋ pɚfˈɔːɹməns bˈɛst?   ˈeɪ. ˌædəlˈɛsənts kænˈɑːt ɹˈiːzən kˈɛɹfəli.   bˈiː. ðɪ ˈɔːdiəns ænd tˈæsk kəndˈɪʃənz mˈeɪ mˈæɾɚ.   sˈiː. wˈʌn kˈɛɹfəl ɹᵻpˈɛɹ pɹˈuːvz kˈɑːntɛkst hɐz nˈoʊ ɪfˈɛkt.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c07s02-feedback-0
+Jo’s earlier work already contradicts that unrestricted claim.
+dʒˈoʊz ˈɜːlɪɚ wˈɜːk ɔːlɹˌɛdi kˌɑːntɹədˈɪkts ðæt ˌʌnɹᵻstɹˈɪktᵻd klˈeɪm.
+
+c07s02-feedback-1
+The comparison suggests conditions worth testing without fixing the cause.
+ðə kəmpˈæɹɪsən sədʒˈɛsts kəndˈɪʃənz wˈɜːθ tˈɛstɪŋ wɪðˌaʊt fˈɪksɪŋ ðə kˈɔːz.
+
+c07s02-feedback-2
+One success cannot establish immunity to contextual influence.
+wˈʌn səksˈɛs kænˈɑːt ɪstˈæblɪʃ ɪmjˈuːnᵻɾi tə kəntˈɛkstʃuːəl ˈɪnfluːəns.
+
+c07s03
+Self-regulation: regulating attention, emotion and action.
+
+Puberty and adolescence are related but not identical. Physical development, opportunities and social expectations can change on different schedules.
+
+Adolescents often show sophisticated reasoning. Decision quality varies with experience, arousal, incentives and social context. Average developmental patterns do not determine an individual’s competence.
+sˈɛlfɹˌɛɡjʊlˈeɪʃən: ɹˈɛɡjʊlˌeɪɾɪŋ ɐtˈɛnʃən, ɪmˈoʊʃən ænd ˈækʃən.   pjˈuːbɚɾi ænd ˌædəlˈɛsəns ɑːɹ ɹᵻlˈeɪɾᵻd bˌʌt nˌɑːt aɪdˈɛntɪkəl. fˈɪzɪkəl dɪvˈɛləpmənt, ɑːpɚtˈuːnᵻɾiz ænd sˈoʊʃəl ɛkspɪktˈeɪʃənz kæn tʃˈeɪndʒ ˌɔn dˈɪfɹənt skˈɛdʒuːlz.   ˌædəlˈɛsənts ˈɔfən ʃˈoʊ səfˈɪstᵻkˌeɪɾᵻd ɹˈiːzənɪŋ. dᵻsˈɪʒən kwˈɔlᵻɾi vˈɛɹiz wɪð ɛkspˈiəɹɪəns, ɚɹˈaʊzəl, ɪnsˈɛntɪvz ænd sˈoʊʃəl kˈɑːntɛkst. ˈævɹɪdʒ dɪvˈɛləpmˈɛntəl pˈætɚnz duːnˌɑːt dɪtˈɜːmɪn ɐn ˌɪndᵻvˈɪdʒuːəlz kˈɑːmpɪtəns.
+
+c07s03b
+Peer influence: effects of peers on judgments or actions.
+
+Peers can encourage care and competence as well as risk. Identity exploration and growing autonomy can support learning and responsibility.
+
+Offer real choices within clear safety boundaries. A supervised practice opportunity can teach a skill more directly than an age stereotype or a vague demand to be sensible.
+pˈɪɹ ˈɪnfluːəns: ɪfˈɛkts ʌv pˈɪɹz ˌɔn dʒˈʌdʒmənts ɔːɹ ˈækʃənz.   pˈɪɹz kæn ɛŋkˈɜːɹɪdʒ kˈɛɹ ænd kˈɑːmpɪtəns æz wˈɛl æz ɹˈɪsk. aɪdˈɛntᵻɾi ɛksplɔːɹˈeɪʃən ænd ɡɹˈoʊɪŋ ɔːtˈɑːnəmi kæn səpˈɔːɹt lˈɜːnɪŋ ænd ɹᵻspˌɑːnsəbˈɪlᵻɾi.   ˈɔfɚ ɹˈiːəl tʃˈɔɪsᵻz wɪðˌɪn klˈɪɹ sˈeɪfti bˈaʊndɚɹiz. ɐ sˈuːpɚvˌaɪzd pɹˈæktɪs ɑːpɚtˈuːnᵻɾi kæn tˈiːtʃ ɐ skˈɪl mˈɔːɹ dᵻɹˈɛktli ðˌænən ˈeɪdʒ stˈɛɹɪˌoʊtaɪp ɔːɹ ɐ vˈeɪɡ dᵻmˈænd təbi sˈɛnsᵻbəl.
+
+c07s04
+Group average: summary across a sample. Individual variability: differences within an age group. Developmental trajectory: pattern of change over time.
+
+Brain development continues across adolescence and adulthood, but different measures follow different trajectories. There is no single measurement that marks every person as fully developed at a particular birthday.
+
+A group brain finding does not determine legal or practical competence by itself. Specify the actual decision and its demands.
+ɡɹˈuːp ˈævɹɪdʒ: sˈʌmɚɹi əkɹˌɑːs ɐ sˈæmpəl. ˌɪndᵻvˈɪdʒuːəl vˌɛɹɪəbˈɪlᵻɾi: dˈɪfɹənsᵻz wɪðˌɪn ɐn ˈeɪdʒ ɡɹˈuːp. dɪvˈɛləpmˈɛntəl tɹədʒˈɛktɚɹi: pˈætɚn ʌv tʃˈeɪndʒ ˌoʊvɚ tˈaɪm.   bɹˈeɪn dɪvˈɛləpmənt kəntˈɪnjuːz əkɹˌɑːs ˌædəlˈɛsəns ænd ɐdˈʌlthʊd, bˌʌt dˈɪfɹənt mˈɛʒɚz fˈɑːloʊ dˈɪfɹənt tɹədʒˈɛktɚɹiz. ðɛɹ ɪz nˈoʊ sˈɪŋɡəl mˈɛʒɚmənt ðæt mˈɑːɹks ˈɛvɹi pˈɜːsən æz fˈʊli dɪvˈɛləpt æɾə pɚtˈɪkjʊlɚ bˈɜːθdeɪ.   ɐ ɡɹˈuːp bɹˈeɪn fˈaɪndɪŋ dʌznˌɑːt dɪtˈɜːmɪn lˈiːɡəl ɔːɹ pɹˈæktɪkəl kˈɑːmpɪtəns baɪ ɪtsˈɛlf. spˈɛsᵻfˌaɪ ðɪ ˈæktʃuːəl dᵻsˈɪʒən ænd ɪts dᵻmˈændz.
+
+c07s05
+Adolescent studies examine selected tasks, populations and social conditions. Laboratory risk-taking is not identical to every real-world decision.
+
+Developmental evidence can inform support while preserving individual assessment and agency. A brain-development headline cannot establish incapacity.
+ˌædəlˈɛsənt stˈʌdiz ɛɡzˈæmɪn sᵻlˈɛktᵻd tˈæsks, pˌɑːpjʊlˈeɪʃənz ænd sˈoʊʃəl kəndˈɪʃənz. lˈæbɹətˌɔːɹi ɹˈɪsktˈeɪkɪŋ ɪz nˌɑːt aɪdˈɛntɪkəl tʊ ˈɛvɹi ɹˈiːəlwˈɜːld dᵻsˈɪʒən.   dɪvˈɛləpmˈɛntəl ˈɛvɪdəns kæn ɪnfˈɔːɹm səpˈɔːɹt wˌaɪl pɹɪzˈɜːvɪŋ ˌɪndᵻvˈɪdʒuːəl ɐsˈɛsmənt ænd ˈeɪdʒənsi. ɐ bɹˈeɪndɪvˈɛləpmənt hˈɛdlaɪn kænˈɑːt ɪstˈæblɪʃ ɪŋkəpˈæsᵻɾi.
+
+c07s06
+Apply the idea to this new fictional case.
+
+A youth workshop includes an unfamiliar procedure with real safety requirements.
+
+What should the team do?
+
+A. Exclude every adolescent from meaningful decisions.
+
+B. Assume age guarantees equivalent experience.
+
+C. Provide preparation, clear boundaries and appropriate supervision.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ jˈuːθ wˈɜːkʃɑːp ɪŋklˈuːdz ɐn ʌnfəmˈɪlɪɹ pɹəsˈiːdʒɚ wɪð ɹˈiːəl sˈeɪfti ɹᵻkwˈaɪɚmənts.   wˌʌt ʃˌʊd ðə tˈiːm dˈuː?   ˈeɪ. ɛksklˈuːd ˈɛvɹi ˌædəlˈɛsənt fɹʌm mˈiːnɪŋfəl dᵻsˈɪʒənz.   bˈiː. ɐsˈuːm ˈeɪdʒ ɡˌæɹəntˈiːz ɪkwˈɪvələnt ɛkspˈiəɹɪəns.   sˈiː. pɹəvˈaɪd pɹˌɛpɚɹˈeɪʃən, klˈɪɹ bˈaʊndɚɹiz ænd ɐpɹˈoʊpɹɪət suːpɚvˈɪʒən.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c07s06-feedback-0
+A blanket exclusion ignores task, experience and support.
+ɐ blˈæŋkɪt ɛksklˈuːʒən ɪɡnˈɔːɹz tˈæsk, ɛkspˈiəɹɪəns ænd səpˈɔːɹt.
+
+c07s06-feedback-1
+Experience and competence vary within every age group.
+ɛkspˈiəɹɪəns ænd kˈɑːmpɪtəns vˈɛɹi wɪðˌɪn ˈɛvɹi ˈeɪdʒ ɡɹˈuːp.
+
+c07s06-feedback-2
+The response addresses the actual task and developmental opportunities.
+ðə ɹᵻspˈɑːns ɐdɹˈɛsᵻz ðɪ ˈæktʃuːəl tˈæsk ænd dɪvˈɛləpmˈɛntəl ɑːpɚtˈuːnᵻɾiz.
+
+c07s07
+Try these questions without your notes.
+
+Why are puberty and adolescence different concepts?
+
+Why is a group brain finding insufficient for individual competence?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɑːɹ pjˈuːbɚɾi ænd ˌædəlˈɛsəns dˈɪfɹənt kˈɑːnsɛpts?   wˌaɪ ɪz ɐ ɡɹˈuːp bɹˈeɪn fˈaɪndɪŋ ɪnsəfˈɪʃənt fɔːɹ ˌɪndᵻvˈɪdʒuːəl kˈɑːmpɪtəns?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c07s07-answers
+Puberty concerns biological maturation; adolescence includes broader social and psychological transitions.
+
+Individuals and task demands vary, and the measure does not uniquely establish decision capacity.
+pjˈuːbɚɾi kənsˈɜːnz bˌaɪəlˈɑːdʒɪkəl mətʃʊɹɹˈeɪʃən; ˌædəlˈɛsəns ɪŋklˈuːdz bɹˈɔːdɚ sˈoʊʃəl ænd saɪkəlˈɑːdʒɪkəl tɹænsˈɪʃənz.   ˌɪndᵻvˈɪdʒuːəlz ænd tˈæsk dᵻmˈændz vˈɛɹi, ænd ðə mˈɛʒɚ dʌznˌɑːt juːnˈiːkli ɪstˈæblɪʃ dᵻsˈɪʒən kəpˈæsᵻɾi.
+
+c07s08
+Review a public headline about adolescents. Identify its measure and whether the conclusion exceeds the sample or task.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹᵻvjˈuː ɐ pˈʌblɪk hˈɛdlaɪn ɐbˌaʊt ˌædəlˈɛsənts. aɪdˈɛntᵻfˌaɪ ɪts mˈɛʒɚ ænd wˈɛðɚ ðə kəŋklˈuːʒən ɛksˈiːdz ðə sˈæmpəl ɔːɹ tˈæsk.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c08s01
+Sam returns to study while Pat starts volunteering after leaving paid work. Leo describes both as behind schedule. Maya asks whose timetable he is using.
+sˈæm ɹᵻtˈɜːnz tə stˈʌdi wˌaɪl pˈæt stˈɑːɹts vˌɑːləntˈɪɹɪŋ ˈæftɚ lˈiːvɪŋ pˈeɪd wˈɜːk. lˈiːoʊ dᵻskɹˈaɪbz bˈoʊθ æz bᵻhˌaɪnd skˈɛdʒuːl. mˈaɪə ˈæsks hˌuːz tˈaɪmteɪbəl hiː ɪz jˈuːzɪŋ.
+
+c08s02
+First, make a prediction about the café story.
+
+What is wrong with Leo’s schedule claim?
+
+A. It treats a local expectation as a universal requirement.
+
+B. Adults cannot change roles.
+
+C. A later transition necessarily improves wellbeing.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ɪz ɹˈɔŋ wɪð lˈiːoʊz skˈɛdʒuːl klˈeɪm?   ˈeɪ. ɪt tɹˈiːts ɐ lˈoʊkəl ɛkspɪktˈeɪʃən æz ɐ jˌuːnɪvˈɜːsəl ɹᵻkwˈaɪɚmənt.   bˈiː. ɐdˈʌlts kænˈɑːt tʃˈeɪndʒ ɹˈoʊlz.   sˈiː. ɐ lˈeɪɾɚ tɹænsˈɪʃən nˌɛsɪsˈɛɹᵻli ɪmpɹˈuːvz wˈɛlbiːɪŋ.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c08s02-feedback-0
+Cultural timing norms do not establish individual failure.
+kˈʌltʃɚɹəl tˈaɪmɪŋ nˈɔːɹmz duːnˌɑːt ɪstˈæblɪʃ ˌɪndᵻvˈɪdʒuːəl fˈeɪlɪɹ.
+
+c08s02-feedback-1
+Adult lives include meaningful change and continuity.
+ɐdˈʌlt lˈaɪvz ɪŋklˈuːd mˈiːnɪŋfəl tʃˈeɪndʒ ænd kɑːntɪnjˈuːᵻɾi.
+
+c08s02-feedback-2
+Timing alone does not predict the quality or consequences of a transition.
+tˈaɪmɪŋ ɐlˈoʊn dʌznˌɑːt pɹɪdˈɪkt ðə kwˈɔlᵻɾi ɔːɹ kˈɑːnsɪkwənsᵻz əvə tɹænsˈɪʃən.
+
+c08s03
+Social clock: cultural expectations about timing. Life transition: change in roles or circumstances. Life course: a trajectory embedded in history and society.
+
+Education, work, partnership and caring roles occur in different orders and at different times. Norms about timing depend on social conditions and culture.
+
+A transition can offer opportunities and strain. Being unusual relative to a local expectation is not evidence of developmental failure.
+sˈoʊʃəl klˈɑːk: kˈʌltʃɚɹəl ɛkspɪktˈeɪʃənz ɐbˌaʊt tˈaɪmɪŋ. lˈaɪf tɹænsˈɪʃən: tʃˈeɪndʒ ɪn ɹˈoʊlz ɔːɹ sˈɜːkəmstˌænsᵻz. lˈaɪf kˈɔːɹs: ɐ tɹədʒˈɛktɚɹi ɛmbˈɛdᵻd ɪn hˈɪstɚɹi ænd səsˈaɪəɾi.   ˌɛdʒuːkˈeɪʃən, wˈɜːk, pˈɑːɹtnɚʃˌɪp ænd kˈɛɹɪŋ ɹˈoʊlz əkˈɜːɹ ɪn dˈɪfɹənt ˈɔːɹdɚz ænd æt dˈɪfɹənt tˈaɪmz. nˈɔːɹmz ɐbˌaʊt tˈaɪmɪŋ dᵻpˈɛnd ˌɔn sˈoʊʃəl kəndˈɪʃənz ænd kˈʌltʃɚ.   ɐ tɹænsˈɪʃən kæn ˈɔfɚɹ ɑːpɚtˈuːnᵻɾiz ænd stɹˈeɪn. bˌiːɪŋ ʌnjˈuːʒuːəl ɹˈɛlətˌɪv tʊ ɐ lˈoʊkəl ɛkspɪktˈeɪʃən ɪz nˌɑːt ˈɛvɪdəns ʌv dɪvˈɛləpmˈɛntəl fˈeɪlɪɹ.
+
+c08s03b
+Role strain: difficulty meeting demands of a role. Linked lives: interdependence of life trajectories. Selection: choosing goals or activities.
+
+A return to study depends on money, care responsibilities, health and opportunity as well as motivation. Changes in one person’s work can affect the whole household.
+
+Ask which demands changed and which resources are available. An individual preference does not explain every constraint or outcome.
+ɹˈoʊl stɹˈeɪn: dˈɪfɪkˌʌlti mˈiːɾɪŋ dᵻmˈændz əvɚ ɹˈoʊl. lˈɪŋkt lˈaɪvz: ˌɪntɚdᵻpˈɛndəns ʌv lˈaɪf tɹədʒˈɛktɚɹiz. sᵻlˈɛkʃən: tʃˈuːzɪŋ ɡˈoʊlz ɔːɹ æktˈɪvᵻɾiz.   ɐ ɹᵻtˈɜːn tə stˈʌdi dᵻpˈɛndz ˌɔn mˈʌni, kˈɛɹ ɹᵻspˌɑːnsəbˈɪlᵻɾiz, hˈɛlθ ænd ɑːpɚtˈuːnᵻɾi æz wˈɛl æz mˌoʊɾɪvˈeɪʃən. tʃˈeɪndʒᵻz ɪn wˈʌn pˈɜːsənz wˈɜːk kæn ɐfˈɛkt ðə hˈoʊl hˈaʊshoʊld.   ˈæsk wˌɪtʃ dᵻmˈændz tʃˈeɪndʒd ænd wˌɪtʃ ɹᵻsˈɔːɹsᵻz ɑːɹ ɐvˈeɪləbəl. ɐn ˌɪndᵻvˈɪdʒuːəl pɹˈɛfɹəns dʌznˌɑːt ɛksplˈeɪn ˈɛvɹi kənstɹˈeɪnt ɔːɹ ˈaʊtkʌm.
+
+c08s04
+Optimization: investing resources in a selected goal. Compensation: using another method when a route is limited. Agency: capacity to act within circumstances.
+
+Lifespan accounts distinguish selecting goals, optimizing resources and compensating for constraints. Pat may choose fewer projects, practise a new skill and use an accessible tool.
+
+These are descriptive strategies, not a promise that individuals can overcome every structural barrier. Support and access remain part of the explanation.
+ˌɑːptɪmᵻzˈeɪʃən: ɪnvˈɛstɪŋ ɹᵻsˈɔːɹsᵻz ɪn ɐ sᵻlˈɛktᵻd ɡˈoʊl. kˌɑːmpənsˈeɪʃən: jˈuːzɪŋ ɐnˈʌðɚ mˈɛθəd wɛn ɐ ɹˈaʊt ɪz lˈɪmɪɾᵻd. ˈeɪdʒənsi: kəpˈæsᵻɾi tʊ ˈækt wɪðˌɪn sˈɜːkəmstˌænsᵻz.   lˈaɪfspæn ɐkˈaʊnts dɪstˈɪŋɡwɪʃ sᵻlˈɛktɪŋ ɡˈoʊlz, ˈɑːptɪmˌaɪzɪŋ ɹᵻsˈɔːɹsᵻz ænd kˈɑːmpənsˌeɪɾɪŋ fɔːɹ kənstɹˈeɪnts. pˈæt mˈeɪ tʃˈuːz fjˈuːɚ pɹˈɑːdʒɛkts, pɹˈæktɪs ɐ nˈuː skˈɪl ænd jˈuːs ɐn æksˈɛsəbəl tˈuːl.   ðiːz ɑːɹ dᵻskɹˈɪptɪv stɹˈæɾədʒiz, nˌɑːɾə pɹˈɑːmɪs ðæt ˌɪndᵻvˈɪdʒuːəlz kæn ˌoʊvɚkˈʌm ˈɛvɹi stɹˈʌktʃɚɹəl bˈæɹiɚ. səpˈɔːɹt ænd ˈæksɛs ɹᵻmˈeɪn pˈɑːɹt ʌvðɪ ɛksplɐnˈeɪʃən.
+
+c08s05
+Lifespan models describe varied pathways rather than prescribe a single life timetable. Much adult-development evidence is observational and shaped by historical opportunity.
+
+An adaptation framework does not establish that every constraint can be overcome through effort or attitude.
+lˈaɪfspæn mˈɑːdəlz dᵻskɹˈaɪb vˈɛɹid pˈæθweɪz ɹˈæðɚ ðɐn pɹɪskɹˈaɪb ɐ sˈɪŋɡəl lˈaɪf tˈaɪmteɪbəl. mˈʌtʃ ɐdˈʌltdɪvˈɛləpmənt ˈɛvɪdəns ɪz ɑːbzɚvˈeɪʃənəl ænd ʃˈeɪpt baɪ hɪstˈɔːɹɪkəl ɑːpɚtˈuːnᵻɾi.   ɐn ˌædæptˈeɪʃən fɹˈeɪmwɜːk dʌznˌɑːt ɪstˈæblɪʃ ðæt ˈɛvɹi kənstɹˈeɪnt kæn biː ˌoʊvɚkˈʌm θɹuː ˈɛfɚt ɔːɹ ˈæɾɪtˌuːd.
+
+c08s06
+Apply the idea to this new fictional case.
+
+A volunteer wants to keep cataloguing books but finds small print difficult.
+
+Which example best illustrates compensation?
+
+A. Practising the same task for longer.
+
+B. Using an accessible tool to keep doing a chosen task.
+
+C. Selecting an unrelated new goal.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ vˌɑːləntˈɪɹ wˈɔnts tə kˈiːp kˈæɾɐlˌɑːɡɪŋ bˈʊks bˌʌt fˈaɪndz smˈɔːl pɹˈɪnt dˈɪfɪkəlt.   wˌɪtʃ ɛɡzˈæmpəl bˈɛst ˈɪləstɹˌeɪts kˌɑːmpənsˈeɪʃən?   ˈeɪ. pɹˈæktɪsɪŋ ðə sˈeɪm tˈæsk fɔːɹ lˈɔŋɡɚ.   bˈiː. jˈuːzɪŋ ɐn æksˈɛsəbəl tˈuːl tə kˈiːp dˌuːɪŋ ɐ tʃˈoʊzən tˈæsk.   sˈiː. sᵻlˈɛktɪŋ ɐn ˌʌnɹᵻlˈeɪɾᵻd nˈuː ɡˈoʊl.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c08s06-feedback-0
+Practice is closer to optimizing an existing resource.
+pɹˈæktɪs ɪz klˈoʊsɚ tʊ ˈɑːptɪmˌaɪzɪŋ ɐn ɛɡzˈɪstɪŋ ɹᵻsˈɔːɹs.
+
+c08s06-feedback-1
+Another method can support a valued activity when the original route is limited.
+ɐnˈʌðɚ mˈɛθəd kæn səpˈɔːɹt ɐ vˈæljuːd æktˈɪvᵻɾi wɛn ðɪ ɚɹˈɪdʒɪnəl ɹˈaʊt ɪz lˈɪmɪɾᵻd.
+
+c08s06-feedback-2
+Choosing a goal illustrates selection rather than compensation.
+tʃˈuːzɪŋ ɐ ɡˈoʊl ˈɪləstɹˌeɪts sᵻlˈɛkʃən ɹˈæðɚ ðɐn kˌɑːmpənsˈeɪʃən.
+
+c08s07
+Try these questions without your notes.
+
+What makes a social clock cultural?
+
+How do optimization and compensation differ?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt mˌeɪks ɐ sˈoʊʃəl klˈɑːk kˈʌltʃɚɹəl?   hˌaʊ dˈuː ˌɑːptɪmᵻzˈeɪʃən ænd kˌɑːmpənsˈeɪʃən dˈɪfɚ?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c08s07-answers
+It reflects expectations that vary across societies and historical periods.
+
+Optimization invests in a route; compensation uses another route when the original is constrained.
+ɪt ɹᵻflˈɛkts ɛkspɪktˈeɪʃənz ðæt vˈɛɹi əkɹˌɑːs səsˈaɪəɾiz ænd hɪstˈɔːɹɪkəl pˈiəɹɪədz.   ˌɑːptɪmᵻzˈeɪʃən ɪnvˈɛsts ɪn ɐ ɹˈaʊt; kˌɑːmpənsˈeɪʃən jˈuːsᵻz ɐnˈʌðɚ ɹˈaʊt wɛn ðɪ ɚɹˈɪdʒɪnəl ɪz kənstɹˈeɪnd.
+
+c08s08
+Choose a change in your own low-stakes routine. Identify one goal, one resource and one environmental constraint without ranking your life against a timetable.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+tʃˈuːz ɐ tʃˈeɪndʒ ɪn jʊɹ ˈoʊn lˈoʊstˈeɪks ɹuːtˈiːn. aɪdˈɛntᵻfˌaɪ wˈʌn ɡˈoʊl, wˈʌn ɹᵻsˈɔːɹs ænd wˈʌn ɛnvˌaɪɹənmˈɛntəl kənstɹˈeɪnt wɪðˌaʊt ɹˈæŋkɪŋ jʊɹ lˈaɪf ɐɡˈɛnst ɐ tˈaɪmteɪbəl.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c09s01
+Pat recalls repair principles accurately but needs longer to learn a new menu. A visitor treats this as proof of dementia. Pat asks for a larger display and a written sequence.
+pˈæt ɹˈiːkɔːlz ɹᵻpˈɛɹ pɹˈɪnsɪpəlz ˈækjʊɹətli bˌʌt nˈiːdz lˈɔŋɡɚ tə lˈɜːn ɐ nˈuː mˈɛnjuː. ɐ vˈɪzɪɾɚ tɹˈiːts ðɪs æz pɹˈuːf ʌv dᵻmˈɛnʃə. pˈæt ˈæsks fɚɹə lˈɑːɹdʒɚ dɪsplˈeɪ ænd ɐ ɹˈɪʔn sˈiːkwəns.
+
+c09s02
+First, make a prediction about the café story.
+
+What does Pat’s menu difficulty show?
+
+A. Dementia is established.
+
+B. All cognitive skills decline together.
+
+C. A specific task is difficult under these conditions.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt dˈʌz pˈæts mˈɛnjuː dˈɪfɪkˌʌlti ʃˈoʊ?   ˈeɪ. dᵻmˈɛnʃə ɪz ɪstˈæblɪʃt.   bˈiː. ˈɔːl kˈɑːɡnᵻtˌɪv skˈɪlz dᵻklˈaɪn təɡˈɛðɚ.   sˈiː. ɐ spəsˈɪfɪk tˈæsk ɪz dˈɪfɪkəlt ˌʌndɚ ðiːz kəndˈɪʃənz.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c09s02-feedback-0
+A diagnosis requires appropriate clinical assessment.
+ɐ dˌaɪəɡnˈoʊsɪs ɹᵻkwˈaɪɚz ɐpɹˈoʊpɹɪət klˈɪnɪkəl ɐsˈɛsmənt.
+
+c09s02-feedback-1
+Knowledge and novel task demands can differ.
+nˈɑːlɪdʒ ænd nˈɑːvəl tˈæsk dᵻmˈændz kæn dˈɪfɚ.
+
+c09s02-feedback-2
+This describes the observation without extending beyond it.
+ðɪs dᵻskɹˈaɪbz ðɪ ɑːbzɚvˈeɪʃən wɪðˌaʊt ɛkstˈɛndɪŋ bᵻjˈɔnd ɪt.
+
+c09s03
+Fluid abilities: reasoning with relatively novel information. Crystallized abilities: accumulated knowledge and skills. Processing speed: speed of specified cognitive operations.
+
+Some average cognitive measures change earlier or more strongly than others. Accumulated knowledge can remain useful while speed on unfamiliar tasks changes.
+
+Education, health, sensory access and experience influence performance. A broad age trend cannot diagnose Pat or predict every skill.
+flˈuːɪd ɐbˈɪləɾiz: ɹˈiːzənɪŋ wɪð ɹˈɛlətˌɪvli nˈɑːvəl ˌɪnfɚmˈeɪʃən. kɹˈɪstəlˌaɪzd ɐbˈɪləɾiz: ɐkjˈuːmjʊlˌeɪɾᵻd nˈɑːlɪdʒ ænd skˈɪlz. pɹˈɑːsɛsɪŋ spˈiːd: spˈiːd ʌv spˈɛsᵻfˌaɪd kˈɑːɡnᵻtˌɪv ˌɑːpɚɹˈeɪʃənz.   sˌʌm ˈævɹɪdʒ kˈɑːɡnᵻtˌɪv mˈɛʒɚz tʃˈeɪndʒ ˈɜːlɪɚ ɔːɹ mˈɔːɹ stɹˈɔŋli ðɐn ˈʌðɚz. ɐkjˈuːmjʊlˌeɪɾᵻd nˈɑːlɪdʒ kæn ɹᵻmˈeɪn jˈuːsfəl wˌaɪl spˈiːd ˌɔn ʌnfəmˈɪlɪɹ tˈæsks tʃˈeɪndʒᵻz.   ˌɛdʒuːkˈeɪʃən, hˈɛlθ, sˈɛnsɚɹi ˈæksɛs ænd ɛkspˈiəɹɪəns ˈɪnfluːəns pɚfˈɔːɹməns. ɐ bɹˈɔːd ˈeɪdʒ tɹˈɛnd kænˈɑːt dˌaɪəɡnˈoʊz pˈæt ɔːɹ pɹɪdˈɪkt ˈɛvɹi skˈɪl.
+
+c09s03b
+Sensory access: ability to receive task information. Compensatory aid: tool supporting a limited route. Within-person change: difference from an individual’s earlier performance.
+
+Small print, hearing difficulty and unfamiliar controls can raise task demands. An accessible display and written sequence may improve performance immediately.
+
+Persistent or concerning changes in memory or daily functioning deserve qualified assessment. Ordinary mistakes alone do not establish a neurocognitive disorder.
+sˈɛnsɚɹi ˈæksɛs: ɐbˈɪləɾi tə ɹᵻsˈiːv tˈæsk ˌɪnfɚmˈeɪʃən. kˈɑːmpənsətˌɔːɹi ˈeɪd: tˈuːl səpˈɔːɹɾɪŋ ɐ lˈɪmɪɾᵻd ɹˈaʊt. wɪðˌɪnpˈɜːsən tʃˈeɪndʒ: dˈɪfɹəns fɹʌm ɐn ˌɪndᵻvˈɪdʒuːəlz ˈɜːlɪɚ pɚfˈɔːɹməns.   smˈɔːl pɹˈɪnt, hˈɪɹɪŋ dˈɪfɪkˌʌlti ænd ʌnfəmˈɪlɪɹ kəntɹˈoʊlz kæn ɹˈeɪz tˈæsk dᵻmˈændz. ɐn æksˈɛsəbəl dɪsplˈeɪ ænd ɹˈɪʔn sˈiːkwəns mˈeɪ ɪmpɹˈuːv pɚfˈɔːɹməns ɪmˈiːdɪətli.   pɚsˈɪstənt ɔːɹ kənsˈɜːnɪŋ tʃˈeɪndʒᵻz ɪn mˈɛmɚɹi ɔːɹ dˈeɪli fˈʌŋkʃənɪŋ dɪzˈɜːv kwˈɔlᵻfˌaɪd ɐsˈɛsmənt. ˈɔːɹdɪnˌɛɹi mɪstˈeɪks ɐlˈoʊn duːnˌɑːt ɪstˈæblɪʃ ɐ nˌʊɹɹəkˈɑːɡnᵻtˌɪv dɪsˈɔːɹdɚ.
+
+c09s04
+Ageism: stereotyping or discrimination based on age. Social participation: involvement in relationships and activities. Heterogeneity: substantial variation within a group.
+
+Later life includes wide variation in health, resources, relationships and preferences. Exclusion can remove opportunities to practise and contribute.
+
+Invite Pat to choose useful support rather than assuming either inability or unlimited resilience. A respectful response combines agency with attention to actual needs.
+ˈeɪdʒɪzəm: stˈɛɹɪˌoʊtaɪpɪŋ ɔːɹ dɪskɹˌɪmᵻnˈeɪʃən bˈeɪst ˌɔn ˈeɪdʒ. sˈoʊʃəl pɑːɹtˈɪsɪpˈeɪʃən: ɪnvˈɑːlvmənt ɪn ɹᵻlˈeɪʃənʃˌɪps ænd æktˈɪvᵻɾiz. hˈɛɾɚɹˌoʊdʒənˌeɪɾi: səbstˈænʃəl vˌɛɹɪˈeɪʃən wɪðˌɪn ɐ ɡɹˈuːp.   lˈeɪɾɚ lˈaɪf ɪŋklˈuːdz wˈaɪd vˌɛɹɪˈeɪʃən ɪn hˈɛlθ, ɹᵻsˈɔːɹsᵻz, ɹᵻlˈeɪʃənʃˌɪps ænd pɹˈɛfɹənsᵻz. ɛksklˈuːʒən kæn ɹᵻmˈuːv ɑːpɚtˈuːnᵻɾiz tə pɹˈæktɪs ænd kəntɹˈɪbjuːt.   ɪnvˈaɪt pˈæt tə tʃˈuːz jˈuːsfəl səpˈɔːɹt ɹˈæðɚ ðɐn ɐsˈuːmɪŋ ˈiːðɚɹ ɪnɐbˈɪləɾi ɔːɹ ʌnlˈɪmɪɾᵻd ɹᵻsˈɪliəns. ɐ ɹᵻspˈɛktfəl ɹᵻspˈɑːns kəmbˈaɪnz ˈeɪdʒənsi wɪð ɐtˈɛnʃən tʊ ˈæktʃuːəl nˈiːdz.
+
+c09s05
+Ageing research distinguishes population trends from within-person trajectories and clinical conditions. Sensory access, cohort differences and selective participation complicate comparisons.
+
+A course cannot evaluate a person’s cognition. The fictional menu task provides no diagnostic evidence.
+ˈeɪdʒɪŋ ɹᵻsˈɜːtʃ dɪstˈɪŋɡwɪʃᵻz pˌɑːpjʊlˈeɪʃən tɹˈɛndz fɹʌm wɪðˌɪnpˈɜːsən tɹədʒˈɛktɚɹiz ænd klˈɪnɪkəl kəndˈɪʃənz. sˈɛnsɚɹi ˈæksɛs, kˈoʊhɔːɹt dˈɪfɹənsᵻz ænd sᵻlˈɛktɪv pɑːɹtˈɪsɪpˈeɪʃən kˈɑːmplᵻkˌeɪt kəmpˈæɹɪsənz.   ɐ kˈɔːɹs kænˈɑːt ɪvˈæljuːˌeɪt ɐ pˈɜːsənz kɑːɡnˈɪʃən. ðə fˈɪkʃənəl mˈɛnjuː tˈæsk pɹəvˈaɪdz nˈoʊ dˌaɪəɡnˈɑːstɪk ˈɛvɪdəns.
+
+c09s06
+Apply the idea to this new fictional case.
+
+A person reports a persistent new decline affecting ordinary daily activities, beyond a single unfamiliar task.
+
+Which response is appropriate?
+
+A. Seek qualified assessment while supporting daily needs.
+
+B. Explain every change as normal ageing.
+
+C. Diagnose a disorder from the course glossary.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ pˈɜːsən ɹᵻpˈɔːɹts ɐ pɚsˈɪstənt nˈuː dᵻklˈaɪn ɐfˈɛktɪŋ ˈɔːɹdɪnˌɛɹi dˈeɪli æktˈɪvᵻɾiz, bᵻjˌɔnd ɐ sˈɪŋɡəl ʌnfəmˈɪlɪɹ tˈæsk.   wˌɪtʃ ɹᵻspˈɑːns ɪz ɐpɹˈoʊpɹɪət?   ˈeɪ. sˈiːk kwˈɔlᵻfˌaɪd ɐsˈɛsmənt wˌaɪl səpˈɔːɹɾɪŋ dˈeɪli nˈiːdz.   bˈiː. ɛksplˈeɪn ˈɛvɹi tʃˈeɪndʒ æz nˈɔːɹməl ˈeɪdʒɪŋ.   sˈiː. dˌaɪəɡnˈoʊz ɐ dɪsˈɔːɹdɚ fɹʌmðə kˈɔːɹs ɡlˈɔsɚɹi.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c09s06-feedback-0
+A persistent change affecting daily functioning warrants an appropriate professional review.
+ɐ pɚsˈɪstənt tʃˈeɪndʒ ɐfˈɛktɪŋ dˈeɪli fˈʌŋkʃənɪŋ wˈɔːɹənts ɐn ɐpɹˈoʊpɹɪət pɹəfˈɛʃənəl ɹᵻvjˈuː.
+
+c09s06-feedback-1
+That could dismiss a clinically important change.
+ðæt kʊd dɪsmˈɪs ɐ klˈɪnɪkli ɪmpˈɔːɹtənt tʃˈeɪndʒ.
+
+c09s06-feedback-2
+A definition is not an individual assessment.
+ɐ dˌɛfɪnˈɪʃən ɪz nˌɑːt ɐn ˌɪndᵻvˈɪdʒuːəl ɐsˈɛsmənt.
+
+c09s07
+Try these questions without your notes.
+
+Why distinguish fluid and crystallized abilities?
+
+What makes a response ageist?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ dɪstˈɪŋɡwɪʃ flˈuːɪd ænd kɹˈɪstəlˌaɪzd ɐbˈɪləɾiz?   wˌʌt mˌeɪks ɐ ɹᵻspˈɑːns ˈeɪdʒɪst?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c09s07-answers
+They describe different cognitive demands with potentially different age patterns.
+
+It imposes a stereotype or discriminatory treatment based on age rather than the person’s situation.
+ðeɪ dᵻskɹˈaɪb dˈɪfɹənt kˈɑːɡnᵻtˌɪv dᵻmˈændz wɪð pətˈɛnʃəli dˈɪfɹənt ˈeɪdʒ pˈætɚnz.   ɪɾ ɪmpˈoʊzᵻz ɐ stˈɛɹɪˌoʊtaɪp ɔːɹ dɪskɹˈɪmɪnətˌɔːɹi tɹˈiːtmənt bˈeɪst ˌɔn ˈeɪdʒ ɹˈæðɚ ðɐn ðə pˈɜːsənz sˌɪtʃuːˈeɪʃən.
+
+c09s08
+Inspect a public interface for avoidable visual or memory demands. Suggest an accessibility change without using an age stereotype.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɪnspˈɛkt ɐ pˈʌblɪk ˈɪntɚfˌeɪs fɔːɹ ɐvˈɔɪdəbəl vˈɪʒuːəl ɔːɹ mˈɛmɚɹi dᵻmˈændz. sədʒˈɛst ɐn æksˌɛsəbˈɪlᵻɾi tʃˈeɪndʒ wɪðˌaʊt jˈuːzɪŋ ɐn ˈeɪdʒ stˈɛɹɪˌoʊtaɪp.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c10s01
+The café plans workshops for families, adolescents and older adults. Leo proposes one age-based teaching rule. Maya asks the group to use what they have learned about variation, support and evidence.
+ðə kæfˈeɪ plˈænz wˈɜːkʃɑːps fɔːɹ fˈæmɪliz, ˌædəlˈɛsənts ænd ˈoʊldɚɹ ɐdˈʌlts. lˈiːoʊ pɹəpˈoʊzᵻz wˈʌn ˈeɪdʒbˈeɪst tˈiːtʃɪŋ ɹˈuːl. mˈaɪə ˈæsks ðə ɡɹˈuːp tə jˈuːz wʌt ðeɪ hæv lˈɜːnd ɐbˌaʊt vˌɛɹɪˈeɪʃən, səpˈɔːɹt ænd ˈɛvɪdəns.
+
+c10s02
+First, make a prediction about the café story.
+
+Which workshop plan best follows the course?
+
+A. Match support to task demands and check later independent use.
+
+B. Assign one fixed method to each age group.
+
+C. Use immediate enjoyment as proof of learning.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ wˈɜːkʃɑːp plˈæn bˈɛst fˈɑːloʊz ðə kˈɔːɹs?   ˈeɪ. mˈætʃ səpˈɔːɹt tə tˈæsk dᵻmˈændz ænd tʃˈɛk lˈeɪɾɚɹ ˌɪndᵻpˈɛndənt jˈuːs.   bˈiː. ɐsˈaɪn wˈʌn fˈɪkst mˈɛθəd tʊ ˈiːtʃ ˈeɪdʒ ɡɹˈuːp.   sˈiː. jˈuːs ɪmˈiːdɪət ɛndʒˈɔɪmənt æz pɹˈuːf ʌv lˈɜːnɪŋ.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c10s02-feedback-0
+This specifies a relevant intervention and a meaningful outcome.
+ðɪs spˈɛsᵻfˌaɪz ɐ ɹˈɛlᵻvənt ˌɪntɚvˈɛnʃən ænd ɐ mˈiːnɪŋfəl ˈaʊtkʌm.
+
+c10s02-feedback-1
+Within-group variation and context make the blanket rule inadequate.
+wɪðˌɪŋɡɹˈuːp vˌɛɹɪˈeɪʃən ænd kˈɑːntɛkst mˌeɪk ðə blˈæŋkɪt ɹˈuːl ɪnˈædɪkwət.
+
+c10s02-feedback-2
+Enjoyment can matter without establishing learning or transfer.
+ɛndʒˈɔɪmənt kæn mˈæɾɚ wɪðˌaʊt ɪstˈæblɪʃɪŋ lˈɜːnɪŋ ɔːɹ tɹˈænsfɜː.
+
+c10s03
+Continuity: persistence in a developmental pattern. Discontinuity: a qualitative change in a pattern. Transactional account: person and environment influence each other over time.
+
+A developmental explanation asks what changed, for whom, in which setting and over what period. Stable patterns can coexist with change in particular skills.
+
+The same workshop outcome can reflect prior experience, access, relationships and instruction. Explain the proposed mechanism instead of substituting an age label.
+kɑːntɪnjˈuːᵻɾi: pɚsˈɪstəns ɪn ɐ dɪvˈɛləpmˈɛntəl pˈætɚn. dɪskɑːntɪnjˈuːᵻɾi: ɐ kwˈɔlᵻtˌeɪɾɪv tʃˈeɪndʒ ɪn ɐ pˈætɚn. tɹænsˈækʃənəl ɐkˈaʊnt: pˈɜːsən ænd ɛnvˈaɪɹənmənt ˈɪnfluːəns ˈiːtʃ ˈʌðɚɹ ˌoʊvɚ tˈaɪm.   ɐ dɪvˈɛləpmˈɛntəl ɛksplɐnˈeɪʃən ˈæsks wʌt tʃˈeɪndʒd, fɔːɹ hˈuːm, ɪnwˌɪtʃ sˈɛɾɪŋ ænd ˌoʊvɚ wʌt pˈiəɹɪəd. stˈeɪbəl pˈætɚnz kæn kˌoʊɛɡzˈɪst wɪð tʃˈeɪndʒ ɪn pɚtˈɪkjʊlɚ skˈɪlz.   ðə sˈeɪm wˈɜːkʃɑːp ˈaʊtkʌm kæn ɹᵻflˈɛkt pɹˈaɪɚɹ ɛkspˈiəɹɪəns, ˈæksɛs, ɹᵻlˈeɪʃənʃˌɪps ænd ɪnstɹˈʌkʃən. ɛksplˈeɪn ðə pɹəpˈoʊzd mˈɛkənˌɪzəm ɪnstˈɛd ʌv sˈʌbstɪtˌuːɾɪŋ ɐn ˈeɪdʒ lˈeɪbəl.
+
+c10s03b
+Intervention: planned change intended to affect an outcome. Transfer: use in a different situation. Follow-up: measurement after time has passed.
+
+Choose a support that addresses a specific demand, such as a clear example or accessible instructions. Define the intended outcome before judging success.
+
+Compare comparable conditions, check an unfamiliar example and revisit later. Immediate participation is useful evidence, but it does not establish durable independent learning.
+ˌɪntɚvˈɛnʃən: plˈænd tʃˈeɪndʒ ɪntˈɛndᵻd tʊ ɐfˈɛkt ɐn ˈaʊtkʌm. tɹˈænsfɜː: jˈuːs ɪn ɐ dˈɪfɹənt sˌɪtʃuːˈeɪʃən. fˈɑːloʊˈʌp: mˈɛʒɚmənt ˈæftɚ tˈaɪm hɐz pˈæst.   tʃˈuːz ɐ səpˈɔːɹt ðæt ɐdɹˈɛsᵻz ɐ spəsˈɪfɪk dᵻmˈænd, sˈʌtʃ ɐz ɐ klˈɪɹ ɛɡzˈæmpəl ɔːɹ æksˈɛsəbəl ɪnstɹˈʌkʃənz. dᵻfˈaɪn ðɪ ɪntˈɛndᵻd ˈaʊtkʌm bᵻfˌɔːɹ dʒˈʌdʒɪŋ səksˈɛs.   kəmpˈɛɹ kˈɑːmpɚɹəbəl kəndˈɪʃənz, tʃˈɛk ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl ænd ɹᵻvˈɪzɪt lˈeɪɾɚ. ɪmˈiːdɪət pɑːɹtˈɪsɪpˈeɪʃən ɪz jˈuːsfəl ˈɛvɪdəns, bˌʌt ɪt dʌznˌɑːt ɪstˈæblɪʃ dˈʊɹɹəbəl ˌɪndᵻpˈɛndənt lˈɜːnɪŋ.
+
+c10s04
+Consent: freely given agreement to participation. Privacy: control over personal information. Proportionate inference: conclusion limited to the evidence.
+
+Developmental ideas can make instructions more accessible and interpretations more careful. They do not authorize informal diagnosis, surveillance or experiments on children.
+
+Use fictional cases or your own low-stakes tasks for practice. For genuine developmental or health concerns, seek relevant professional advice rather than assigning a label.
+kənsˈɛnt: fɹˈiːli ɡˈɪvən ɐɡɹˈiːmənt tə pɑːɹtˈɪsɪpˈeɪʃən. pɹˈaɪvəsi: kəntɹˈoʊl ˌoʊvɚ pˈɜːsənəl ˌɪnfɚmˈeɪʃən. pɹəpˈɔːɹʃənət ˈɪnfɚɹəns: kəŋklˈuːʒən lˈɪmɪɾᵻd tə ðɪ ˈɛvɪdəns.   dɪvˈɛləpmˈɛntəl aɪdˈiəz kæn mˌeɪk ɪnstɹˈʌkʃənz mˈɔːɹ æksˈɛsəbəl ænd ɪntˌɜːpɹɪtˈeɪʃənz mˈɔːɹ kˈɛɹfəl. ðeɪ duːnˌɑːt ˈɔːθɚɹˌaɪz ɪnfˈɔːɹməl dˌaɪəɡnˈoʊsɪs, sɚvˈeɪləns ɔːɹ ɛkspˈɛɹɪmənts ˌɔn tʃˈɪldɹən.   jˈuːs fˈɪkʃənəl kˈeɪsᵻz ɔːɹ jʊɹ ˈoʊn lˈoʊstˈeɪks tˈæsks fɔːɹ pɹˈæktɪs. fɔːɹ dʒˈɛnjuːɪn dɪvˈɛləpmˈɛntəl ɔːɹ hˈɛlθ kənsˈɜːnz, sˈiːk ɹˈɛlᵻvənt pɹəfˈɛʃənəl ɐdvˈaɪs ɹˈæðɚ ðɐn ɐsˈaɪnɪŋ ɐ lˈeɪbəl.
+
+c10s05
+A developmental model earns support through suitable evidence, not simply by fitting a life story after the event. Effects may vary across populations and settings.
+
+Course completion and self-confidence are not evidence of professional competence. An unfamiliar later case provides a more useful learning check.
+ɐ dɪvˈɛləpmˈɛntəl mˈɑːdəl ˈɜːnz səpˈɔːɹt θɹuː sˈuːɾəbəl ˈɛvɪdəns, nˌɑːt sˈɪmpli baɪ fˈɪɾɪŋ ɐ lˈaɪf stˈɔːɹi ˈæftɚ ðɪ ᵻvˈɛnt. ɪfˈɛkts mˈeɪ vˈɛɹi əkɹˌɑːs pˌɑːpjʊlˈeɪʃənz ænd sˈɛɾɪŋz.   kˈɔːɹs kəmplˈiːʃən ænd sˈɛlfkˈɑːnfɪdəns ɑːɹ nˌɑːt ˈɛvɪdəns ʌv pɹəfˈɛʃənəl kˈɑːmpɪtəns. ɐn ʌnfəmˈɪlɪɹ lˈeɪɾɚ kˈeɪs pɹəvˈaɪdz ɐ mˈɔːɹ jˈuːsfəl lˈɜːnɪŋ tʃˈɛk.
+
+c10s06
+Apply the idea to this new fictional case.
+
+Participants omit fewer steps with a checklist during one workshop; no later unassisted task is measured.
+
+What conclusion is justified?
+
+A. Every participant developed a stronger general memory.
+
+B. The checklist helped this task; durable transfer remains to be checked.
+
+C. No inference is possible from any practical comparison.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   pɑːɹtˈɪsɪpənts oʊmˈɪt fjˈuːɚ stˈɛps wɪð ɐ tʃˈɛklɪst dˈʊɹɹɪŋ wˈʌn wˈɜːkʃɑːp; nˈoʊ lˈeɪɾɚɹ ʌnɐsˈɪstᵻd tˈæsk ɪz mˈɛʒɚd.   wˌʌt kəŋklˈuːʒən ɪz dʒˈʌstᵻfˌaɪd?   ˈeɪ. ˈɛvɹi pɑːɹtˈɪsɪpənt dɪvˈɛləpt ɐ stɹˈɔŋɡɚ dʒˈɛnɚɹəl mˈɛmɚɹi.   bˈiː. ðə tʃˈɛklɪst hˈɛlpt ðɪs tˈæsk; dˈʊɹɹəbəl tɹˈænsfɜː ɹᵻmˈeɪnz təbi tʃˈɛkt.   sˈiː. nˈoʊ ˈɪnfɚɹəns ɪz pˈɑːsᵻbəl fɹʌm ˌɛni pɹˈæktɪkəl kəmpˈæɹɪsən.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c10s06-feedback-0
+A local aid does not establish broad cognitive development.
+ɐ lˈoʊkəl ˈeɪd dʌznˌɑːt ɪstˈæblɪʃ bɹˈɔːd kˈɑːɡnᵻtˌɪv dɪvˈɛləpmənt.
+
+c10s06-feedback-1
+The conclusion matches the measured task and leaves later learning open.
+ðə kəŋklˈuːʒən mˈætʃᵻz ðə mˈɛʒɚd tˈæsk ænd lˈiːvz lˈeɪɾɚ lˈɜːnɪŋ ˈoʊpən.
+
+c10s06-feedback-2
+A suitable comparison can support a bounded practical inference.
+ɐ sˈuːɾəbəl kəmpˈæɹɪsən kæn səpˈɔːɹt ɐ bˈaʊndᵻd pɹˈæktɪkəl ˈɪnfɚɹəns.
+
+c10s07
+Try these questions without your notes.
+
+What makes an explanation developmental?
+
+How would you test durable learning?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt mˌeɪks ɐn ɛksplɐnˈeɪʃən dɪvˈɛləpmˈɛntəl?   hˌaʊ wʊd juː tˈɛst dˈʊɹɹəbəl lˈɜːnɪŋ?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c10s07-answers
+It links change and continuity to time, context and plausible processes.
+
+Use a delayed unfamiliar task that matches the intended skill, with appropriate comparison and access.
+ɪt lˈɪŋks tʃˈeɪndʒ ænd kɑːntɪnjˈuːᵻɾi tə tˈaɪm, kˈɑːntɛkst ænd plˈɔːzᵻbəl pɹˈɑːsɛsᵻz.   jˈuːs ɐ dᵻlˈeɪd ʌnfəmˈɪlɪɹ tˈæsk ðæt mˈætʃᵻz ðɪ ɪntˈɛndᵻd skˈɪl, wɪð ɐpɹˈoʊpɹɪət kəmpˈæɹɪsən ænd ˈæksɛs.
+
+c10s08
+Write a short recommendation for a fictional mixed-age workshop: outcome, support, comparison, follow-up and one limitation.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹˈaɪt ɐ ʃˈɔːɹt ɹˌɛkəmɛndˈeɪʃən fɚɹə fˈɪkʃənəl mˈɪkstˈeɪdʒ wˈɜːkʃɑːp: ˈaʊtkʌm, səpˈɔːɹt, kəmpˈæɹɪsən, fˈɑːloʊˌʌp ænd wˈʌn lˌɪmɪtˈeɪʃən.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.

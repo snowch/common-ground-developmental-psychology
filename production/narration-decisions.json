@@ -1,0 +1,17 @@
+{
+  "c09s04": {
+    "raw_sha256": "8712c7a2507d4e6d1a03bb5d3b58ea7f2d22f5644958b8699e083e1403ddafe1",
+    "accept": true,
+    "reason": "The additional decoder separates inability into in ability; the identical spoken syllables and the remaining passage match. Waveform and phoneme trace reviewed. Automated evidence; not human listening approval."
+  },
+  "c09s05": {
+    "raw_sha256": "0ee9aec2aff13c14ae0e41b5375b0bcb0d771434686c13ce8c49af4f293643f2",
+    "accept": true,
+    "reason": "Ageing/aging is British/American spelling of the same spoken word. The rest of the additional transcript agrees. Automated evidence; not human listening approval."
+  },
+  "c09s03b": {
+    "raw_sha256": "0bc2103885eb06cef4e8a7a8433cd65dafb7cd4e14f1b8607ec0f3a27081ad32",
+    "accept": true,
+    "reason": "Independent full and cropped transcripts agree with the definition, apart from tool supporting/tools supporting. The phoneme trace has singular tool followed immediately by supporting; this is a word-boundary ambiguity at the shared s sound, with no loss of the definition. Bounded waveform reviewed. Automated evidence, not human listening approval."
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s03",
+      "expected": "Development: change and continuity across life. Plasticity: capacity for change under conditions. Context: social and historical circumstances.\n\nDevelopmental psychology studies patterns of change and continuity from before birth through later life. Gains in one skill can accompany costs in another.\n\nJo and Pat differ in experience as well as age. The café episode does not identify an age effect or either person’s general ability.",
+      "heard": "Development, change and continuity across life. Plasticity, capacity for change under conditions. Context, social and historical circumstances. Developmental psychology studies patterns of change and continuity from before birth through later life. Gains in one skill can accompany costs in another. Joe and Pat differ in experience as well as age. The cafe episode does not identify an age effect or either person's general ability.",
+      "ratio": 0.9688,
+      "model": "small.en",
+      "raw_sha256": "e049fd7489f68730b53dad7c354dcfdd3aafb8042364aa4306990375db4582dd"
+    },
+    {
+      "id": "c01s05",
+      "expected": "Lifespan research treats development as multidirectional and embedded in historical contexts. Average age trends summarize samples; they do not fix an individual’s trajectory.\n\nSelective samples, repeated testing and changing environments limit causal claims. The fictional café comparison illustrates those limits; it is not developmental data.",
+      "heard": "Lifespan research treats development as multidirectional and embedded in historical contexts. Average age trends summarize samples. They do not fix an individual's trajectory. Selective samples, repeated testing, and changing environments limit causal claims. The fictional CAFE comparison illustrates those limits. It is not developmental data.",
+      "ratio": 0.9778,
+      "model": "small.en",
+      "raw_sha256": "d88e087b11efb6a28d46ba28d47c4a98ff8272d0a52fd5e5dfc0e10f53fd8d64"
+    },
+    {
+      "id": "c02s02-feedback-2",
+      "expected": "Observational evidence can inform prevention while retaining limitations.",
+      "heard": "Observational evidence can inform prevention while retaining limitations.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "9cf8e3716859c154d0a578b87d354e32464333cf17d315cb2d69165878f0c6c1"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Gestation: the course of pregnancy. Teratogen: an exposure that can disrupt prenatal development.\n\nPrenatal development involves changing biological systems. Some exposures can increase the risk of harm, and effects depend partly on when development is occurring.\n\nThis does not mean an exposure guarantees an outcome. Advice about a specific pregnancy belongs with a qualified healthcare professional who can evaluate the actual exposure.",
+      "heard": "Gestation, the course of pregnancy. Territogen, an exposure that can disrupt prenatal development. Prenatal development involves changing biological systems. Some exposures can increase the risk of harm and effects depend partly on when development is occurring. This does not mean an exposure guarantees an outcome. Advice about a specific pregnancy belongs with a qualified healthcare professional who can evaluate the actual exposure. you",
+      "ratio": 0.976,
+      "model": "small.en",
+      "raw_sha256": "0f2e50042179ece7d04b096549d8077da9de9eb5cc6772af2ea66b2da0af0ed1"
+    },
+    {
+      "id": "c02s07-answers",
+      "expected": "Different systems develop on different schedules and respond to different experiences.\n\nNo. Risk concerns likelihood; individual causes require more evidence.",
+      "heard": "Different systems develop on different schedules and respond to different experiences. No, risk concerns likelihood. Individual causes require more evidence.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "7284adaf00fa363705f84dac8312bfe6063bb028847f994f0190deed185050b6"
+    },
+    {
+      "id": "c03s02-feedback-0",
+      "expected": "The attention difference is observed; its explanation needs controlled comparisons.",
+      "heard": "The attention difference is observed. Its explanation needs controlled comparisons.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "d9cc378c0da50c05532d355930579edada7c91ae35a450b2f8d20e21459697a5"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Habituation: reduced responding with repeated stimulation. Dishabituation: renewed responding after a change. Looking time: duration of visual attention.\n\nInfants cannot explain an answer verbally. Researchers therefore use responses such as looking, reaching or sucking under defined conditions.\n\nA renewed look can indicate discrimination or novelty. It does not by itself reveal a complete adult-like concept. Visual salience and familiarity are alternative explanations to test.",
+      "heard": "Habituation, reduced responding with repeated stimulation. Dishabituation, renewed responding after a change. Looking time, duration of visual attention. Infants cannot explain an answer verbally. Researchers therefore use responses such as looking, reaching, or sucking under defined conditions. A renewed look can indicate discrimination or novelty. It does not by itself reveal a complete adult-like concept. Visual salience and familiarity are alternative explanations to test.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "e2c7cb876fb3bd60b428c5f0dcc5734d79da867c1bf6f55e2823cc04c5b0027f"
+    },
+    {
+      "id": "c03s04",
+      "expected": "Joint attention: sharing attention toward something. Contingent response: response related to a preceding signal. Individual variation: differences among developmental paths.\n\nInfants learn through perception, movement and interaction with caregivers. Shared attention can support learning about objects and words.\n\nDevelopmental milestones describe useful patterns of change, with variation. A casual observation is not a developmental assessment. Persistent concerns are a reason to seek appropriate professional advice.",
+      "heard": "Joint attention, sharing attention toward something. Contingent response, response related to a preceding signal. Individual variation, differences among developmental paths. Infants learn through perception, movement, and interaction with caregivers. Shared attention can support learning about objects and words. Developmental milestones describe useful patterns of change with variation. A casual observation is not a developmental assessment. Persistent concerns are a reason to seek appropriate professional advice.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "96c9e3ed0e7d3a4f022543b2c8673c85b1f89662c8607512b5d6768eff1c34fa"
+    },
+    {
+      "id": "c03s05",
+      "expected": "Infant methods provide valuable evidence when comparison events control low-level differences and results replicate. Different measures can produce different developmental estimates.\n\nThe fictional toy event does not demonstrate a universal timetable, intelligence score or diagnosis.",
+      "heard": "Infant methods provide valuable evidence when comparison events control low-level differences and results replicate. Different measures can produce different developmental estimates. The fictional toy event does not demonstrate a universal timetable, intelligence score, or diagnosis.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "e9c81b8bb10f1e6f075655fdc4a73f8f14a2a4c49416c951d558790b2af18262"
+    },
+    {
+      "id": "c03s06-feedback-2",
+      "expected": "Controlled looking comparisons can still support bounded inferences.",
+      "heard": "controlled-looking comparisons can still support bounded inferences.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "28c318609e11b0eecafa289b9ba5310e07c2332e9997753c27bf83acabc77e70"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Schema: organized understanding of a situation. Assimilation: interpreting experience using an existing schema. Accommodation: changing a schema to fit experience.\n\nPiaget described children as actively constructing understanding. New experiences can fit an existing way of thinking or require revising it.\n\nHis broad stages remain historically influential, but performance also varies with task wording, experience and support. Do not use a stage label as a complete account of a particular child.",
+      "heard": "Schema organized understanding of a situation. Assimilation, interpreting experience using an existing schema. Accommodation, changing a schema to fit experience. Piaget described children as actively constructing understanding. New experiences can fit an existing way of thinking or require revising it. His broad stages remain historically influential, but performance also varies with task wording, experience and support. Do not use a stage label as a complete account of a particular child.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "2105d5ce6ddfd75367e2cc65bfb60e8061fc5f8637262bdee903e54531b9c4c5"
+    },
+    {
+      "id": "c04s04",
+      "expected": "Receptive language: understanding communicated language. Expressive language: producing communicated language. Bilingual development: development involving more than one language.\n\nUnderstanding and producing words are different demands. Vocabulary in each language depends on exposure and context; a single-language count can miss knowledge expressed elsewhere.\n\nInvite clear, responsive communication rather than judging ability from one conversation. Concerns about development require culturally and linguistically appropriate assessment.",
+      "heard": "Receptive language, understanding communicated language. Expressive language, producing communicated language. Bilingual development, development involving more than one language. Understanding and producing words are different demands. Vocabulary in each language depends on exposure and context. A single language count can miss knowledge expressed elsewhere. Invite clear, responsive communication rather than judging ability from one conversation. Concerns about development require culturally and linguistically appropriate assessment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "67aca02ba85d72c7d8e85f024f0691bb65fccf802343edd7193cbebe8d3e0cd4"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Secure base: a caregiver relationship supporting exploration. Safe haven: comfort sought when distressed.\n\nAttachment theory concerns how relationships support safety and exploration, particularly under stress. Staying close in an unfamiliar room can have several explanations.\n\nA short café visit cannot classify a child or caregiver. Researchers use structured procedures and consider the relationship and context being measured.",
+      "heard": "Secure Base, a caregiver relationship supporting exploration. Safe Haven, comfort sought when distressed. Attachment Theory concerns how relationships support safety and exploration, particularly under stress. Staying close in an unfamiliar room can have several explanations. A short cafe visit cannot classify a child or caregiver. Researchers use structured procedures and consider the relationship and context being measured.",
+      "ratio": 0.9825,
+      "model": "small.en",
+      "raw_sha256": "9aab31ae1e26a5fb7a2d7c35aa0a75da75ceaf0cc4c46489d603bc74f62d366b"
+    },
+    {
+      "id": "c05s03b",
+      "expected": "Attachment pattern: observed relationship-related organization. Caregiving sensitivity: noticing and responding appropriately to signals.\n\nTemperament and attachment address different questions. A child may react strongly to noise without having an insecure relationship.\n\nAttachment classifications summarize behavior in specified circumstances. They are not moral ratings, permanent personality types or diagnoses from a single behavior.",
+      "heard": "Attachment pattern observed relationship-related organization. Caregiving sensitivity, noticing and responding appropriately to signals. Temperament and attachment address different questions. A child may react strongly to noise without having an insecure relationship. Attachment classifications summarize behavior in specified circumstances. They are not moral ratings, permanent personality types, or diagnoses from a single behavior.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 29.78,
+      "wpm": 111.7,
+      "peak": 0.4781494140625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "f5be3f2555a432dcefc0c6b89afa942bc8caf8c67277b7b803b5a7822a8e8cd7"
+    },
+    {
+      "id": "c05s04",
+      "expected": "Responsiveness: appropriate response to another’s signals. Continuity: persistence across time. Change: variation in later relationship experience.\n\nResponsive care matters, but caregiving occurs within work, health, housing and cultural conditions. Children can form attachments with more than one caregiver.\n\nEarly patterns can be associated with later outcomes without determining them. Later relationships and changing circumstances also contribute to development.",
+      "heard": "Responsiveness, appropriate response to another's signals. Continuity, persistence across time. Change, variation in later relationship experience. Responsive care matters, but caregiving occurs within work, health, housing, and cultural conditions. Children can form attachments with more than one caregiver. Early patterns can be associated with later outcomes without determining them. Later relationships and changing circumstances also contribute to development.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "6c53ec4f40794b6895960f634d94023f4bac6e90cbc64f0365f7f0e4baaec503"
+    },
+    {
+      "id": "c05s05",
+      "expected": "Attachment evidence uses relationship-specific measures and longitudinal comparisons. Cultural practices, measurement and stress conditions affect interpretation.\n\nEarly associations with later outcomes are probabilistic. They do not show that one behavior identifies a permanent attachment style or parental fault.",
+      "heard": "Attachment evidence uses relationship-specific measures and longitudinal comparisons. Cultural practices, measurement and stress conditions affect interpretation. Early associations with later outcomes are probabilistic. They do not show that one behavior identifies a permanent attachment style or parental fault.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "f6838bcf956fbabc139fa6746ae31e3b764e9c5ede76e85de1eb6cabe8cd4bc3"
+    },
+    {
+      "id": "c05s06-feedback-0",
+      "expected": "Temperament and relationship security are distinct questions.",
+      "heard": "Temperament and relationship security are distinct questions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "9c8d11ea874fd5b802be380da288f8e184fa0a991e1319af69f78938d754c091"
+    },
+    {
+      "id": "c05s06-feedback-1",
+      "expected": "Reactivity does not uniquely identify attachment security.",
+      "heard": "Reactivity does not uniquely identify attachment security.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "b3df7e055f5dc7d5974631b766bfc7cc981ccee3e78a537e21c4af69452e5560"
+    },
+    {
+      "id": "c05s06-feedback-2",
+      "expected": "This overgeneralizes one relationship and occasion.",
+      "heard": "This overgeneralizes one relationship and occasion.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "b78fd2949f66c7f1a259613cd6b3383038662445bbcdbcee1850b0060a9310c2"
+    },
+    {
+      "id": "c06s02-feedback-0",
+      "expected": "The contrasting settings offer testable contextual explanations.",
+      "heard": "The contrasting settings offer testable contextual explanations.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "6ec5bf78a9441e7ff8771239639d4d8b820b9c0b510c072181a57d4e7d754585"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Microsystem: immediate setting and relationships. Mesosystem: connections between immediate settings.\n\nAn ecological approach examines the child in family, school, peer and community settings. Links between those settings can influence experience.\n\nA quiet response at the café may reflect unfamiliar language, relationships or task expectations. A parenting explanation is one possible account, not a finding established by the observation.",
+      "heard": "microsystem, immediate setting and relationships, mesosystem, connections between immediate settings. An ecological approach examines the child in family, school, peer, and community settings. Links between those settings can influence experience. A quiet response at the cafe may reflect unfamiliar language, relationships, or task expectations. A parenting explanation is one possible account, not a finding established by the observation.",
+      "ratio": 0.9828,
+      "model": "small.en",
+      "raw_sha256": "eba5cc60630bc93bdeb6f82d31c4853b6fc9d876c2e11a0216addf9251f029ca"
+    },
+    {
+      "id": "c06s03b",
+      "expected": "Bidirectional influence: each participant affects the other. Selection effect: people enter different environments. Confounding: another factor contributes to an association.\n\nChildren affect adult responses while adults shape children’s opportunities. Family stress, resources and individual characteristics may influence both.\n\nA correlation between a parenting measure and behavior does not isolate a one-way cause. Stronger designs examine alternative explanations and change over time.",
+      "heard": "Bidirectional influence, each participant affects the other. Selection effect, people enter different environments. Confounding, another factor contributes to an association. Children affect adult responses while adults shape children's opportunities. Family stress, resources, and individual characteristics may influence both. A correlation between a parenting measure and behavior does not isolate a one-way cause. Stronger designs examine alternative explanations and change over time.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "cdaa2dfee176c7d1b00bdf97653eb139b449380b691d2e9f1ca03931ae1d75f2"
+    },
+    {
+      "id": "c06s05",
+      "expected": "Ecological models organize possible influences; drawing a map does not prove every proposed causal arrow. Observational associations need careful interpretation.\n\nCulture, resources and structural constraints qualify comparisons of family practices. One preferred family style is not a universal explanation of outcomes.",
+      "heard": "Ecological models organize possible influences. Drawing a map does not prove every proposed causal arrow. Observational associations need careful interpretation. Culture, resources, and structural constraints qualify comparisons of family practices. One preferred family style is not a universal explanation of outcomes.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "819f6979abfe8572a48beeda68755dc6abfd96ff8aaaac87d653500326e48027"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "expected": "The comparison suggests conditions worth testing without fixing the cause.",
+      "heard": "The comparison suggests conditions worth testing without fixing the cause.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "a74244db6e6d915d5df7155eb20f491195a6b62e1095b26ecb8022834422bd62"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Self-regulation: regulating attention, emotion and action.\n\nPuberty and adolescence are related but not identical. Physical development, opportunities and social expectations can change on different schedules.\n\nAdolescents often show sophisticated reasoning. Decision quality varies with experience, arousal, incentives and social context. Average developmental patterns do not determine an individual’s competence.",
+      "heard": "Self-regulation, regulating attention, emotion, and action. Puberty and adolescence are related but not identical. Physical development, opportunities, and social expectations can change on different schedules. Adolescents often show sophisticated reasoning. Decision quality varies with experience, arousal, incentives, and social context. Average developmental patterns do not determine an individual's competence.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "c21b6c89132ff0b067dd3a5be95322fe3c85dd37e1827838fb73a44c39063b8d"
+    },
+    {
+      "id": "c07s05",
+      "expected": "Adolescent studies examine selected tasks, populations and social conditions. Laboratory risk-taking is not identical to every real-world decision.\n\nDevelopmental evidence can inform support while preserving individual assessment and agency. A brain-development headline cannot establish incapacity.",
+      "heard": "Adolescent studies examine selected tasks, populations, and social conditions. Laboratory risk-taking is not identical to every real-world decision. Developmental evidence can inform support while preserving individual assessment and agency. A brain development headline cannot establish incapacity.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "1acea118470f7eb3984b6d856eff63655ade59d5f612aafc31b378b5150132b4"
+    },
+    {
+      "id": "c07s07-answers",
+      "expected": "Puberty concerns biological maturation; adolescence includes broader social and psychological transitions.\n\nIndividuals and task demands vary, and the measure does not uniquely establish decision capacity.",
+      "heard": "Puberty concerns biological maturation. Adolescence includes broader social and psychological transitions. Individuals and task demands vary, and the measure does not uniquely establish decision capacity.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "f9c7bd0ca95027974c33bd894cb5928f2c807fc1fd3c4245a34ebb43da0160e0"
+    },
+    {
+      "id": "c08s02-feedback-1",
+      "expected": "Adult lives include meaningful change and continuity.",
+      "heard": "Adult lives include meaningful change and continuity.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "4517b362020a4f1305d4e9e2813800eb6555ab64c86a69fbf28865e099947ba3"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Social clock: cultural expectations about timing. Life transition: change in roles or circumstances. Life course: a trajectory embedded in history and society.\n\nEducation, work, partnership and caring roles occur in different orders and at different times. Norms about timing depend on social conditions and culture.\n\nA transition can offer opportunities and strain. Being unusual relative to a local expectation is not evidence of developmental failure.",
+      "heard": "social clock, cultural expectations about timing, life transition, change in roles or circumstances, life course, a trajectory embedded in history and society. Education, work, partnership and caring roles occur in different orders and at different times. Norms about timing depend on social conditions and culture. A transition can offer opportunities and strain. Being unusual relative to a local expectation is not evidence of developmental failure.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "0a78de5f15ad36cc441b9ae10419c15f8a39a48b1ffa34082f5a6cc04f821d78"
+    },
+    {
+      "id": "c08s06-feedback-2",
+      "expected": "Choosing a goal illustrates selection rather than compensation.",
+      "heard": "Choosing a goal illustrates selection rather than compensation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "47d8459d3d48cf936fdd0d272e455da3b9e39c632ec512d7c22967353cbb1804"
+    },
+    {
+      "id": "c09s02-feedback-0",
+      "expected": "A diagnosis requires appropriate clinical assessment.",
+      "heard": "A diagnosis requires appropriate clinical assessment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "9e03b8e6744e8e0f69759cd18c3ffaff207db9c9684f9fbf79a37729810b20c4"
+    },
+    {
+      "id": "c09s03",
+      "expected": "Fluid abilities: reasoning with relatively novel information. Crystallized abilities: accumulated knowledge and skills. Processing speed: speed of specified cognitive operations.\n\nSome average cognitive measures change earlier or more strongly than others. Accumulated knowledge can remain useful while speed on unfamiliar tasks changes.\n\nEducation, health, sensory access and experience influence performance. A broad age trend cannot diagnose Pat or predict every skill.",
+      "heard": "fluid abilities, reasoning with relatively novel information, crystallized abilities, accumulated knowledge and skills, processing speed, speed of specified cognitive operations. Some average cognitive measures change earlier or more strongly than others. Accumulated knowledge can remain useful while speed on unfamiliar tasks changes. Education, health, sensory access and experience influence performance. A broad age trend cannot diagnose, pat, or predict every skill.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "b2ae9042d9ba51c466360cf6dd3ce5d4cc8c1dcf14c122540090110de1eca7a0"
+    },
+    {
+      "id": "c09s03b",
+      "expected": "Sensory access: ability to receive task information. Compensatory aid: tool supporting a limited route. Within-person change: difference from an individual’s earlier performance.\n\nSmall print, hearing difficulty and unfamiliar controls can raise task demands. An accessible display and written sequence may improve performance immediately.\n\nPersistent or concerning changes in memory or daily functioning deserve qualified assessment. Ordinary mistakes alone do not establish a neurocognitive disorder.",
+      "heard": "Sensory access, ability to receive task information, compensatory aid, tools supporting a limited route, within person change, difference from an individual's earlier performance. Small print, hearing difficulty, and unfamiliar controls can raise task demands. An accessible display and written sequence may improve performance immediately. Persistent or concerning changes in memory or daily functioning deserve qualified assessment. Ordinary mistakes alone do not establish a neurocognitive disorder.",
+      "ratio": 0.9846,
+      "model": "small.en",
+      "raw_sha256": "0bc2103885eb06cef4e8a7a8433cd65dafb7cd4e14f1b8607ec0f3a27081ad32"
+    },
+    {
+      "id": "c09s04",
+      "expected": "Ageism: stereotyping or discrimination based on age. Social participation: involvement in relationships and activities. Heterogeneity: substantial variation within a group.\n\nLater life includes wide variation in health, resources, relationships and preferences. Exclusion can remove opportunities to practise and contribute.\n\nInvite Pat to choose useful support rather than assuming either inability or unlimited resilience. A respectful response combines agency with attention to actual needs.",
+      "heard": "ageism, stereotyping or discrimination based on age, social participation, involvement in relationships and activities, heterogeneity, substantial variation within a group. Later life includes wide variation in health, resources, relationships and preferences. Exclusion can remove opportunities to practice and contribute. Invite Pat to choose useful support rather than assuming either in ability or unlimited resilience. A respectful response combines agency with attention to actual needs.",
+      "ratio": 0.9606,
+      "model": "small.en",
+      "raw_sha256": "8712c7a2507d4e6d1a03bb5d3b58ea7f2d22f5644958b8699e083e1403ddafe1"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Ageing research distinguishes population trends from within-person trajectories and clinical conditions. Sensory access, cohort differences and selective participation complicate comparisons.\n\nA course cannot evaluate a person’s cognition. The fictional menu task provides no diagnostic evidence.",
+      "heard": "Aging research distinguishes population trends from within-person trajectories and clinical conditions. Sensory access, cohort differences, and selective participation complicate comparisons. A course cannot evaluate a person's cognition. The fictional menu task provides no diagnostic evidence.",
+      "ratio": 0.9722,
+      "model": "small.en",
+      "raw_sha256": "0ee9aec2aff13c14ae0e41b5375b0bcb0d771434686c13ce8c49af4f293643f2"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Continuity: persistence in a developmental pattern. Discontinuity: a qualitative change in a pattern. Transactional account: person and environment influence each other over time.\n\nA developmental explanation asks what changed, for whom, in which setting and over what period. Stable patterns can coexist with change in particular skills.\n\nThe same workshop outcome can reflect prior experience, access, relationships and instruction. Explain the proposed mechanism instead of substituting an age label.",
+      "heard": "Continuity, persistence in a developmental pattern. Discontinuity, a qualitative change in a pattern. Transactional account, person and environment influence each other over time. A developmental explanation asks what changed, for whom, in which setting, and over what period. Stable patterns can coexist with change in particular skills. The same workshop outcome can reflect prior experience, access, relationships, and instruction. Explain the proposed mechanism instead of substituting an age label.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "raw_sha256": "48066063a3572f1f3f2fa70b131717525fc497593723aebebb487efca899fb27"
+    }
+  ]
+}
